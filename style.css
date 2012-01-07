@@ -1,0 +1,56 @@
+html {
+    height: 100%
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    border-spacing: 20px;
+    table-layout: fixed;
+}
+
+#content {
+    height: 100%;
+    width: 100%;
+}
+
+#header {
+    height: 40px;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(229, 227, 223);
+    font-size: 30px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#nav-bar {
+    width: 200px;
+    float: left;
+}
+
+#map-canvas {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(229, 227, 223);
+    float: right;
+    overflow-x: hidden;
+    overflow-y:hidden;
+}
+
+#footer {
+    height: 75px;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(229, 227, 223);
+    clear: both;
+}
+
+#popup-content table {
+    border-spacing: 5px;
+    table-layout: auto;
+}

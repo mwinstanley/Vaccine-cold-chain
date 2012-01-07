@@ -1,0 +1,828 @@
+Facility Code,District,Facility Name,Facility Type,Net Storage (Litres): Actual,Net Storage (Litres): Required,Net Storage (Litres): Difference,Surplus: >30%,Surplus: 10-30%,Match: +/- 10%,Shortage: 10-30%,Shortage: >30%
+1000-0000,CENTRAL,DOWA HOSPITAL,District hospital - MoH,129,16.27,112.73,1,0,0,0,0
+1000-0001,CENTRAL,DOWA DHO VACCINE STORE,District vaccine store,120,206,-86,0,0,0,0,1
+1000-0002,CENTRAL,MSAKAMBEWA,Health centre - MoH,55,10.48,44.52,1,0,0,0,0
+1000-0003,CENTRAL,CHIBANZI HEALTH POST,Health post - MoH,0,3.62,-3.62,0,0,0,0,1
+1000-0004,CENTRAL,CHAKHAZA,Health centre - MoH,0,8.95,-8.95,0,0,0,0,1
+1000-0005,CENTRAL,BOWE,Health centre - MoH,85,10.22,74.78,1,0,0,0,0
+1000-0006,CENTRAL,CHINKHWILI,Health centre - MoH,55,8.02,46.98,1,0,0,0,0
+1000-0007,CENTRAL,MADISI,Hospital - CHAM,129,14.5,114.5,1,0,0,0,0
+1000-0008,CENTRAL,KASESE,Health centre - Private,24,8.77,15.23,1,0,0,0,0
+1000-0009,CENTRAL,KACHIGAMBA HEALTH POST,Health post - MoH,0,2.85,-2.85,0,0,0,0,1
+1000-0010,CENTRAL,CHIZOLOWONDO,Health centre - MoH,55,7.69,47.31,1,0,0,0,0
+1000-0011,CENTRAL,MONDWE,Health post - MoH,0,0.77,-0.77,0,0,0,0,1
+1000-0012,CENTRAL,MBINGWA,Health centre - MoH,17.5,6.69,10.81,1,0,0,0,0
+1000-0013,CENTRAL,CHISEPO,Health centre - MoH,85,9.08,75.92,1,0,0,0,0
+1000-0014,CENTRAL,KAYEMBE,Health centre - MoH,85,5.11,79.89,1,0,0,0,0
+1000-0015,CENTRAL,NAMBUMA HEALTH POST,Health post - MoH,0,5.79,-5.79,0,0,0,0,1
+1000-0016,CENTRAL,DZOOLE,Health centre - MoH,55,15.67,39.33,1,0,0,0,0
+1000-0017,CENTRAL,MPONERA RURAL HOSPITAL,Rural hospital - MoH,105,19.55,85.45,1,0,0,0,0
+1000-0018,CENTRAL,MTENGOWANTHENGA,Community hospital - CHAM,18,17.75,0.25,0,0,1,0,0
+1000-0019,CENTRAL,DZALEKA,Health centre - MoH,55,13.61,41.39,1,0,0,0,0
+1000-0020,CENTRAL,CHEZI,Health centre - Private,55,9.81,45.19,1,0,0,0,0
+1000-0021,CENTRAL,CHANKHUNGU,Health centre - MoH,0,6.45,-6.45,0,0,0,0,1
+1000-0022,CENTRAL,THONJE,Health centre - MoH,55,6.51,48.49,1,0,0,0,0
+1000-0023,CENTRAL,MVERA ARMY,Dispensary - MoH,55,3.97,51.03,1,0,0,0,0
+1000-0024,CENTRAL,MVERA MISSION,Health centre - CHAM,76,6.3,69.7,1,0,0,0,0
+1000-0025,CENTRAL,NALUNGA,Health centre - MoH,0,4.1,-4.1,0,0,0,0,1
+1000-0026,CENTRAL,MWANGALA,Health centre - MoH,0,2.88,-2.88,0,0,0,0,1
+1001-0000,CENTRAL,NKHAMENYA,Community hospital - CHAM,130,14.91,115.09,1,0,0,0,0
+1001-0001,CENTRAL,KAMDIDI HEALTH POST,Health post - MoH,0,2,-2,0,0,0,0,1
+1001-0002,CENTRAL,THUPA,Health post - MoH,24,3.03,20.97,1,0,0,0,0
+1001-0003,CENTRAL,MPEPA,Dispensary - MoH,0,4.96,-4.96,0,0,0,0,1
+1001-0004,CENTRAL,NEWA,Health centre - CHAM,18,1.97,16.03,1,0,0,0,0
+1001-0005,CENTRAL,KALULUMA,Rural hospital - MoH,0,11.46,-11.46,0,0,0,0,1
+1001-0006,CENTRAL,CHATOLOMA,Health post - MoH,0,3.79,-3.79,0,0,0,0,1
+1001-0007,CENTRAL,SIMULEMBA,Health centre - MoH,104.5,10.33,94.17,1,0,0,0,0
+1001-0008,CENTRAL,MANJONDO,Health post - MoH,24,1.5,22.5,1,0,0,0,0
+1001-0009,CENTRAL,OFFESI,Dispensary - MoH,0,4.96,-4.96,0,0,0,0,1
+1001-0010,CENTRAL,CHULU,Health centre - MoH,74.5,12.38,62.12,1,0,0,0,0
+1001-0011,CENTRAL,MPHOMWA,Health post - MoH,24,1.68,22.32,1,0,0,0,0
+1001-0012,CENTRAL,DWANGWA,Dispensary - MoH,24,7.6,16.4,1,0,0,0,0
+1001-0013,CENTRAL,ESTATE 81,Health centre - Private,55,2.48,52.52,1,0,0,0,0
+1001-0014,CENTRAL,GOGODE,Dispensary - MoH,55,5.71,49.29,1,0,0,0,0
+1001-0015,CENTRAL,SANTHE,Health centre - MoH,60,11.41,48.59,1,0,0,0,0
+1001-0016,CENTRAL,MKHOTA,Health centre - MoH,105,8.07,96.93,1,0,0,0,0
+1001-0017,CENTRAL,KHOLA,Health centre - MoH,130,13.16,116.84,1,0,0,0,0
+1001-0018,CENTRAL,CHIZINGA,Health centre - Private,75,1.66,73.34,1,0,0,0,0
+1001-0019,CENTRAL,KAWAMBA,Health centre - MoH,55,8.54,46.46,1,0,0,0,0
+1001-0020,CENTRAL,KAMBONI,Health centre - MoH,0,9.58,-9.58,0,0,0,0,1
+1001-0021,CENTRAL,LINYANGWA,Health centre - MoH,17,8.45,8.55,1,0,0,0,0
+1001-0022,CENTRAL,MZIZA,Health centre - CHAM,18,5.94,12.06,1,0,0,0,0
+1001-0023,CENTRAL,BUA,Health centre - MoH,75,10.82,64.18,1,0,0,0,0
+1001-0024,CENTRAL,MDUNGA,Health centre - MoH,24,6.26,17.74,1,0,0,0,0
+1001-0025,CENTRAL,KAPELURA,Health centre - MoH,17,8.07,8.93,1,0,0,0,0
+1001-0026,CENTRAL,KAPICHILA HEALTH POST,Health post - MoH,55,3.28,51.72,1,0,0,0,0
+1001-0027,CENTRAL,KAPYANGA,Health post - MoH,17,5.39,11.61,1,0,0,0,0
+1001-0028,CENTRAL,KASIYA,Health post - MoH,41.5,1.51,39.99,1,0,0,0,0
+1001-0029,CENTRAL,LIVWEZI,Health post - MoH,24,5.35,18.65,1,0,0,0,0
+1001-0030,CENTRAL,ESTATE 17,Health centre - Private,55,0.9,54.1,1,0,0,0,0
+1001-0031,CENTRAL,ST ANDREWS,Community hospital - CHAM,0,0.33,-0.33,0,0,0,0,1
+1001-0032,CENTRAL,MTUNTHAMA,Health centre - MoH,60,12.52,47.48,1,0,0,0,0
+1001-0033,CENTRAL,CHAMWABVI,Health centre - MoH,0,9.63,-9.63,0,0,0,0,1
+1001-0034,CENTRAL,MITULA HEALTH POST,Health post - MoH,24,0.87,23.13,1,0,0,0,0
+1001-0035,CENTRAL,LOJWA,Dispensary - MoH,24,2.53,21.47,1,0,0,0,0
+1001-0036,CENTRAL,KASUNGU DISTRICT HOSPITAL,District hospital - MoH,75,37.56,37.44,1,0,0,0,0
+1001-0037,CENTRAL,WIMBE,Health centre - MoH,17,23.17,-6.17,0,0,0,1,0
+1001-0038,CENTRAL,CHAMAMA,Health post - MoH,18,6.99,11.01,1,0,0,0,0
+1001-0039,CENTRAL,KASUNGU DISTRICT VACCINE STORE,District vaccine store,105,227.19,-122.19,0,0,0,0,1
+1002-0000,CENTRAL,Mtosa Heath Centre,Health centre - MoH,15.5,4.64,10.86,1,0,0,0,0
+1002-0001,CENTRAL,Alinafe Community Hospita,Community hospital - CHAM,24,7.77,16.23,1,0,0,0,0
+1002-0002,CENTRAL,Benga Health Centre,Health centre - MoH,39.5,5.94,33.56,1,0,0,0,0
+1002-0003,CENTRAL,Mwansambo Health Centre,Health centre - MoH,165,8.94,156.06,1,0,0,0,0
+1002-0004,CENTRAL,Malowa Health Centre,Health centre - MoH,17,5.43,11.57,1,0,0,0,0
+1002-0005,CENTRAL,Kapiri Health Centre,Health centre - CHAM,24,11.08,12.92,1,0,0,0,0
+1002-0006,CENTRAL,Chididi Health Centre,Health centre - CHAM,24,4.87,19.13,1,0,0,0,0
+1002-0007,CENTRAL,Mpamantha Dispensary,Dispensary - MoH,24,5.81,18.19,1,0,0,0,0
+1002-0008,CENTRAL,ST Annes Mission Hospital,Hospital - CHAM,55,2.2,52.8,1,0,0,0,0
+1002-0009,CENTRAL,Bua Health Centre,Health centre - MoH,160,4.76,155.24,1,0,0,0,0
+1002-0010,CENTRAL,Msenjere Health Centre,Health centre - MoH,55,5.22,49.78,1,0,0,0,0
+1002-0011,CENTRAL,Katimbira Health centre,Health centre - MoH,24,3.68,20.32,1,0,0,0,0
+1002-0012,CENTRAL,Liwaladzi Health Cente,Health centre - MoH,55,5.45,49.55,1,0,0,0,0
+1002-0013,CENTRAL,Dwambadzi Rural Hospital,Rural hospital - MoH,60,5.34,54.66,1,0,0,0,0
+1002-0014,CENTRAL,Kasitu Cham Health Centre,Health centre - CHAM,24,4.03,19.97,1,0,0,0,0
+1002-0015,CENTRAL,Ngala Health Centre,Health centre - MoH,24,5.37,18.63,1,0,0,0,0
+1002-0016,CENTRAL,Kaongozi Health Centre,Health centre - MoH,24,3.75,20.25,1,0,0,0,0
+1002-0017,CENTRAL,Nkhunga Health Centre,Health centre - MoH,60,10.35,49.65,1,0,0,0,0
+1002-0018,CENTRAL,Matiki Health Centre Dwangwa,Health centre - MoH,160,6.94,153.06,1,0,0,0,0
+1002-0019,CENTRAL,Lupachi Health Post,Health post - MoH,24,2.88,21.12,1,0,0,0,0
+1002-0020,CENTRAL,Nkhotakota District Hospital,District hospital - MoH,105,23.67,81.33,1,0,0,0,0
+1002-0021,CENTRAL,Dwangwa Cane growers Clinic,Health centre - Private,24,2.65,21.35,1,0,0,0,0
+1002-0022,CENTRAL,Nkhotakota District Hospital Vaccine Store,District vaccine store,379.5,107.48,272.02,1,0,0,0,0
+1003-0000,CENTRAL,Ntchisi District Hospital,District hospital - MoH,60,16.34,43.66,1,0,0,0,0
+1003-0001,CENTRAL,Ntchisi District Vaccine Store,District vaccine store,75,78.59,-3.59,0,0,1,0,0
+1003-0002,CENTRAL,Sambakusi Health Centre,Health centre - MoH,55,1.23,53.77,1,0,0,0,0
+1003-0003,CENTRAL,Malomo Health Centre,Health centre - MoH,55,15.03,39.97,1,0,0,0,0
+1003-0004,CENTRAL,Chinguluwe Health Centre,Health centre - MoH,17,7.74,9.26,1,0,0,0,0
+1003-0005,CENTRAL,Mzandu Health Centre,Health centre - MoH,55,6.01,48.99,1,0,0,0,0
+1003-0006,CENTRAL,Chinthembwe Health Centre,Health centre - CHAM,24,4.37,19.63,1,0,0,0,0
+1003-0007,CENTRAL,Kangolwa Health Centre,Health centre - MoH,85,5.3,79.7,1,0,0,0,0
+1003-0008,CENTRAL,Nthondo Health Centre,Health centre - MoH,0,6.88,-6.88,0,0,0,0,1
+1003-0009,CENTRAL,Mndinda Dispensary,Dispensary - MoH,36,2.58,33.42,1,0,0,0,0
+1003-0010,CENTRAL,Khuwi Health Centre,Health centre - MoH,24,8.6,15.4,1,0,0,0,0
+1003-0011,CENTRAL,Kamsonga Health Centre,Health centre - MoH,18,6.17,11.83,1,0,0,0,0
+1003-0012,CENTRAL,Malambo Health Centre,Health centre - CHAM,18,2.94,15.06,1,0,0,0,0
+1003-0013,CENTRAL,Mkuzi Health Centre,Health centre - MoH,17,6.01,10.99,1,0,0,0,0
+1004-0000,CENTRAL,SALIMA HOSPITAL,District hospital - MoH,75,19.73,55.27,1,0,0,0,0
+1004-0001,CENTRAL,SALIMA DISTRICT VACCINE STORE,District vaccine store,115,130.61,-15.61,0,0,0,1,0
+1004-0002,CENTRAL,CHITALA HEALTH CENTRE,Health centre - CHAM,24,3.55,20.45,1,0,0,0,0
+1004-0003,CENTRAL,KAPHATENGA HEALTH CENTRE,Health centre - CHAM,75,7.59,67.41,1,0,0,0,0
+1004-0004,CENTRAL,CHINGULUWE HEALTH CENTRE,Health centre - MoH,0,4.67,-4.67,0,0,0,0,1
+1004-0005,CENTRAL,KATAWA HEALTH CENTRE,Health centre - Private,79,2.83,76.17,1,0,0,0,0
+1004-0006,CENTRAL,KHOMBEZA HEALTH CENTRE,Health centre - MoH,76,18.09,57.91,1,0,0,0,0
+1004-0007,CENTRAL,MAKIYONI HEALTH CENTRE,Health centre - MoH,24,8.06,15.94,1,0,0,0,0
+1004-0008,CENTRAL,THAVITE HEALTH CENTRE,Health centre - MoH,55,8.03,46.97,1,0,0,0,0
+1004-0009,CENTRAL,SALIMA ADMARC CLINIC,Dispensary - MoH,55,8.69,46.31,1,0,0,0,0
+1004-0010,CENTRAL,BLM CLINIC,Health centre - Private,110,0.66,109.34,1,0,0,0,0
+1004-0011,CENTRAL,BAPTIST MEDICAL CLINIC,Health centre - CHAM,184,5.02,178.98,1,0,0,0,0
+1004-0012,CENTRAL,LIFUWU HEALTH CENTRE,Health centre - MoH,55,5.1,49.9,1,0,0,0,0
+1004-0013,CENTRAL,MAFCO CAMP HOSPITAL,Hospital - Private,55,1.98,53.02,1,0,0,0,0
+1004-0014,CENTRAL,PARACHUTE CLINIC,Hospital - Private,55,0.71,54.29,1,0,0,0,0
+1004-0015,CENTRAL,MAGANGA HEALTH CENTRE,Health centre - MoH,0,11.51,-11.51,0,0,0,0,1
+1004-0016,CENTRAL,CHAGUNDA HEALTH CENTRE,Health centre - MoH,0,5.02,-5.02,0,0,0,0,1
+1004-0017,CENTRAL,MCHOKA HEALTH CENTRE,Health centre - MoH,91,9.46,81.54,1,0,0,0,0
+1004-0018,CENTRAL,CHIPOKA HEALTH CENTRE,Health centre - MoH,79,9.21,69.79,1,0,0,0,0
+1004-0019,CENTRAL,NGODZI HEALTH CENTRE,Health centre - CHAM,0,3.17,-3.17,0,0,0,0,1
+1004-0020,CENTRAL,LIFELINE HEALTH CENTRE,Health centre - Private,24,2.57,21.43,1,0,0,0,0
+1004-0021,CENTRAL,MAKHO HEALTH POST,Health post - MoH,24,0.62,23.38,1,0,0,0,0
+1005-0001,CENTRAL,MAONDE HEALTH CENTRE,Health centre - MoH,55,5.73,49.27,1,0,0,0,0
+1005-0002,CENTRAL,MPHATI HEALTH CENTRE,Health centre - MoH,55,3.52,51.48,1,0,0,0,0
+1005-0003,CENTRAL,CHIMOTO HEALTH CENTRE,Health centre - MoH,55,10.52,44.48,1,0,0,0,0
+1005-0004,CENTRAL,MIKONDE HEALTH CENTRE,Health centre - CHAM,55,5.95,49.05,1,0,0,0,0
+1005-0005,CENTRAL,MATUMBA HEALTH CENTRE,Health centre - CHAM,79,11.59,67.41,1,0,0,0,0
+1005-0006,CENTRAL,CHITOWE,Health centre - MoH,110,10.37,99.63,1,0,0,0,0
+1005-0007,CENTRAL,MBEZA HEALTH CENTRE,Health centre - MoH,42,4.31,37.69,1,0,0,0,0
+1005-0008,CENTRAL,KANYEZI HEALTH CENTRE,Health centre - MoH,55,9.08,45.92,1,0,0,0,0
+1005-0009,CENTRAL,KAFERE HEALTH CENTRE,Health centre - MoH,109,3.56,105.44,1,0,0,0,0
+1005-0010,CENTRAL,LOBI HEALTH CENTRE,Health centre - MoH,131,6.49,124.51,1,0,0,0,0
+1005-0011,CENTRAL,MTAKATAKA,Health centre - MoH,24,6.89,17.11,1,0,0,0,0
+1005-0012,CENTRAL,NAKALAZI HEALTH CENTRE,Health centre - CHAM,17,6.11,10.89,1,0,0,0,0
+1005-0013,CENTRAL,MUA HEALTH CENTRE,Community hospital - CHAM,105,6.82,98.18,1,0,0,0,0
+1005-0014,CENTRAL,KAUNDU HEALTHCENTRE,Health centre - CHAM,0,6.91,-6.91,0,0,0,0,1
+1005-0015,CENTRAL,MGANJA HEALTH CENTRE,Health centre - MoH,48,1.65,46.35,1,0,0,0,0
+1005-0016,CENTRAL,GOLOMOTI HEALTH CENTRE,Health centre - MoH,79,8.95,70.05,1,0,0,0,0
+1005-0017,CENTRAL,BEMBEKE HEALTH CENTRE,Health centre - CHAM,84,9.19,74.81,1,0,0,0,0
+1005-0018,CENTRAL,KASINA HEALTH CENTRE,Health centre - CHAM,76,8.85,67.15,1,0,0,0,0
+1005-0019,CENTRAL,TSOYO HEALTH CENTRE,Health centre - MoH,79,6.91,72.09,1,0,0,0,0
+1005-0020,CENTRAL,KALULU HEALTH CENTRE,Health centre - MoH,0,3.58,-3.58,0,0,0,0,1
+1005-0021,CENTRAL,MAYANI HEALTH CENTRE,Health centre - MoH,76,9.44,66.56,1,0,0,0,0
+1005-0022,CENTRAL,KALULU,Health centre - MoH,85,3.58,81.42,1,0,0,0,0
+1005-0023,CENTRAL,CHIPHWAYA HEALTH CENTRE,Health centre - CHAM,55,4.05,50.95,1,0,0,0,0
+1005-0024,CENTRAL,MTINI HEALTH CENTRE,Health centre - MoH,17,5.94,11.06,1,0,0,0,0
+1005-0025,CENTRAL,KAPHUKA HEALTH CENTRE,Health centre - MoH,55,11.71,43.29,1,0,0,0,0
+1005-0026,CENTRAL,DZINDEVU HEALTH CENTRE,Health centre - MoH,0,9.6,-9.6,0,0,0,0,1
+1005-0027,CENTRAL,CHIKUSE,Health centre - MoH,85,9.21,75.79,1,0,0,0,0
+1005-0028,CENTRAL,KANYAMA HEALTH CENTRE,Health centre - CHAM,55,0.9,54.1,1,0,0,0,0
+1005-0029,CENTRAL,CHINGONI,Health centre - MoH,24,7.21,16.79,1,0,0,0,0
+1005-0030,CENTRAL,MLANGALI HEALTH CENTRE,Health centre - MoH,55,5.74,49.26,1,0,0,0,0
+1005-0031,CENTRAL,MPHUNZI HEALTH,Health centre - CHAM,55,6.3,48.7,1,0,0,0,0
+1005-0032,CENTRAL,MTENDERE HEALTH CENTRE,Community hospital - CHAM,55,20.9,34.1,1,0,0,0,0
+1005-0033,CENTRAL,DEDZA HEALTH CENTRE,District vaccine store,289,215.39,73.61,1,0,0,0,0
+1005-0034,CENTRAL,DEDZA HEALTH CENTRE,District hospital - MoH,55,11.03,43.97,1,0,0,0,0
+1006-0000,CENTRAL,Lilongwe DHO,District vaccine store,225,675.58,-450.58,0,0,0,0,1
+1006-0001,CENTRAL,Bwaila Rural Hospital,Rural hospital - MoH,131,43.82,87.18,1,0,0,0,0
+1006-0002,CENTRAL,Kawale Health Centre,Health centre - MoH,76,86.67,-10.67,0,0,0,1,0
+1006-0003,CENTRAL,Kamuzu Barracks,Health centre - MoH,55,1.84,53.16,1,0,0,0,0
+1006-0004,CENTRAL,New State House,Health centre - MoH,110,3.15,106.85,1,0,0,0,0
+1006-0005,CENTRAL,Kangoma Health Centre,Health centre - MoH,55,7.22,47.78,1,0,0,0,0
+1006-0006,CENTRAL,Muloza Seventh Day Adventist,Health centre - CHAM,55,5.96,49.04,1,0,0,0,0
+1006-0007,CENTRAL,Achikondi Women Community Drindly Services,Health centre - Private,0,8.78,-8.78,0,0,0,0,1
+1006-0008,CENTRAL,Likuni Hospital,Hospital - CHAM,220,18.5,201.5,1,0,0,0,0
+1006-0009,CENTRAL,Nkhalango Private Clinic,Health centre - Private,55,1.14,53.86,1,0,0,0,0
+1006-0010,CENTRAL,Area 18 Health Centre,Health centre - MoH,186,63.52,122.48,1,0,0,0,0
+1006-0011,CENTRAL,Area 30 Police Dispensary,Dispensary - MoH,55,1.23,53.77,1,0,0,0,0
+1006-0012,CENTRAL,Area 25 Health Centre,Health centre - MoH,115,7.85,107.15,1,0,0,0,0
+1006-0013,CENTRAL,Chiwamba Health Centre,Health centre - MoH,55,24.57,30.43,1,0,0,0,0
+1006-0014,CENTRAL,Lumbadzi Health Centre,Health centre - MoH,130,27.08,102.92,1,0,0,0,0
+1006-0015,CENTRAL,Mbangombe,Health centre - MoH,85,5.41,79.59,1,0,0,0,0
+1006-0016,CENTRAL,Nambuma Parish,Community hospital - CHAM,55,2.85,52.15,1,0,0,0,0
+1006-0017,CENTRAL,Ngoni Health Centre,Health centre - MoH,55,11.61,43.39,1,0,0,0,0
+1006-0018,CENTRAL,Ukwe Health Centre,Health centre - MoH,24,11.82,12.18,1,0,0,0,0
+1006-0019,CENTRAL,Nsanama Health Post,Health post - MoH,55,11.82,43.18,1,0,0,0,0
+1006-0020,CENTRAL,Nsalu,Health centre - MoH,76,17.46,58.54,1,0,0,0,0
+1006-0021,CENTRAL,Kabudula Community Hospital,Rural hospital - MoH,131,11.87,119.13,1,0,0,0,0
+1006-0022,CENTRAL,Mbabvi Health Centre,Health centre - MoH,55,11.32,43.68,1,0,0,0,0
+1006-0023,CENTRAL,Dzenza Health Centre,Health centre - CHAM,60,9.28,50.72,1,0,0,0,0
+1006-0024,CENTRAL,Daeyang Luke Hospital,Hospital - CHAM,60,14.05,45.95,1,0,0,0,0
+1006-0025,CENTRAL,Lilongwe City Clinic,Dispensary - Local Government,76,275.06,-199.06,0,0,0,0,1
+1006-0026,CENTRAL,SOS Clinic,Health centre - CHAM,55,0.24,54.76,1,0,0,0,0
+1006-0027,CENTRAL,Diamphwe Health Centre,Health centre - MoH,55,5.37,49.63,1,0,0,0,0
+1006-0028,CENTRAL,Mtenthera Health Centre,Health centre - MoH,115,18.5,96.5,1,0,0,0,0
+1006-0029,CENTRAL,Chitekwere Health Post,Health post - MoH,85,3.23,81.77,1,0,0,0,0
+1006-0030,CENTRAL,Chimbalanga Health Centre,Health centre - MoH,0,8.58,-8.58,0,0,0,0,1
+1006-0031,CENTRAL,Nkhoma CCAP Hospital,Hospital - CHAM,90,18.4,71.6,1,0,0,0,0
+1006-0032,CENTRAL,Matapila Health Centre,Health centre - MoH,55,8.91,46.09,1,0,0,0,0
+1006-0033,CENTRAL,Nanthenje Health Centre,Health centre - MoH,165,20.62,144.38,1,0,0,0,0
+1006-0034,CENTRAL,Chanza Health Centre,Health centre - MoH,55,15.68,39.32,1,0,0,0,0
+1006-0035,CENTRAL,Maluwa Health Centre,Health centre - MoH,24,7.74,16.26,1,0,0,0,0
+1006-0036,CENTRAL,Kachale Health Centre,Health centre - MoH,55,6.98,48.02,1,0,0,0,0
+1006-0037,CENTRAL,Bunda College Health Centre,Health centre - MoH,160,1.62,158.38,1,0,0,0,0
+1006-0038,CENTRAL,Mkwinda Health Post,Health post - MoH,37.5,9.58,27.92,1,0,0,0,0
+1006-0039,CENTRAL,mlale Rural Hospital,Hospital - CHAM,60,15.53,44.47,1,0,0,0,0
+1006-0040,CENTRAL,Mitundu Rural Hospital,Rural hospital - MoH,220,39.47,180.53,1,0,0,0,0
+1006-0041,CENTRAL,Kambanizinthe Health Post,Health post - MoH,0,4.57,-4.57,0,0,0,0,1
+1006-0042,CENTRAL,Chiunjiza Health Centre,Health centre - MoH,55,12.38,42.62,1,0,0,0,0
+1006-0043,CENTRAL,Dickson Health Centre,Health centre - MoH,0,14.04,-14.04,0,0,0,0,1
+1006-0044,CENTRAL,Mikolongwe Health Centre,Health centre - CHAM,105,23.58,81.42,1,0,0,0,0
+1006-0045,CENTRAL,Ndaula,Health centre - MoH,55,11.19,43.81,1,0,0,0,0
+1006-0046,CENTRAL,Mbang'ombe 2,Health centre - MoH,55,6.98,48.02,1,0,0,0,0
+1006-0047,CENTRAL,Ming'ongo,Health centre - MoH,0,8.21,-8.21,0,0,0,0,1
+1006-0048,CENTRAL,Nthondo,Health centre - MoH,0,13.65,-13.65,0,0,0,0,1
+1006-0049,CENTRAL,Gabriel Mission Hospital,Hospital - CHAM,79,5.41,73.59,1,0,0,0,0
+1006-0050,CENTRAL,Chileka,Health centre - MoH,165,11.13,153.87,1,0,0,0,0
+1006-0051,CENTRAL,Mbwatalika,Health centre - CHAM,55,5.33,49.67,1,0,0,0,0
+1006-0052,CENTRAL,Chitedze,Health centre - MoH,115,17.97,97.03,1,0,0,0,0
+1006-0053,CENTRAL,Lemwe,Health centre - MoH,24,6.82,17.18,1,0,0,0,0
+1006-0054,CENTRAL,Chilobwe,Health centre - MoH,55,3.26,51.74,1,0,0,0,0
+1006-0055,CENTRAL,Khongoni,Health centre - MoH,79,9.07,69.93,1,0,0,0,0
+1006-0056,CENTRAL,Malembo,Health centre - MoH,24,8.79,15.21,1,0,0,0,0
+1006-0057,CENTRAL,Chikowa,Health centre - MoH,55,20.13,34.87,1,0,0,0,0
+1006-0058,CENTRAL,Chiwe,Health centre - CHAM,55,4.7,50.3,1,0,0,0,0
+1006-0059,CENTRAL,Chimwala Clinic,Health centre - CHAM,60,10.75,49.25,1,0,0,0,0
+1006-0060,CENTRAL,African Bible College,Hospital - CHAM,55,2.4,52.6,1,0,0,0,0
+1006-0061,CENTRAL,Dr David Livingstone Memorial Private Clinic,Health centre - Private,55,1.12,53.88,1,0,0,0,0
+1006-0062,CENTRAL,Kamuzu Central hospital,Central hospital - MoH,24,14.75,9.25,1,0,0,0,0
+1006-0063,CENTRAL,National Vaccine Store,National vaccine store,17402.76667,12268.5,5134.266667,1,0,0,0,0
+1006-0064,CENTRAL,Central Regional Vaccine Store,Regional vaccine store,1242.5,5790.69,-4548.19,0,0,0,0,1
+1007-0000,CENTRAL,Kaigwazanga Health Centre,Health centre - MoH,79,8.27,70.73,1,0,0,0,0
+1007-0001,CENTRAL,Mphanga Health Post,Health post - MoH,24,1.64,22.36,1,0,0,0,0
+1007-0002,CENTRAL,Kazila Health Post,Health post - MoH,24,3.13,20.87,1,0,0,0,0
+1007-0003,CENTRAL,Mikundi Health Centre,Health centre - MoH,55,18.13,36.87,1,0,0,0,0
+1007-0004,CENTRAL,Gumba Dispensary,Dispensary - MoH,85,4.46,80.54,1,0,0,0,0
+1007-0005,CENTRAL,Peter Health Post,Health post - MoH,24,0.5,23.5,1,0,0,0,0
+1007-0006,CENTRAL,Kazyozyo Dispensary,Dispensary - MoH,109,5.35,103.65,1,0,0,0,0
+1007-0007,CENTRAL,Mchinji District Vaccine Store,District vaccine store,75,162.46,-87.46,0,0,0,0,1
+1007-0008,CENTRAL,Nkhwazi Health Centre,Health centre - MoH,17,15.82,1.18,0,0,1,0,0
+1007-0009,CENTRAL,Mchinji District Hospital,District hospital - MoH,105,17.35,87.65,1,0,0,0,0
+1007-0010,CENTRAL,Tsekwe Health Post,Health post - MoH,0,1.95,-1.95,0,0,0,0,1
+1007-0011,CENTRAL,Tembwe Health Centre,Health centre - MoH,231.5,12.56,218.94,1,0,0,0,0
+1007-0012,CENTRAL,Ludzi Community Hospital,Community hospital - CHAM,24,10,14,1,0,0,0,0
+1007-0013,CENTRAL,Mkanda Health Centre,Health centre - MoH,55,14.93,40.07,1,0,0,0,0
+1007-0014,CENTRAL,Chimwankango Dispensary,Dispensary - MoH,24,3.23,20.77,1,0,0,0,0
+1007-0015,CENTRAL,Chipumi Health Centre,Health centre - MoH,55,8.25,46.75,1,0,0,0,0
+1007-0016,CENTRAL,Kapiri Our Lady of Mount Carmel Community Hospital,Community hospital - CHAM,55,16.77,38.23,1,0,0,0,0
+1007-0017,CENTRAL,Chioshya Health Centre,Health centre - MoH,55,9.25,45.75,1,0,0,0,0
+1007-0018,CENTRAL,Kochilira Rural Hospital,Rural hospital - MoH,0,13.28,-13.28,0,0,0,0,1
+1007-0019,CENTRAL,St Michael Guillem Community Hospital,Community hospital - CHAM,130,5.05,124.95,1,0,0,0,0
+1007-0020,CENTRAL,Kapanga Health Centre,Health centre - MoH,17,13.85,3.15,0,1,0,0,0
+1007-0021,CENTRAL,Waliranji Health Post,Health post - MoH,24,0.81,23.19,1,0,0,0,0
+1008-0000,CENTRAL,Ntcheu Hospital,District hospital - MoH,55,11.79,43.21,1,0,0,0,0
+1008-0001,CENTRAL,Chiole Health Centre,Health centre - CHAM,24,2.06,21.94,1,0,0,0,0
+1008-0002,CENTRAL,Dzonzi Mvai Dispensary,Dispensary - MoH,55,1.56,53.44,1,0,0,0,0
+1008-0003,CENTRAL,Nsipe Health Centre,Health centre - CHAM,105,7.06,97.94,1,0,0,0,0
+1008-0004,CENTRAL,Dzunje Health Centre,Health centre - MoH,0,10.67,-10.67,0,0,0,0,1
+1008-0005,CENTRAL,Chikande Health Centre,Health centre - MoH,24,5.49,18.51,1,0,0,0,0
+1008-0006,CENTRAL,Bilira Health Centre,Health centre - MoH,85,15.38,69.62,1,0,0,0,0
+1008-0007,CENTRAL,Bwanje Health Centre,Health centre - MoH,24,9.3,14.7,1,0,0,0,0
+1008-0008,CENTRAL,Champiti Health Centre,Health centre - MoH,24,3.86,20.14,1,0,0,0,0
+1008-0009,CENTRAL,Kapeni Health Centre,Health centre - MoH,55,4.07,50.93,1,0,0,0,0
+1008-0010,CENTRAL,Phanga Health Centre,Health centre - MoH,24,1.18,22.82,1,0,0,0,0
+1008-0011,CENTRAL,Manjawira Health Centre,Health centre - MoH,24,2.08,21.92,1,0,0,0,0
+1008-0012,CENTRAL,Sister Tereza Community Hospital,Community hospital - CHAM,24,1.69,22.31,1,0,0,0,0
+1008-0013,CENTRAL,Senzani Health Centre,Health centre - CHAM,55,4.49,50.51,1,0,0,0,0
+1008-0014,CENTRAL,Machereza Health Post,Health post - MoH,0,2.26,-2.26,0,0,0,0,1
+1008-0015,CENTRAL,Namisu Health Centre,Health centre - MoH,55,1.68,53.32,1,0,0,0,0
+1008-0016,CENTRAL,Likudzi Health Post,Health post - MoH,18,0.49,17.51,1,0,0,0,0
+1008-0017,CENTRAL,Nzama Health Centre,Health centre - CHAM,79,3.81,75.19,1,0,0,0,0
+1008-0018,CENTRAL,Nsiyaludzu Health Centre,Health centre - MoH,60,9.88,50.12,1,0,0,0,0
+1008-0019,CENTRAL,Katsekera Health Centre,Health centre - MoH,55,5.41,49.59,1,0,0,0,0
+1008-0020,CENTRAL,Doviko Health Centre,Health centre - MoH,24,2.63,21.37,1,0,0,0,0
+1008-0021,CENTRAL,Matanda Health Centre,Health centre - CHAM,24,2.51,21.49,1,0,0,0,0
+1008-0022,CENTRAL,Kampanje Health Centre,Health centre - MoH,55,3.27,51.73,1,0,0,0,0
+1008-0023,CENTRAL,Kandeu Health Centre,Health centre - MoH,55,6.84,48.16,1,0,0,0,0
+1008-0024,CENTRAL,Gowa Health Centre,Health centre - CHAM,55,4.31,50.69,1,0,0,0,0
+1008-0025,CENTRAL,Muluma Health Centre,Health centre - CHAM,24,1.85,22.15,1,0,0,0,0
+1008-0026,CENTRAL,Mphepozinayi Dispensary,Dispensary - MoH,55,9.04,45.96,1,0,0,0,0
+1008-0027,CENTRAL,Masasa Dispensary,Dispensary - MoH,55,2.24,52.76,1,0,0,0,0
+1008-0028,CENTRAL,Mlanda Health Centre,Health centre - CHAM,55,2.73,52.27,1,0,0,0,0
+1008-0029,CENTRAL,Shapevally Health Centre,Health centre - CHAM,55,8.36,46.64,1,0,0,0,0
+1008-0030,CENTRAL,Luzulu Health Centre,Health centre - MoH,60,6.99,53.01,1,0,0,0,0
+1008-0031,CENTRAL,Lake View Health Centre,Health centre - CHAM,17,2.53,14.47,1,0,0,0,0
+1008-0032,CENTRAL,Mlangeni Health Centre,Health centre - MoH,24,2.45,21.55,1,0,0,0,0
+1008-0033,CENTRAL,Ntcheu District vaccine Store,District vaccine store,105,165.59,-60.59,0,0,0,0,1
+1008-0034,CENTRAL,Tsangano Health Centre,Health centre - CHAM,55,8.47,46.53,1,0,0,0,0
+1008-0035,CENTRAL,Biriwiri Health Centre,Health centre - MoH,55,3.96,51.04,1,0,0,0,0
+1008-0036,CENTRAL,Chigodi Health Centre,Health centre - CHAM,110,3.84,106.16,1,0,0,0,0
+1008-0037,CENTRAL,Kasinje Health Centre,Health centre - MoH,55,17.51,37.49,1,0,0,0,0
+1008-0038,CENTRAL,Ntonda Community Hospital,Community hospital - CHAM,55,3.64,51.36,1,0,0,0,0
+1009-0002,NORTH,Chambo,Health centre - CHAM,18,5.12,12.88,1,0,0,0,0
+1009-0003,NORTH,Wenya,Health centre - MoH,24,4.27,19.73,1,0,0,0,0
+1009-0004,NORTH,Kavukuku,Health post - MoH,18.2,1.14,17.06,1,0,0,0,0
+1009-0005,NORTH,Mahowe,Health post - MoH,18.2,0.78,17.42,1,0,0,0,0
+1009-0006,NORTH,Kopakopa,Health post - MoH,55,1.04,53.96,1,0,0,0,0
+1009-0007,NORTH,Nthalire,Health centre - MoH,55,10.46,44.54,1,0,0,0,0
+1009-0008,NORTH,Therere,Health post - MoH,37.5,0.81,36.69,1,0,0,0,0
+1009-0009,NORTH,Kameme,Health centre - MoH,18,7.53,10.47,1,0,0,0,0
+1009-0010,NORTH,Ipula,Health post - MoH,55,0.36,54.64,1,0,0,0,0
+1009-0011,NORTH,Ipenza,Health post - MoH,55,1.15,53.85,1,0,0,0,0
+1009-0012,NORTH,Titi,Health post - MoH,55,1.16,53.84,1,0,0,0,0
+1009-0013,NORTH,Nkhanile,Health post - MoH,55,0.61,54.39,1,0,0,0,0
+1009-0014,NORTH,Kasisi,Health post - MoH,37.5,0.73,36.77,1,0,0,0,0
+1009-0015,NORTH,Nkhangwa,Health post - MoH,55,0.78,54.22,1,0,0,0,0
+1009-0016,NORTH,Bupighu,Health post - MoH,55,1.32,53.68,1,0,0,0,0
+1009-0017,NORTH,Kapenda,Health centre - MoH,55,6.7,48.3,1,0,0,0,0
+1009-0018,NORTH,Ifumbo,Health centre - MoH,0,2.49,-2.49,0,0,0,0,1
+1009-0019,NORTH,Kaseye,Community hospital - CHAM,0,5.3,-5.3,0,0,0,0,1
+1009-0020,NORTH,Sokola,Health post - MoH,0,0.56,-0.56,0,0,0,0,1
+1009-0021,NORTH,Musumbe,Health post - MoH,0,0.59,-0.59,0,0,0,0,1
+1009-0022,NORTH,Itulo,Health post - MoH,55,0.43,54.57,1,0,0,0,0
+1009-0023,NORTH,Misuku,Health centre - MoH,45,9.09,35.91,1,0,0,0,0
+1009-0024,NORTH,Kapoka,Health post - MoH,37.5,0.99,36.51,1,0,0,0,0
+1009-0025,NORTH,Chisenga,Health post - MoH,24,0.79,23.21,1,0,0,0,0
+1009-0026,NORTH,Chitipa District Vaccine Store,District vaccine store,120,63.72,56.28,1,0,0,0,0
+1009-0027,NORTH,Chitipa District Hospital,District hospital - MoH,55,17.43,37.57,1,0,0,0,0
+1010-0000,NORTH,Karonga District Hospital,District hospital - MoH,37.5,13.54,23.96,1,0,0,0,0
+1010-0001,NORTH,Karonga District Vaccine Store,District vaccine store,192.5,95.55,96.95,1,0,0,0,0
+1010-0002,NORTH,Wiliro,Health centre - MoH,75,2.57,72.43,1,0,0,0,0
+1010-0003,NORTH,Vilaule,Health post - MoH,0,0.71,-0.71,0,0,0,0,1
+1010-0004,NORTH,Mpata,Health centre - MoH,55,1.19,53.81,1,0,0,0,0
+1010-0005,NORTH,Lupembe,Health centre - MoH,0,3.72,-3.72,0,0,0,0,1
+1010-0006,NORTH,Mlare,Health centre - MoH,55,4.16,50.84,1,0,0,0,0
+1010-0007,NORTH,Nyungwe,Health centre - MoH,75,5.78,69.22,1,0,0,0,0
+1010-0008,NORTH,Wovwe Scheme,Health post - MoH,0,2.44,-2.44,0,0,0,0,1
+1010-0009,NORTH,Tilora,Health post - MoH,0,5.07,-5.07,0,0,0,0,1
+1010-0010,NORTH,Chilumba Garrison,Health centre - Private,0,1.6,-1.6,0,0,0,0,1
+1010-0011,NORTH,St Annes,Health centre - CHAM,55,2.09,52.91,1,0,0,0,0
+1010-0012,NORTH,Chilumba Rural Hospital,Rural hospital - MoH,75,6.45,68.55,1,0,0,0,0
+1010-0013,NORTH,Kasoba,Health centre - MoH,0,7.75,-7.75,0,0,0,0,1
+1010-0014,NORTH,Lupaso,Health post - MoH,0,2.33,-2.33,0,0,0,0,1
+1010-0015,NORTH,Kaporo,Rural hospital - MoH,76,16.99,59.01,1,0,0,0,0
+1010-0016,NORTH,Chikutu,Health post - MoH,55,1.48,53.52,1,0,0,0,0
+1010-0017,NORTH,Atupele,Community hospital - CHAM,0,0.77,-0.77,0,0,0,0,1
+1010-0018,NORTH,Iponga,Health centre - MoH,0,6.82,-6.82,0,0,0,0,1
+1010-0019,NORTH,Songwe Border,Health post - MoH,0,1.72,-1.72,0,0,0,0,1
+1010-0020,NORTH,Ngana,Health centre - MoH,0,1.21,-1.21,0,0,0,0,1
+1010-0021,NORTH,Fulirwa,Health centre - MoH,85,14.29,70.71,1,0,0,0,0
+1010-0022,NORTH,Hara,Health centre - MoH,0,3.09,-3.09,0,0,0,0,1
+1010-0023,NORTH,Sangilo,Health centre - CHAM,0,3.84,-3.84,0,0,0,0,1
+1010-0024,NORTH,Lwezga,Health centre - CHAM,0,0.88,-0.88,0,0,0,0,1
+1011-0000,NORTH,St Peters Hospital,Hospital - CHAM,165,2.48,162.52,1,0,0,0,0
+1011-0001,NORTH,Chizumulu Health Centre,Health centre - MoH,24,1.05,22.95,1,0,0,0,0
+1012-0000,NORTH,Regional Vaccine Store,Regional vaccine store,1305,1801.47,-496.47,0,0,0,1,0
+1012-0004,NORTH,St Jonns Hospital,Hospital - CHAM,105,13.31,91.69,1,0,0,0,0
+1012-0005,NORTH,Banja La Mtsogolo mzuzu,Health centre - Private,24,19.66,4.34,0,1,0,0,0
+1012-0006,NORTH,Mzuzu Central Hospital,Central hospital - MoH,0,19.66,-19.66,0,0,0,0,1
+1012-0007,NORTH,MASM MZUZU,Health centre - Private,24,3.02,20.98,1,0,0,0,0
+1012-0008,NORTH,EKWENDENI Mission Hospital,Hospital - CHAM,131,19.31,111.69,1,0,0,0,0
+1012-0009,NORTH,Nkholongo Health Centre,Health centre - CHAM,0,3.48,-3.48,0,0,0,0,1
+1012-0010,NORTH,Choma He Centrealth,Health centre - MoH,0,3.17,-3.17,0,0,0,0,1
+1012-0011,NORTH,Ekwaiweni Dispensary,Health centre - MoH,0,2.82,-2.82,0,0,0,0,1
+1012-0012,NORTH,Matuli Health centre,Health centre - MoH,0,3.58,-3.58,0,0,0,0,1
+1012-0013,NORTH,Emsizini Heaqlth Centre,Health centre - MoH,17,3.13,13.87,1,0,0,0,0
+1012-0014,NORTH,Mtwalo Health Centre,Health centre - MoH,24,3.86,20.14,1,0,0,0,0
+1012-0015,NORTH,Njuyu Health Centre,Health centre - MoH,85,5.84,79.16,1,0,0,0,0
+1012-0016,NORTH,Kafukule Health Centre,Health centre - MoH,60,4.29,55.71,1,0,0,0,0
+1012-0017,NORTH,Luvwere Health Centre,Health centre - MoH,0,2.4,-2.4,0,0,0,0,1
+1012-0018,NORTH,Mpherembe Health Centre,Health centre - MoH,37.5,10.57,26.93,1,0,0,0,0
+1012-0019,NORTH,Kabwafu health Centre,Health centre - MoH,17,4.03,12.97,1,0,0,0,0
+1012-0020,NORTH,Malidadi Health Centre,Health centre - MoH,0,5.06,-5.06,0,0,0,0,1
+1012-0021,NORTH,Thunduwike Health Centre,Health centre - MoH,0,6.94,-6.94,0,0,0,0,1
+1012-0022,NORTH,Enguthwini Health Centre,Health centre - MoH,24,5.81,18.19,1,0,0,0,0
+1012-0023,NORTH,Kamwe Health Centre,Health centre - MoH,85,5.86,79.14,1,0,0,0,0
+1012-0024,NORTH,Khuyo Clinic,Health post - MoH,24,4.96,19.04,1,0,0,0,0
+1012-0025,NORTH,Bwengu Health Centre,Health centre - MoH,55,4.51,50.49,1,0,0,0,0
+1012-0026,NORTH,Luzi Health Centre,Health centre - MoH,24,2.36,21.64,1,0,0,0,0
+1012-0027,NORTH,Enukwenu HEALTH Centre,Health centre - MoH,105,6.37,98.63,1,0,0,0,0
+1012-0028,NORTH,Mzuzu City Assembly Clinic,Health post - MoH,160,49.16,110.84,1,0,0,0,0
+1012-0029,NORTH,KHUYUKUYU Health Centre,Health centre - MoH,105,2.26,102.74,1,0,0,0,0
+1012-0030,NORTH,Lusangazi Dispensary,Dispensary - MoH,105,1.75,103.25,1,0,0,0,0
+1012-0031,NORTH,Mzuzu Police Dispensary,Dispensary - Local Government,24,0.41,23.59,1,0,0,0,0
+1012-0032,NORTH,Moyale Health Centre,Health centre - Private,55,1.47,53.53,1,0,0,0,0
+1012-0033,NORTH,Mzuzu Healthy Centre,Health centre - MoH,60,4.84,55.16,1,0,0,0,0
+1012-0034,NORTH,Mzimba North DHO Vaccine Store,District vaccine store,60,127.18,-67.18,0,0,0,0,1
+1013-0000,NORTH,Endindeni,Health centre - MoH,0,7.73,-7.73,0,0,0,0,1
+1013-0001,NORTH,Edingeni,Health centre - MoH,37.5,4.95,32.55,1,0,0,0,0
+1013-0002,NORTH,Mzalangwe,Health centre - MoH,0,4.93,-4.93,0,0,0,0,1
+1013-0003,NORTH,Madede,Health centre - MoH,24,4.76,19.24,1,0,0,0,0
+1013-0004,NORTH,Bulala,Health centre - MoH,0,12.07,-12.07,0,0,0,0,1
+1013-0005,NORTH,Hoho,Health centre - MoH,24,3.68,20.32,1,0,0,0,0
+1013-0006,NORTH,Katete,Health centre - CHAM,55,5.58,49.42,1,0,0,0,0
+1013-0007,NORTH,Manyamula,Health centre - MoH,18.2,8.71,9.49,1,0,0,0,0
+1013-0008,NORTH,Mabiri,Health centre - CHAM,0,6.8,-6.8,0,0,0,0,1
+1013-0009,NORTH,Mbarachanda,Health centre - MoH,37.5,5.35,32.15,1,0,0,0,0
+1013-0010,NORTH,Kalikumbi,Health centre - CHAM,24,4.82,19.18,1,0,0,0,0
+1013-0011,NORTH,Luwerezi,Health centre - MoH,85,8.78,76.22,1,0,0,0,0
+1013-0012,NORTH,Mathandani,Health post - MoH,24,4.29,19.71,1,0,0,0,0
+1013-0013,NORTH,Mtende,Health centre - MoH,55,5.83,49.17,1,0,0,0,0
+1013-0014,NORTH,Khosolo,Health centre - MoH,55,6.42,48.58,1,0,0,0,0
+1013-0015,NORTH,Msese,Health centre - MoH,37.5,2.54,34.96,1,0,0,0,0
+1013-0016,NORTH,Vibangalala,Health centre - MoH,24,4.31,19.69,1,0,0,0,0
+1013-0017,NORTH,Emfeni,Health centre - MoH,55,10.13,44.87,1,0,0,0,0
+1013-0018,NORTH,Mkoma,Health centre - MoH,85,10.89,74.11,1,0,0,0,0
+1013-0019,NORTH,Luviri,Health post - MoH,24,3.46,20.54,1,0,0,0,0
+1013-0020,NORTH,Kabuwa,Health centre - MoH,85,1.75,83.25,1,0,0,0,0
+1013-0021,NORTH,Jenda,Health centre - MoH,55,5.32,49.68,1,0,0,0,0
+1013-0022,NORTH,Euthini,Rural hospital - MoH,55,8.69,46.31,1,0,0,0,0
+1013-0023,NORTH,Ehehleni,Health centre - MoH,17,2.53,14.47,1,0,0,0,0
+1013-0024,NORTH,Chikangawa,Health centre - MoH,105,3.19,101.81,1,0,0,0,0
+1013-0025,NORTH,Luwawa,Health centre - MoH,17,1.79,15.21,1,0,0,0,0
+1013-0026,NORTH,Raiply,Health centre - Private,24,3.39,20.61,1,0,0,0,0
+1013-0027,NORTH,Lunjika,Health centre - CHAM,24,4.75,19.25,1,0,0,0,0
+1013-0028,NORTH,Kamuteteka,Health centre - MoH,17,8.03,8.97,1,0,0,0,0
+1013-0029,NORTH,Mzambazi,Community hospital - CHAM,60,6.96,53.04,1,0,0,0,0
+1013-0030,NORTH,Mzimba South Vaccine Store,District vaccine store,420,175.63,244.37,1,0,0,0,0
+1013-0031,NORTH,Embangweni Hospital,Hospital - CHAM,105,11.48,93.52,1,0,0,0,0
+1013-0032,NORTH,Mzimba South District Hospital,District hospital - MoH,55,27.92,27.08,1,0,0,0,0
+1013-0033,NORTH,Phala,Health post - MoH,24,1.84,22.16,1,0,0,0,0
+1013-0034,NORTH,Mhalaunda,Health centre - CHAM,17.5,5.2,12.3,1,0,0,0,0
+1014-0000,NORTH,NKHATA BAY,District vaccine store,181,81.31,99.69,1,0,0,0,0
+1014-0001,NORTH,Nkhata Bay Facility District Hospital,District hospital - MoH,105,14.7,90.3,1,0,0,0,0
+1014-0002,NORTH,Tchesamu,Health centre - MoH,85,1.56,83.44,1,0,0,0,0
+1014-0003,NORTH,Kande Health Centre,Health centre - MoH,24,0.59,23.41,1,0,0,0,0
+1014-0004,NORTH,Liuzi Health Centre,Health centre - MoH,0,4.94,-4.94,0,0,0,0,1
+1014-0005,NORTH,Kachere,Health centre - MoH,105,9.25,95.75,1,0,0,0,0
+1014-0006,NORTH,Tukombo,Health centre - Private,55,2.86,52.14,1,0,0,0,0
+1014-0007,NORTH,Chintheche Rural Hospital,Rural hospital - MoH,55,8.23,46.77,1,0,0,0,0
+1014-0008,NORTH,Kawiya Health Post,Health post - MoH,24,0.49,23.51,1,0,0,0,0
+1014-0009,NORTH,Maula Health Centre,Health centre - MoH,105,7.47,97.53,1,0,0,0,0
+1014-0010,NORTH,Chilembwe Health Centre,Health centre - MoH,85,2.23,82.77,1,0,0,0,0
+1014-0011,NORTH,Vizara Dispensary,Health centre - Private,24,1.17,22.83,1,0,0,0,0
+1014-0012,NORTH,Chitheka Health Centre,Health centre - MoH,0,3.26,-3.26,0,0,0,0,1
+1014-0013,NORTH,Mzenga Health Centre,Health centre - MoH,79,12.86,66.14,1,0,0,0,0
+1014-0014,NORTH,Kavuzi Clinic,Hospital - Private,160,2.89,157.11,1,0,0,0,0
+1014-0015,NORTH,Kawalazi Clinic,Health centre - Private,24,1.16,22.84,1,0,0,0,0
+1014-0016,NORTH,Chisala Health Centre,Health centre - MoH,24,3.47,20.53,1,0,0,0,0
+1014-0017,NORTH,Chipunga Health Post,Health post - MoH,0,1,-1,0,0,0,0,1
+1014-0018,NORTH,Chikwina,Health centre - MoH,0,3.58,-3.58,0,0,0,0,1
+1014-0019,NORTH,Mpamba Health Centre,Health centre - MoH,0,6.99,-6.99,0,0,0,0,1
+1014-0020,NORTH,Chombe Dispensary Private,Hospital - Private,105,1.75,103.25,1,0,0,0,0
+1014-0021,NORTH,Luwawazi Health Centre,Health centre - MoH,17.5,2.15,15.35,1,0,0,0,0
+1014-0022,NORTH,Kavuzi CCAP Clinic,Health centre - Private,0,1.32,-1.32,0,0,0,0,1
+1014-0023,NORTH,Usisya Health Centre,Health centre - MoH,0,1.64,-1.64,0,0,0,0,1
+1014-0024,NORTH,Bula Health Centre,Health centre - MoH,0,2.36,-2.36,0,0,0,0,1
+1014-0025,NORTH,Nthungwa Health Centre,Health centre - MoH,0,1.51,-1.51,0,0,0,0,1
+1014-0026,NORTH,Makumbo,Health post - MoH,0,0.91,-0.91,0,0,0,0,1
+1014-0027,NORTH,Mtawa,Health post - MoH,55,0.35,54.65,1,0,0,0,0
+1014-0028,NORTH,Khondowe,Health centre - MoH,85,0.95,84.05,1,0,0,0,0
+1014-0029,NORTH,Ruarwe,Health centre - MoH,0,0.77,-0.77,0,0,0,0,1
+1015-0000,NORTH,Ng'onga Health Centre,Health centre - MoH,24,3.3,20.7,1,0,0,0,0
+1015-0001,NORTH,Muhuju Rural Hospital,Rural hospital - MoH,0,5.01,-5.01,0,0,0,0,1
+1015-0002,NORTH,Phwezi Private Clinic,Health centre - Private,24,1.25,22.75,1,0,0,0,0
+1015-0003,NORTH,Nzokoto Health Centre,Health centre - MoH,90,3.34,86.66,1,0,0,0,0
+1015-0004,NORTH,Kasambara Health Centre,Health centre - Private,85,1.91,83.09,1,0,0,0,0
+1015-0005,NORTH,Lura Health Centre,Health centre - MoH,55,2.44,52.56,1,0,0,0,0
+1015-0006,NORTH,Livingstonia Mission Hospital,Hospital - CHAM,55,3.27,51.73,1,0,0,0,0
+1015-0007,NORTH,Luwich Health Centre,Health centre - CHAM,24,1.88,22.12,1,0,0,0,0
+1015-0008,NORTH,Chitimba Health Centre,Health centre - MoH,55,1.77,53.23,1,0,0,0,0
+1015-0009,NORTH,Charo Health Centre,Health centre - CHAM,85,1.09,83.91,1,0,0,0,0
+1015-0010,NORTH,Mphomha Health Centre,Health centre - MoH,24,2.89,21.11,1,0,0,0,0
+1015-0011,NORTH,Nthenje Health Centre,Health centre - CHAM,0,1.68,-1.68,0,0,0,0,1
+1015-0012,NORTH,Katowo Rural Hospital,Rural hospital - MoH,37.5,3.94,33.56,1,0,0,0,0
+1015-0013,NORTH,Thazima Health Centre,Health centre - MoH,0,0.93,-0.93,0,0,0,0,1
+1015-0014,NORTH,Mwazisi Health Centre,Health centre - MoH,37.5,5.99,31.51,1,0,0,0,0
+1015-0015,NORTH,Bolero Rural Hospital,Rural hospital - MoH,60,14.58,45.42,1,0,0,0,0
+1015-0016,NORTH,St Patricks Health Centre,Health centre - CHAM,24,1.48,22.52,1,0,0,0,0
+1015-0017,NORTH,Mulowe Health Centre,Health centre - CHAM,55,2.4,52.6,1,0,0,0,0
+1015-0018,NORTH,Jalawe Health Centre,Health centre - MoH,24,1.67,22.33,1,0,0,0,0
+1015-0019,NORTH,Zunga Health Centre,Health centre - CHAM,0,0.72,-0.72,0,0,0,0,1
+1015-0020,NORTH,Rumphi District Hospital,District hospital - MoH,105,8.66,96.34,1,0,0,0,0
+1015-0021,NORTH,Rumphi District Vaccine Store,District vaccine store,0,62.5,-62.5,0,0,0,0,1
+1016-0002,SOUTH,Dziwe,Health post - MoH,55,3.5,51.5,1,0,0,0,0
+1016-0003,SOUTH,Utale 2,Health centre - CHAM,24,5.22,18.78,1,0,0,0,0
+1016-0004,SOUTH,Utale 1,Health centre - CHAM,41,5.88,35.12,1,0,0,0,0
+1016-0005,SOUTH,Phimbi,Health centre - MoH,55,7.49,47.51,1,0,0,0,0
+1016-0006,SOUTH,Phalula,Health centre - CHAM,55,7.67,47.33,1,0,0,0,0
+1016-0007,SOUTH,Kankao,Health centre - CHAM,55,8.6,46.4,1,0,0,0,0
+1016-0008,SOUTH,Mbera,Health centre - MoH,76,17.18,58.82,1,0,0,0,0
+1016-0009,SOUTH,Kalembo,Health centre - MoH,55,14.97,40.03,1,0,0,0,0
+1016-0010,SOUTH,BALAKA,District hospital - MoH,105,27.38,77.62,1,0,0,0,0
+1016-0011,SOUTH,BALAKA,District vaccine store,282,122.57,159.43,1,0,0,0,0
+1016-0012,SOUTH,ULONGWE,Health centre - CHAM,76,5.39,70.61,1,0,0,0,0
+1016-0013,SOUTH,NAMANOLO,Health centre - MoH,55,9.83,45.17,1,0,0,0,0
+1016-0014,SOUTH,NANDUMBO,Health centre - MoH,24,4.86,19.14,1,0,0,0,0
+1016-0015,SOUTH,MWIMA,Health post - MoH,55,9.26,45.74,1,0,0,0,0
+1016-0016,SOUTH,kwitanda,Health centre - MoH,24,5.93,18.07,1,0,0,0,0
+1016-0017,SOUTH,Chendausiku,Health centre - MoH,17,4.47,12.53,1,0,0,0,0
+1017-0000,SOUTH,MACHINGA HOSPITAL,District hospital - MoH,109.5,13.61,95.89,1,0,0,0,0
+1017-0001,SOUTH,MACHINGA DISTRICT VACCINE STORE,District vaccine store,45,187.07,-142.07,0,0,0,0,1
+1017-0002,SOUTH,NAMANDANJE PARISH HEALTH CENTRE,Health centre - CHAM,55,6.51,48.49,1,0,0,0,0
+1017-0003,SOUTH,NTAJA,Health centre - MoH,45,13.33,31.67,1,0,0,0,0
+1017-0004,SOUTH,CHAMBA,Health centre - MoH,55,8.47,46.53,1,0,0,0,0
+1017-0005,SOUTH,MPOSA,Health centre - CHAM,55,6.44,48.56,1,0,0,0,0
+1017-0006,SOUTH,MPHETA HEALTH POST,Health post - MoH,17,4.5,12.5,1,0,0,0,0
+1017-0007,SOUTH,GAWANANI HEALTH CENTRE,Health centre - CHAM,17,3.1,13.9,1,0,0,0,0
+1017-0008,SOUTH,NGOKWE HEALTH CENTRE,Health centre - MoH,55,11.63,43.37,1,0,0,0,0
+1017-0009,SOUTH,CHIMBIRA HEALTH POST,Health post - MoH,55,2.63,52.37,1,0,0,0,0
+1017-0010,SOUTH,CHIKWEO HEALTH CENTRE,Health centre - MoH,92.5,25.35,67.15,1,0,0,0,0
+1017-0011,SOUTH,CHIPOLONGA,Health post - MoH,75,9.65,65.35,1,0,0,0,0
+1017-0012,SOUTH,ZUMULU HEALTH POST,Health post - MoH,0,3.93,-3.93,0,0,0,0,1
+1017-0013,SOUTH,MLOMBA HEALTH CENTRE,Health centre - MoH,126.5,5.95,120.55,1,0,0,0,0
+1017-0014,SOUTH,NAINUNJE HEALTH CENTRE,Health centre - MoH,75,6.23,68.77,1,0,0,0,0
+1017-0015,SOUTH,MPIRI HEALTH CENTRE,Health centre - CHAM,55,8.29,46.71,1,0,0,0,0
+1017-0016,SOUTH,CHISUWI HEALTH POST,Health post - MoH,24,5.5,18.5,1,0,0,0,0
+1017-0017,SOUTH,NYAMBI HEALTH CENTRE,Health centre - MoH,165,9.56,155.44,1,0,0,0,0
+1017-0018,SOUTH,MKWEPERE HEALTH CENTRE,Health centre - MoH,110,4.06,105.94,1,0,0,0,0
+1017-0019,SOUTH,MWITIYA HEALTH POST,Health post - MoH,55,1.99,53.01,1,0,0,0,0
+1017-0020,SOUTH,LIFUNE HEALTH CENTRE,Health centre - Private,24,1.68,22.32,1,0,0,0,0
+1017-0021,SOUTH,KAWINGA HEALTH CENTRE,Health centre - MoH,55,8.09,46.91,1,0,0,0,0
+1017-0022,SOUTH,CHITUNDU HEALTH POST,Health post - MoH,24,3.71,20.29,1,0,0,0,0
+1017-0023,SOUTH,NSANAMA HEALTH CENTRE,Health centre - CHAM,112.5,13.02,99.48,1,0,0,0,0
+1017-0024,SOUTH,NAMANJA HEALTH CENTRE,Health centre - MoH,55,10.17,44.83,1,0,0,0,0
+1017-0025,SOUTH,LIKHONYOWA HEALTH POST,Health post - MoH,55,1.68,53.32,1,0,0,0,0
+1017-0026,SOUTH,NAYUCHI HEALTH CENTRE,Health centre - MoH,63,5.05,57.95,1,0,0,0,0
+1017-0027,SOUTH,CHAPUSA HEALTH POST,Health post - MoH,24,2.37,21.63,1,0,0,0,0
+1017-0028,SOUTH,MBANIRA HEALTH POST,Health post - MoH,24,4.23,19.77,1,0,0,0,0
+1017-0029,SOUTH,NTHOLOWA HEALTH CENTRE,Health centre - CHAM,0,3.68,-3.68,0,0,0,0,1
+1017-0030,SOUTH,MBONECHERA DISPENSARY,Dispensary - MoH,0,3.27,-3.27,0,0,0,0,1
+1017-0031,SOUTH,MANGAMBA HEALTH CENTRE,Health centre - MoH,55,7.08,47.92,1,0,0,0,0
+1017-0032,SOUTH,CHIKULUMA HEALTH POST,Health post - MoH,55,1.56,53.44,1,0,0,0,0
+1017-0033,SOUTH,MOLIPA HEALTH POST,Health post - MoH,24,4.44,19.56,1,0,0,0,0
+1017-0034,SOUTH,MACHINGA HEALTH CENTRE,Health centre - MoH,0,5.81,-5.81,0,0,0,0,1
+1018-0000,SOUTH,Mangochi District Vaccine Store,District vaccine store,210,284.14,-74.14,0,0,0,1,0
+1018-0001,SOUTH,MANGOCHI,Health post - MoH,85,4.21,80.79,1,0,0,0,0
+1018-0002,SOUTH,LULANGA,Health centre - CHAM,55,6.39,48.61,1,0,0,0,0
+1018-0003,SOUTH,MAKANJIRA,Health centre - MoH,55,12.32,42.68,1,0,0,0,0
+1018-0004,SOUTH,LUGOLA,Health centre - CHAM,37.5,6.09,31.41,1,0,0,0,0
+1018-0005,SOUTH,KADANGO,Health centre - MoH,55,3.1,51.9,1,0,0,0,0
+1018-0006,SOUTH,NAMALAKA,Health centre - CHAM,55,3.73,51.27,1,0,0,0,0
+1018-0007,SOUTH,LUNGWENA,Health centre - MoH,55,11.76,43.24,1,0,0,0,0
+1018-0008,SOUTH,ST MARTIN,Hospital - CHAM,60,10.82,49.18,1,0,0,0,0
+1018-0009,SOUTH,MASE,Health centre - CHAM,37.5,11.23,26.27,1,0,0,0,0
+1018-0010,SOUTH,MALOMBE,Health centre - MoH,55,6.24,48.76,1,0,0,0,0
+1018-0011,SOUTH,CHIUNDA,Dispensary - MoH,37.5,11.23,26.27,1,0,0,0,0
+1018-0012,SOUTH,MULI BWANJI,Hospital - CHAM,55,2.24,52.76,1,0,0,0,0
+1018-0013,SOUTH,SINYALA,Health centre - MoH,55,6.44,48.56,1,0,0,0,0
+1018-0014,SOUTH,MBALAMA,Health post - MoH,0,6.01,-6.01,0,0,0,0,1
+1018-0015,SOUTH,MKUMBA,Health centre - MoH,55,7.96,47.04,1,0,0,0,0
+1018-0016,SOUTH,NAMANGALAMU,Health centre - MoH,24,8.42,15.58,1,0,0,0,0
+1018-0017,SOUTH,NANCHOLI,Dispensary - MoH,55,5.24,49.76,1,0,0,0,0
+1018-0018,SOUTH,CHIPONDE,Dispensary - MoH,24,4.12,19.88,1,0,0,0,0
+1018-0019,SOUTH,SISTER MARTHA,Health centre - CHAM,0,3.91,-3.91,0,0,0,0,1
+1018-0020,SOUTH,MANGOCHI,District hospital - MoH,55,26.43,28.57,1,0,0,0,0
+1018-0021,SOUTH,NAMWERA,Health centre - MoH,60,5.61,54.39,1,0,0,0,0
+1018-0022,SOUTH,JALASI,Health centre - MoH,55,8.95,46.05,1,0,0,0,0
+1018-0023,SOUTH,IBA,Dispensary - MoH,55,6.79,48.21,1,0,0,0,0
+1018-0024,SOUTH,KUKALANGA,Health centre - MoH,55,11.79,43.21,1,0,0,0,0
+1018-0025,SOUTH,MALETA,Health post - MoH,85,1.22,83.78,1,0,0,0,0
+1018-0026,SOUTH,NGAPANI HEALTH CENTRE PRIVATE,Health centre - Private,24,4.43,19.57,1,0,0,0,0
+1018-0027,SOUTH,KATULI HEALTH CENTRE,Health centre - MoH,24,7.97,16.03,1,0,0,0,0
+1018-0028,SOUTH,LUWALIKA HEALTH CENTRE,Health centre - CHAM,55,6.82,48.18,1,0,0,0,0
+1018-0029,SOUTH,CHIUMBANGAME HEALTH CENTRE,Dispensary - MoH,55,4.02,50.98,1,0,0,0,0
+1018-0030,SOUTH,CHIKOLE HEALTH CENTRE,Health centre - MoH,24,2.94,21.06,1,0,0,0,0
+1018-0031,SOUTH,MWATAKATA HEALTH CENTRE,Health post - MoH,10.5,2.51,7.99,1,0,0,0,0
+1018-0032,SOUTH,NGATALA HEALTH CENTRE,Health post - MoH,0,5.12,-5.12,0,0,0,0,1
+1018-0033,SOUTH,MTIMABI HEALTH CENTRE,Health centre - MoH,37.5,10.4,27.1,1,0,0,0,0
+1018-0034,SOUTH,KATEMA HEALTH CENTRE,Health centre - CHAM,55,10.38,44.62,1,0,0,0,0
+1018-0035,SOUTH,PHILILONGWE HEALTH CENTRE,Health centre - MoH,24,7.3,16.7,1,0,0,0,0
+1018-0036,SOUTH,CHILIPA HEALTH CENTRE,Health centre - MoH,55,11.08,43.92,1,0,0,0,0
+1018-0037,SOUTH,KAPALE,Health centre - CHAM,55,3.18,51.82,1,0,0,0,0
+1018-0038,SOUTH,CHALOPA,Health post - MoH,55,6.59,48.41,1,0,0,0,0
+1018-0039,SOUTH,ASSALAMU HEALTH CENTRE,Health centre - CHAM,55,3.15,51.85,1,0,0,0,0
+1018-0040,SOUTH,NAMIYASI HEALTH CENTRE,Health post - MoH,24,4.43,19.57,1,0,0,0,0
+1018-0041,SOUTH,CHILONGA HEALTH,Dispensary - MoH,0,4.14,-4.14,0,0,0,0,1
+1018-0042,SOUTH,MALEMBO HEALTH CENTRE,Health centre - MoH,24,8.57,15.43,1,0,0,0,0
+1018-0043,SOUTH,NANKHWALI HEALTH CENTRE,Health centre - MoH,55,3.45,51.55,1,0,0,0,0
+1018-0044,SOUTH,NKOPE HEALTH CENTRE,Health centre - CHAM,55,7.92,47.08,1,0,0,0,0
+1018-0045,SOUTH,MONKEYBAY HEALTH CENTRE,Rural hospital - MoH,181,10.62,170.38,1,0,0,0,0
+1018-0046,SOUTH,KOCHE HEALTH CENTRE,Health centre - CHAM,76,13.85,62.15,1,0,0,0,0
+1018-0047,SOUTH,MPONDASI HEALTH CENTRE,Health centre - CHAM,24,6.47,17.53,1,0,0,0,0
+1018-0048,SOUTH,NANKUMBA HEALTH CENTRE,Health centre - MoH,55,8.85,46.15,1,0,0,0,0
+1019-0000,SOUTH,Mulanje District Hospital,District hospital - MoH,24,10.86,13.14,1,0,0,0,0
+1019-0001,SOUTH,Mulanje District Vaccine Store,District vaccine store,105,174.52,-69.52,0,0,0,0,1
+1019-0002,SOUTH,Milonde,Health centre - MoH,55,5.86,49.14,1,0,0,0,0
+1019-0003,SOUTH,Mpala,Health centre - MoH,55,8.56,46.44,1,0,0,0,0
+1019-0004,SOUTH,Mimosa Dispensary,Dispensary - MoH,0,8.77,-8.77,0,0,0,0,1
+1019-0005,SOUTH,Rou Estate Dispensary,Health centre - Private,24,0.58,23.42,1,0,0,0,0
+1019-0006,SOUTH,Namasalima Healt Centre,Health centre - CHAM,18,7.47,10.53,1,0,0,0,0
+1019-0007,SOUTH,Muloza Health Centre,Health centre - MoH,55,15.3,39.7,1,0,0,0,0
+1019-0008,SOUTH,Chisambo Dispensary,Health centre - Private,55,0.55,54.45,1,0,0,0,0
+1019-0009,SOUTH,Naphimba,Health centre - MoH,17,5.83,11.17,1,0,0,0,0
+1019-0010,SOUTH,Lujeri Tea Estate,Health centre - Private,37.5,4.93,32.57,1,0,0,0,0
+1019-0011,SOUTH,Chambe Health Centre,Health centre - MoH,55,15.79,39.21,1,0,0,0,0
+1019-0012,SOUTH,Kambenje Health Centre,Health centre - MoH,129,6.53,122.47,1,0,0,0,0
+1019-0013,SOUTH,Mulomba Mealth Centre,Health centre - MoH,85,7.38,77.62,1,0,0,0,0
+1019-0014,SOUTH,Kamwendo Health Post,Health post - MoH,55,12.34,42.66,1,0,0,0,0
+1019-0015,SOUTH,Nkomaula Health Centre,Health centre - MoH,24,6.49,17.51,1,0,0,0,0
+1019-0016,SOUTH,Namphungo Health Centre,Health centre - MoH,55,12.1,42.9,1,0,0,0,0
+1019-0017,SOUTH,Namulenga Health Centre,Health centre - CHAM,24,3.1,20.9,1,0,0,0,0
+1019-0018,SOUTH,Thuchila Health Centre,Health centre - MoH,55,12.42,42.58,1,0,0,0,0
+1019-0019,SOUTH,Chonde Health Centre,Health centre - MoH,60,15.03,44.97,1,0,0,0,0
+1019-0020,SOUTH,Mbiza Health Centre,Health centre - MoH,24,12.38,11.62,1,0,0,0,0
+1019-0021,SOUTH,Chinyama Health Centre,Health centre - MoH,24,8.02,15.98,1,0,0,0,0
+1019-0022,SOUTH,Dzenje Maternity,Maternity - MoH,24,2.04,21.96,1,0,0,0,0
+1019-0023,SOUTH,Thembe Dispensary,Health centre - CHAM,55,4.81,50.19,1,0,0,0,0
+1019-0024,SOUTH,Mulanje Mission Hospital,Hospital - CHAM,55,17.3,37.7,1,0,0,0,0
+1019-0025,SOUTH,Chisitu Dispensary,Dispensary - MoH,24,0.88,23.12,1,0,0,0,0
+1019-0026,SOUTH,Bondo Health Centre,Health centre - MoH,55,7.83,47.17,1,0,0,0,0
+1020-0000,SOUTH,Phalombe District Hospital,District hospital - MoH,105,9.1,95.9,1,0,0,0,0
+1020-0001,SOUTH,Phalombe DHO Vaccine Store,District vaccine store,210,110.16,99.84,1,0,0,0,0
+1020-0002,SOUTH,Holy Family Hospital,Health centre - CHAM,60,10.3,49.7,1,0,0,0,0
+1020-0003,SOUTH,Sukasanje,Health centre - CHAM,55,3.95,51.05,1,0,0,0,0
+1020-0004,SOUTH,Nkhulambe health Centre,Health centre - MoH,79,6.02,72.98,1,0,0,0,0
+1020-0005,SOUTH,Mulungu Alinafe,Health post - MoH,24,3.47,20.53,1,0,0,0,0
+1020-0006,SOUTH,Nambiti Health Post,Health post - MoH,24,4.25,19.75,1,0,0,0,0
+1020-0007,SOUTH,Chilinga Maternity,Health centre - MoH,24,3.88,20.12,1,0,0,0,0
+1020-0008,SOUTH,Nazombe Health Centre,Health centre - MoH,24,5.96,18.04,1,0,0,0,0
+1020-0009,SOUTH,Nambazo health Centre,Health centre - MoH,60,13.43,46.57,1,0,0,0,0
+1020-0010,SOUTH,Migowi Health Centre,Health centre - MoH,55,7.57,47.43,1,0,0,0,0
+1020-0011,SOUTH,Kalinde Health Centre,Health centre - MoH,85,10.56,74.44,1,0,0,0,0
+1020-0012,SOUTH,Waluma health post,Health post - MoH,0,7.52,-7.52,0,0,0,0,1
+1020-0013,SOUTH,Mpasa Health Centre,Health centre - MoH,55,10.95,44.05,1,0,0,0,0
+1020-0014,SOUTH,Mwanga Health Centre,Health centre - CHAM,63,6.53,56.47,1,0,0,0,0
+1020-0015,SOUTH,Nkhwayi Health Centre,Health centre - MoH,0,10.28,-10.28,0,0,0,0,1
+1020-0016,SOUTH,Chitekesa Health centre,Health centre - MoH,63,11.51,51.49,1,0,0,0,0
+1021-0000,SOUTH,Zomba Central Hospital,Central hospital - MoH,55,20.88,34.12,1,0,0,0,0
+1021-0001,SOUTH,Zomba DHO,District vaccine store,323.5,231.76,91.74,1,0,0,0,0
+1021-0002,SOUTH,Zomba DHO Facility,District hospital - MoH,55,13.48,41.52,1,0,0,0,0
+1021-0003,SOUTH,Cobbe Barracks,Hospital - Private,55,1.74,53.26,1,0,0,0,0
+1021-0004,SOUTH,Mmambo Health Centre,Health centre - MoH,55,6.45,48.55,1,0,0,0,0
+1021-0005,SOUTH,Nkasala Health Centre,Health centre - MoH,160,6.23,153.77,1,0,0,0,0
+1021-0006,SOUTH,Masm Clinic,Health centre - Private,55,0.12,54.88,1,0,0,0,0
+1021-0007,SOUTH,Chilipa Health Centre,Health centre - CHAM,55,4.44,50.56,1,0,0,0,0
+1021-0008,SOUTH,Chipini Health Centre,Health centre - MoH,55,8.34,46.66,1,0,0,0,0
+1021-0009,SOUTH,Chingale Health Centre,Health centre - MoH,55,10.28,44.72,1,0,0,0,0
+1021-0010,SOUTH,Changalume Health Centre,Health centre - MoH,55,1.16,53.84,1,0,0,0,0
+1021-0011,SOUTH,Namikango Maternity,Health centre - CHAM,60,2.17,57.83,1,0,0,0,0
+1021-0012,SOUTH,Lambulira Health Centre,Health centre - MoH,55,10.05,44.95,1,0,0,0,0
+1021-0013,SOUTH,Magomero Health Centre,Health centre - CHAM,17,9.34,7.66,1,0,0,0,0
+1021-0014,SOUTH,Nasawa Health Centre,Health centre - MoH,110,11.54,98.46,1,0,0,0,0
+1021-0015,SOUTH,Mayaka Health Centre,Health centre - MoH,55,18.52,36.48,1,0,0,0,0
+1021-0016,SOUTH,Ngwelero Health Centre,Health centre - MoH,17,10.1,6.9,1,0,0,0,0
+1021-0017,SOUTH,Pilimiti Hospital,Hospital - Private,55,10.95,44.05,1,0,0,0,0
+1021-0018,SOUTH,Likangala Health Centre,Health centre - MoH,55,12.62,42.38,1,0,0,0,0
+1021-0019,SOUTH,Chamba Health Centre,Health centre - MoH,55,8.48,46.52,1,0,0,0,0
+1021-0020,SOUTH,Makwapala Health Centre,Health centre - MoH,37.5,13.12,24.38,1,0,0,0,0
+1021-0021,SOUTH,Bimbi,Health centre - MoH,92.5,8.82,83.68,1,0,0,0,0
+1021-0022,SOUTH,Namasalima,Health centre - MoH,55,5.43,49.57,1,0,0,0,0
+1021-0023,SOUTH,St Lukes,Hospital - CHAM,105,3.9,101.1,1,0,0,0,0
+1021-0024,SOUTH,Machinjiri,Health centre - MoH,55,3.25,51.75,1,0,0,0,0
+1021-0025,SOUTH,Domasi Rural Hospital,Rural hospital - MoH,160,8,152,1,0,0,0,0
+1021-0026,SOUTH,Parker Sharp,Health centre - CHAM,24,3.08,20.92,1,0,0,0,0
+1021-0027,SOUTH,Zomba Police,Hospital - Private,55,2.6,52.4,1,0,0,0,0
+1021-0028,SOUTH,Zomba City Clinic,Health centre - MoH,55,14.49,40.51,1,0,0,0,0
+1021-0029,SOUTH,Chancellor College,Dispensary - Local Government,24,2.08,21.92,1,0,0,0,0
+1021-0030,SOUTH,Zomba Banja La Mtsogolo,Health centre - Private,55,1.66,53.34,1,0,0,0,0
+1021-0031,SOUTH,State House,Dispensary - Local Government,55,0.08,54.92,1,0,0,0,0
+1021-0032,SOUTH,Thondwe,Health centre - MoH,160,18.15,141.85,1,0,0,0,0
+1021-0033,SOUTH,Naisi,Health centre - MoH,55,4.96,50.04,1,0,0,0,0
+1021-0034,SOUTH,Chawe Forest,Health centre - Private,24,0.15,23.85,1,0,0,0,0
+1021-0035,SOUTH,Matiya,Health centre - CHAM,16,11.49,4.51,1,0,0,0,0
+1021-0036,SOUTH,Matawale,Health centre - MoH,105,5.95,99.05,1,0,0,0,0
+1021-0037,SOUTH,Chisi,Health centre - MoH,24,1.4,22.6,1,0,0,0,0
+1021-0038,SOUTH,Chinguma,Health post - MoH,24,0.61,23.39,1,0,0,0,0
+1021-0039,SOUTH,Ngotangota,Health post - MoH,24,0.4,23.6,1,0,0,0,0
+1021-0040,SOUTH,Chisoni,Health post - MoH,24,0.23,23.77,1,0,0,0,0
+1022-0001,SOUTH,South Regional vaccine store,Regional vaccine store,5638.5,6084.87,-446.37,0,0,1,0,0
+1022-0002,SOUTH,CHILOMONI,Health centre - MoH,55,43.4,11.6,0,1,0,0,0
+1022-0003,SOUTH,Mitsidi Health Centre,Health centre - CHAM,24,25.28,-1.28,0,0,1,0,0
+1022-0004,SOUTH,Sanjika dispensary,Dispensary - MoH,24,0.21,23.79,1,0,0,0,0
+1022-0005,SOUTH,Ndirande Health Centre,Health centre - MoH,105,67.15,37.85,1,0,0,0,0
+1022-0006,SOUTH,Soche health centre,Health centre - MoH,60,5.02,54.98,1,0,0,0,0
+1022-0007,SOUTH,Madziabango,Health centre - MoH,24,3.35,20.65,1,0,0,0,0
+1022-0008,SOUTH,St Vincent,Health centre - CHAM,24,4.86,19.14,1,0,0,0,0
+1022-0009,SOUTH,Mpemba,Health centre - MoH,105,18.97,86.03,1,0,0,0,0
+1022-0010,SOUTH,Bangwe,Health centre - MoH,105,68.67,36.33,1,0,0,0,0
+1022-0011,SOUTH,Limbe Health Centre,Health centre - MoH,160,36.42,123.58,1,0,0,0,0
+1022-0012,SOUTH,Chimembe Health Centre,Health centre - MoH,24,6.87,17.13,1,0,0,0,0
+1022-0013,SOUTH,Chabvala Health Centre,Health centre - MoH,24,4.61,19.39,1,0,0,0,0
+1022-0014,SOUTH,Chikowa Health Centre,Health centre - MoH,55,10.38,44.62,1,0,0,0,0
+1022-0015,SOUTH,Dziwe Health Centre,Health centre - MoH,55,5.55,49.45,1,0,0,0,0
+1022-0016,SOUTH,Chileka SDA Clinic,Health centre - CHAM,55,7.95,47.05,1,0,0,0,0
+1022-0017,SOUTH,Chileka Health Centre,Health centre - MoH,131,8.95,122.05,1,0,0,0,0
+1022-0018,SOUTH,Pensulo health centre,Health centre - MoH,24,2.35,21.65,1,0,0,0,0
+1022-0019,SOUTH,Zingwangwa health centre,Health centre - MoH,165,44.83,120.17,1,0,0,0,0
+1022-0020,SOUTH,Kanjedza Police,Health centre - Private,55,1.05,53.95,1,0,0,0,0
+1022-0021,SOUTH,Mlambe mission hospital,Hospital - CHAM,55,19.94,35.06,1,0,0,0,0
+1022-0022,SOUTH,Makata health centre,Health centre - MoH,55,12.62,42.38,1,0,0,0,0
+1022-0023,SOUTH,Lirangwe health centre,Health centre - MoH,24,9.3,14.7,1,0,0,0,0
+1022-0024,SOUTH,Namikoko health centre,Health centre - MoH,24,2.33,21.67,1,0,0,0,0
+1022-0025,SOUTH,Lundu health centre,Health centre - MoH,55,6.94,48.06,1,0,0,0,0
+1022-0026,SOUTH,Mdeka heath centre,Health centre - MoH,76,10.16,65.84,1,0,0,0,0
+1022-0027,SOUTH,Souyh Lunzu health centre,Health centre - MoH,55,28.21,26.79,1,0,0,0,0
+1022-0028,SOUTH,Blantyre DHO Vaccine store,District vaccine store,544,64,480,1,0,0,0,0
+1022-0029,SOUTH,Qeen Elizabeth Central Hospital,Central hospital - MoH,55,70.02,-15.02,0,0,0,1,0
+1022-0030,SOUTH,Blantyre Adventist hospital,Hospital - Private,55,3.22,51.78,1,0,0,0,0
+1022-0031,SOUTH,Soche SDA Clinic,Health centre - CHAM,55,0.23,54.77,1,0,0,0,0
+1022-0032,SOUTH,Kanjedza Medical Clinic,Health centre - Private,55,0.31,54.69,1,0,0,0,0
+1022-0033,SOUTH,Lafarge Cement Clinic,Health centre - Private,55,0.21,54.79,1,0,0,0,0
+1022-0034,SOUTH,Blantyre City Assembly Clinic,Health centre - Private,110,117.1,-7.1,0,0,1,0,0
+1022-0035,SOUTH,Malabada health centre,Health centre - CHAM,0,0.95,-0.95,0,0,0,0,1
+1022-0036,SOUTH,Mtengo umodzi private hospital,Hospital - Private,55,0.12,54.88,1,0,0,0,0
+1022-0037,SOUTH,Lunzu BLM Clinic,Health centre - Private,55,2.81,52.19,1,0,0,0,0
+1022-0038,SOUTH,Blantyre DHO Mobile Clinic,District hospital - MoH,60,8.57,51.43,1,0,0,0,0
+1022-0039,SOUTH,Ebenezer Private Clinic,Health centre - Private,55,0.38,54.62,1,0,0,0,0
+1022-0040,SOUTH,Elimu Private Clinic,Health centre - Private,55,0.38,54.62,1,0,0,0,0
+1022-0041,SOUTH,Family health Clinic,Health centre - Private,0,4.37,-4.37,0,0,0,0,1
+1022-0042,SOUTH,Lungu Private Clinic,Health centre - Private,55,3.3,51.7,1,0,0,0,0
+1022-0043,SOUTH,Malamulo Day Clinic,Health centre - Private,55,3.81,51.19,1,0,0,0,0
+1022-0044,SOUTH,Mwaiwathu Private Hospital,Hospital - Private,55,3.27,51.73,1,0,0,0,0
+1023-0000,SOUTH,Chikhwawa District Vaccine Store,District vaccine store,105,149.92,-44.92,0,0,0,1,0
+1023-0001,SOUTH,Chikwawa District Hospital,District hospital - MoH,0,10.99,-10.99,0,0,0,0,1
+1023-0002,SOUTH,Kasinthula Health Centre,Health centre - MoH,55,4.14,50.86,1,0,0,0,0
+1023-0003,SOUTH,Dolo Health Centre,Health centre - MoH,55,13.31,41.69,1,0,0,0,0
+1023-0004,SOUTH,Thendo Health Post,Health post - MoH,0,1.05,-1.05,0,0,0,0,1
+1023-0005,SOUTH,Konzere Health Post,Health post - MoH,0,1.35,-1.35,0,0,0,0,1
+1023-0006,SOUTH,Mgabu Rural Hospital,Rural hospital - MoH,60,20.21,39.79,1,0,0,0,0
+1023-0007,SOUTH,Montfort Rural Hospital,Hospital - CHAM,105,24.23,80.77,1,0,0,0,0
+1023-0008,SOUTH,Kakoma Health centre,Health centre - MoH,55,7.67,47.33,1,0,0,0,0
+1023-0009,SOUTH,Misomali Health Centre,Health centre - CHAM,0,2.7,-2.7,0,0,0,0,1
+1023-0010,SOUTH,Chapananga Health Centre,Health centre - MoH,0,4.81,-4.81,0,0,0,0,1
+1023-0011,SOUTH,Bereu Dispensary,Dispensary - MoH,55,5.73,49.27,1,0,0,0,0
+1023-0012,SOUTH,Chithumba Health Centre,Health centre - MoH,0,3.99,-3.99,0,0,0,0,1
+1023-0013,SOUTH,Gaga Health Centre,Health centre - MoH,18,5.71,12.29,1,0,0,0,0
+1023-0014,SOUTH,Chang'ambika Health Centre,Health centre - MoH,55,2.58,52.42,1,0,0,0,0
+1023-0015,SOUTH,Gola Health Centre,Health centre - MoH,85,2.1,82.9,1,0,0,0,0
+1023-0016,SOUTH,Ndakwera Health Centre,Health centre - MoH,55,5.73,49.27,1,0,0,0,0
+1023-0017,SOUTH,Mandrade Health Post,Health post - MoH,55,2.35,52.65,1,0,0,0,0
+1023-0018,SOUTH,Illovo Factory,Health centre - Private,55,0.62,54.38,1,0,0,0,0
+1023-0019,SOUTH,Kalulu Clinic,Health centre - Private,55,1.37,53.63,1,0,0,0,0
+1023-0020,SOUTH,Mwanza Clinic,Health centre - Private,55,1.34,53.66,1,0,0,0,0
+1023-0021,SOUTH,Mangulenje Clinic,Health centre - Private,55,1.01,53.99,1,0,0,0,0
+1023-0022,SOUTH,Mkombezi clinic,Health centre - Private,55,0.88,54.12,1,0,0,0,0
+1023-0023,SOUTH,Alimenda Clinic,Health centre - Private,55,1,54,1,0,0,0,0
+1023-0024,SOUTH,Lengwe Clinic,Health centre - Private,55,0.53,54.47,1,0,0,0,0
+1023-0025,SOUTH,Chipwaira Health Centre,Health centre - MoH,55,8.39,46.61,1,0,0,0,0
+1023-0026,SOUTH,Therere Health Post,Health post - MoH,0,3.76,-3.76,0,0,0,0,1
+1023-0027,SOUTH,Mkumaniza Health Centre,Health centre - MoH,55,4.05,50.95,1,0,0,0,0
+1023-0028,SOUTH,Kapichira Clinic,Health centre - Private,55,1.42,53.58,1,0,0,0,0
+1023-0029,SOUTH,Mfera Health Centre,Health centre - MoH,55,9.86,45.14,1,0,0,0,0
+1023-0030,SOUTH,Mapelera Health Health,Health centre - MoH,55,4.5,50.5,1,0,0,0,0
+1023-0031,SOUTH,Mkhathe Health Post,Health post - MoH,0,5.25,-5.25,0,0,0,0,1
+1023-0032,SOUTH,Makhwira Health Centre,Health centre - MoH,55,19.93,35.07,1,0,0,0,0
+1023-0033,SOUTH,Mitondo Health Post,Health post - MoH,55,8.28,46.72,1,0,0,0,0
+1023-0034,SOUTH,Kavalo Health Post,Health post - MoH,0,1.49,-1.49,0,0,0,0,1
+1023-0035,SOUTH,Kubalalika Health Post,Health post - MoH,0,2.53,-2.53,0,0,0,0,1
+1023-0036,SOUTH,Saopa Health Post,Health post - MoH,0,1.89,-1.89,0,0,0,0,1
+1023-0037,SOUTH,Hunger Project Health Post,Health centre - Private,55,9.02,45.98,1,0,0,0,0
+1023-0038,SOUTH,Mafale Dispensary,Dispensary - MoH,0,3.62,-3.62,0,0,0,0,1
+1024-0000,SOUTH,CHIRADZULU DISTRICT VACCINE STORE,District vaccine store,275,99.38,175.62,1,0,0,0,0
+1024-0001,SOUTH,CHIRADZULU DISTRICT HOSPITAL,District hospital - MoH,55,8.55,46.45,1,0,0,0,0
+1024-0002,SOUTH,St JOSEPH MISSION HOSPITAL,Hospital - CHAM,60,15.59,44.41,1,0,0,0,0
+1024-0003,SOUTH,PIM CHAM HEALTH CENTRE,Health centre - CHAM,55,6.79,48.21,1,0,0,0,0
+1024-0004,SOUTH,NDUNDE HEALTH CENTRE,Health centre - MoH,24,5.96,18.04,1,0,0,0,0
+1024-0005,SOUTH,MILEPA HEALTH CENTRE,Health centre - MoH,55,5.49,49.51,1,0,0,0,0
+1024-0006,SOUTH,MAUWA HEALTH CENTRE,Health centre - MoH,55,7.18,47.82,1,0,0,0,0
+1024-0007,SOUTH,MBULUMBUZI HEATH CENTRE,Health centre - MoH,24,5.47,18.53,1,0,0,0,0
+1024-0008,SOUTH,CHITERA HEALTH CENTRE,Health centre - MoH,55,4.83,50.17,1,0,0,0,0
+1024-0009,SOUTH,NAMADZI HEALTH CENTRE,Health centre - MoH,170,8.29,161.71,1,0,0,0,0
+1024-0010,SOUTH,BILALO PVT CLINIC,Health centre - Private,55,6.75,48.25,1,0,0,0,0
+1024-0011,SOUTH,MWANJE HEALTH POST,Health post - MoH,24,3.75,20.25,1,0,0,0,0
+1024-0012,SOUTH,THUMBWE HEALTH CENTRE,Dispensary - MoH,79,9.07,69.93,1,0,0,0,0
+1024-0013,SOUTH,NAMITAMBO HEALTH CENTRE,Health centre - MoH,55,12.76,42.24,1,0,0,0,0
+1024-0014,SOUTH,NKALO HEALTH CENTRE,Health centre - MoH,79,11.28,67.72,1,0,0,0,0
+1025-0000,SOUTH,Mwanza District Hospital,District hospital - MoH,0,16.55,-16.55,0,0,0,0,1
+1025-0001,SOUTH,Thambani Health Centre,Health centre - MoH,55,5.49,49.51,1,0,0,0,0
+1025-0002,SOUTH,Mwanza District Vaccine Store,District vaccine store,189,31.56,157.44,1,0,0,0,0
+1025-0003,SOUTH,Kunenekude Health Centre,Health centre - MoH,55,4.29,50.71,1,0,0,0,0
+1025-0004,SOUTH,Tulonkhondo Health Cetre,Health centre - MoH,55,5.11,49.89,1,0,0,0,0
+1026-0000,SOUTH,Matandani,Health centre - CHAM,24,3.09,20.91,1,0,0,0,0
+1026-0001,SOUTH,Nsabwe,Health centre - CHAM,55,6.53,48.47,1,0,0,0,0
+1026-0002,SOUTH,Ligowe,Dispensary - MoH,24,5.04,18.96,1,0,0,0,0
+1026-0003,SOUTH,Magaleta,Health centre - MoH,24,2.47,21.53,1,0,0,0,0
+1026-0004,SOUTH,Chifunga,Health centre - MoH,55,3.94,51.06,1,0,0,0,0
+1026-0005,SOUTH,Nkula Health Centre,Health centre - Private,55,0.7,54.3,1,0,0,0,0
+1026-0006,SOUTH,Luwani Health Centre,Health centre - MoH,55,0.76,54.24,1,0,0,0,0
+1026-0007,SOUTH,NENO DHO,District hospital - MoH,76,5.5,70.5,1,0,0,0,0
+1026-0008,SOUTH,Neno Parish,Health centre - CHAM,55,4.46,50.54,1,0,0,0,0
+1026-0009,SOUTH,Lisungwi,Rural hospital - MoH,55,5.75,49.25,1,0,0,0,0
+1026-0010,SOUTH,Matope,Health centre - CHAM,55,5.35,49.65,1,0,0,0,0
+1026-0011,SOUTH,Midzemba,Dispensary - MoH,55,4.75,50.25,1,0,0,0,0
+1026-0012,SOUTH,Neno DHO,District vaccine store,76,37.69,38.31,1,0,0,0,0
+1027-0001,SOUTH,Nsanje District Hospital,District hospital - MoH,76,12.47,63.53,1,0,0,0,0
+1027-0002,SOUTH,Nsanje District Vaccine Store,District vaccine store,210,82.64,127.36,1,0,0,0,0
+1027-0003,SOUTH,Mbenje Health Centre,Health centre - MoH,75,7.48,67.52,1,0,0,0,0
+1027-0004,SOUTH,Ndamera Health Centre,Health centre - MoH,75,6.7,68.3,1,0,0,0,0
+1027-0005,SOUTH,Kamphata Health Post,Health post - MoH,0,2.74,-2.74,0,0,0,0,1
+1027-0006,SOUTH,Nkhande Health Post,Health post - MoH,55,2.1,52.9,1,0,0,0,0
+1027-0007,SOUTH,Lulwe Health Centre,Health centre - CHAM,55,2.26,52.74,1,0,0,0,0
+1027-0008,SOUTH,Chingoma Health Post,Health post - MoH,0,2.43,-2.43,0,0,0,0,1
+1027-0009,SOUTH,Chididi Health Centre,Health centre - CHAM,18,3.72,14.28,1,0,0,0,0
+1027-0010,SOUTH,MKANGO HEALTH CENTRE,Health post - MoH,55,3.51,51.49,1,0,0,0,0
+1027-0011,SOUTH,TENGANI HEALTH CENTRE,Health centre - MoH,45,8.43,36.57,1,0,0,0,0
+1027-0012,SOUTH,NYAMITHUTHU HEALTH CENTRE,Health centre - MoH,55,2.96,52.04,1,0,0,0,0
+1027-0013,SOUTH,PHOKERA HEALTH CENTRE,Health centre - MoH,55,3.28,51.72,1,0,0,0,0
+1027-0014,SOUTH,KALEMBA COMMUNITY HOSPITAL,Community hospital - CHAM,60,8.19,51.81,1,0,0,0,0
+1027-0015,SOUTH,SORGIN HEALTH CENTRE,Health centre - MoH,24,5,19,1,0,0,0,0
+1027-0016,SOUTH,MITSAMVU HEALTH CENTRE,Health post - MoH,55,1.46,53.54,1,0,0,0,0
+1027-0017,SOUTH,Kanyimbi,Health post - MoH,0,1.46,-1.46,0,0,0,0,1
+1027-0018,SOUTH,Makhanga,Health centre - MoH,55,4.96,50.04,1,0,0,0,0
+1027-0019,SOUTH,SANKHULANI HEALTH HEALTH CENTRE,Health centre - MoH,55,2.21,52.79,1,0,0,0,0
+1027-0020,SOUTH,MCHACHA HEALTH CENTRE,Health post - MoH,55,2.17,52.83,1,0,0,0,0
+1027-0021,SOUTH,TRINITY MISSION HOSPITAL,Hospital - CHAM,165,6.96,158.04,1,0,0,0,0
+1027-0022,SOUTH,MULOLO HEALTH CENTRE,Health post - MoH,55,2.78,52.22,1,0,0,0,0
+1027-0023,SOUTH,MASENJERE HEALTH CENTRE,Health centre - MoH,55,5.2,49.8,1,0,0,0,0
+1028-0000,SOUTH,Thyolo District Hospital Vaccine Store,District vaccine store,79,203.04,-124.04,0,0,0,0,1
+1028-0001,SOUTH,Thyolo DHO,District hospital - MoH,24,24.57,-0.57,0,0,1,0,0
+1028-0002,SOUTH,Mangunda,Health centre - MoH,55,18.05,36.95,1,0,0,0,0
+1028-0003,SOUTH,Mafis,Health centre - Private,0,0.8,-0.8,0,0,0,0,1
+1028-0004,SOUTH,Khonjeni,Health centre - MoH,55,10.45,44.55,1,0,0,0,0
+1028-0005,SOUTH,Makapwa,Health centre - Private,55,3.47,51.53,1,0,0,0,0
+1028-0006,SOUTH,Mitengo,Health centre - CHAM,45,4.94,40.06,1,0,0,0,0
+1028-0007,SOUTH,Bvumbwe,Health centre - MoH,37.5,18.9,18.6,1,0,0,0,0
+1028-0008,SOUTH,Chimvu,Health centre - MoH,37.5,5.98,31.52,1,0,0,0,0
+1028-0009,SOUTH,Mikolongwe,Health centre - MoH,17,9.17,7.83,1,0,0,0,0
+1028-0010,SOUTH,Chingazi,Community hospital - CHAM,55,2.86,52.14,1,0,0,0,0
+1028-0011,SOUTH,Chitsoka,Rural hospital - MoH,24,6.72,17.28,1,0,0,0,0
+1028-0012,SOUTH,Chimaliro,Health centre - MoH,55,14.77,40.23,1,0,0,0,0
+1028-0013,SOUTH,Satemwa,Health centre - Private,55,2.76,52.24,1,0,0,0,0
+1028-0014,SOUTH,Namingomba,Health centre - Private,37.5,2.1,35.4,1,0,0,0,0
+1028-0015,SOUTH,Mindali,Health centre - Private,24,0.53,23.47,1,0,0,0,0
+1028-0016,SOUTH,Thunga,Health centre - Private,24,0.71,23.29,1,0,0,0,0
+1028-0017,SOUTH,Kasembeleka,Health centre - Private,24,0.53,23.47,1,0,0,0,0
+1028-0018,SOUTH,Mianga,Health centre - MoH,55,0.4,54.6,1,0,0,0,0
+1028-0019,SOUTH,Mtambanyama,Health centre - CHAM,24,4.63,19.37,1,0,0,0,0
+1028-0020,SOUTH,Sambankhanga,Health centre - Private,24,0.67,23.33,1,0,0,0,0
+1028-0021,SOUTH,Makwasa,Health centre - Private,0,0.39,-0.39,0,0,0,0,1
+1028-0022,SOUTH,Malamulo,Hospital - CHAM,76,12.73,63.27,1,0,0,0,0
+1028-0023,SOUTH,ST Martins,Health centre - CHAM,55,7.31,47.69,1,0,0,0,0
+1028-0024,SOUTH,Malosa Health Post,Health post - MoH,37.5,1.47,36.03,1,0,0,0,0
+1028-0025,SOUTH,Changata,Health centre - MoH,55,7.22,47.78,1,0,0,0,0
+1028-0026,SOUTH,Nsabwe,Health centre - MoH,24,2.71,21.29,1,0,0,0,0
+1028-0027,SOUTH,Gombe,Health centre - MoH,55,4.47,50.53,1,0,0,0,0
+1028-0028,SOUTH,Nkhataombere,Health post - MoH,37.5,3.69,33.81,1,0,0,0,0
+1028-0029,SOUTH,Chisinkha,Health post - MoH,85,1.48,83.52,1,0,0,0,0
+1028-0030,SOUTH,Makungwa,Health centre - MoH,76,6.04,69.96,1,0,0,0,0
+1028-0031,SOUTH,Dzimbiri,Health post - MoH,55,8.08,46.92,1,0,0,0,0
+1028-0032,SOUTH,Thomas,Health centre - CHAM,55,7.69,47.31,1,0,0,0,0
+1028-0033,SOUTH,Chisunga,Health centre - Private,55,1.23,53.77,1,0,0,0,0
+1028-0034,SOUTH,Amalika,Dispensary - MoH,24,11.04,12.96,1,0,0,0,0
+1028-0035,SOUTH,Nangumi,Health post - MoH,85,0.76,84.24,1,0,0,0,0
+1028-0036,SOUTH,Mbalanguzi,Health post - MoH,37.5,1.59,35.91,1,0,0,0,0
+1028-0037,SOUTH,Thekerani,Health centre - MoH,76,6.49,69.51,1,0,0,0,0
+1028-0038,SOUTH,Nchima,Health centre - Private,55,0.62,54.38,1,0,0,0,0
+1028-0039,SOUTH,Conforzi,Health centre - Private,24,1.79,22.21,1,0,0,0,0
+1028-0040,SOUTH,Namalime,Health post - MoH,85,3.09,81.91,1,0,0,0,0
+1028-0041,SOUTH,Zowa,Health centre - MoH,76,6.17,69.83,1,0,0,0,0
+1028-0042,SOUTH,Sandama,Health post - MoH,17,2.84,14.16,1,0,0,0,0
+1028-0043,SOUTH,Chipho,Health centre - CHAM,169,2.99,166.01,1,0,0,0,0
+1028-0044,SOUTH,Mapanga,Health centre - MoH,55,4.82,50.18,1,0,0,0,0

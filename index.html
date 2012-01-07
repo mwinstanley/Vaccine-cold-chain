@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+        <link href="style.css" type="text/css" rel="stylesheet" />
+        <script type="text/javascript"
+                src="https://maps.googleapis.com/maps/api/js?v=3&sensor=false"></script>
+         <script type="text/javascript"
+                src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
+        <script type="text/javascript" src="map.js"></script>
+    </head>
+
+    <body>
+        <!-- <div class="layout-control-panel"></div>-->
+        <div id="content">
+            <div id="header">
+                Malawi Vaccine Cold Chain
+            </div>
+            <span id="nav-bar">
+                <table>
+                    <tr><td>
+                    Information to display:<br />
+                    <select id="selector">
+                        <option value="electricity">Electricity</option>
+                        <option value="gas">Bottled Gas</option>
+                        <option value="kerosene">Kerosene</option>
+                        <option value="stock-outs">Stock outs</option>
+                        <option value="surplus">Surplus</option>
+                        <option value="pie-chart">Pie charts</option>
+                    </select>
+                    </td></tr>
+                    <tr><td>
+                    Region: <br />
+                    <select id="region">
+                        <option value="all">All</option>
+                        <option value="north">North</option>
+                        <option value="central">Central</option>
+                        <option value="south">South</option>
+                    </select>
+                    </td></tr>
+                    <tr><td>
+                    Facility type: <br />
+                    <select id="facility-type">
+                        <option value="all">All</option>
+                        <option value="national-regional">National/Regional</option>
+                        <option value="district">District</option>
+                        <option value="health-center">Health Center</option>
+                        <option value="health-post">Health Post</option>
+                        <option value="other">Other</option>
+                    </select>
+                    </td></tr>
+                    <tr><td>
+                    <button type="button" id="ignore-size">Ignore population</button>
+                    </td></tr>
+		    <tr><td>
+		    Vaccine schedule: <br />
+		    <select id="schedule">
+		        <option value="base">Base</option>
+			<option value="pcv">Pneumo.</option>
+			<option value="rota">Pneumo.+Rota.</option>
+		    </select>
+		    </td></tr>
+                </table>
+            </span>
+            <span id="map-canvas"></span>
+            <div id="footer"></div>
+        </div>
+    </body>
+</html>
