@@ -1,0 +1,5797 @@
+[
+    {
+        "latitude": "-13.60678104324322", 
+        "UTM_lat": "0601284", 
+        "ft_facility_code": "1000-0000", 
+        "UTM_long": "8490198", 
+        "longitude": "33.93628054539338"
+    }, 
+    {
+        "latitude": "-13.60678104324322", 
+        "UTM_lat": "0601284", 
+        "ft_facility_code": "1000-0001", 
+        "UTM_long": "8490198", 
+        "longitude": "33.93628054539338"
+    }, 
+    {
+        "latitude": "-13.504750778011445", 
+        "UTM_lat": "0597090", 
+        "ft_facility_code": "1000-0002", 
+        "UTM_long": "8501522", 
+        "longitude": "33.89713141089816"
+    }, 
+    {
+        "latitude": "-13.467277643744236", 
+        "UTM_lat": "0590558", 
+        "ft_facility_code": "1000-0003", 
+        "UTM_long": "8505681", 
+        "longitude": "33.83664872462992"
+    }, 
+    {
+        "latitude": "-13.395493719858253", 
+        "UTM_lat": "0570028", 
+        "ft_facility_code": "1000-0004", 
+        "UTM_long": "8513648", 
+        "longitude": "33.64679332016023"
+    }, 
+    {
+        "latitude": "-13.395493719858253", 
+        "UTM_lat": "0570028", 
+        "ft_facility_code": "1000-0005", 
+        "UTM_long": "8513648", 
+        "longitude": "33.64679332016023"
+    }, 
+    {
+        "latitude": "-13.337017683196365", 
+        "UTM_lat": "0578063", 
+        "ft_facility_code": "1000-0006", 
+        "UTM_long": "8520138", 
+        "longitude": "33.72082863084702"
+    }, 
+    {
+        "latitude": "-13.358164560798274", 
+        "UTM_lat": "0565809", 
+        "ft_facility_code": "1000-0007", 
+        "UTM_long": "8517791", 
+        "longitude": "33.60773378610521"
+    }, 
+    {
+        "latitude": "-13.284866577321335", 
+        "UTM_lat": "0562396", 
+        "ft_facility_code": "1000-0008", 
+        "UTM_long": "8525926", 
+        "longitude": "33.576043124769384"
+    }, 
+    {
+        "latitude": "-13.32228596369677", 
+        "UTM_lat": "0555857", 
+        "ft_facility_code": "1000-0009", 
+        "UTM_long": "8521773", 
+        "longitude": "33.515755694190794"
+    }, 
+    {
+        "latitude": "-13.414306908504628", 
+        "UTM_lat": "0555544", 
+        "ft_facility_code": "1000-0010", 
+        "UTM_long": "8511560", 
+        "longitude": "33.51306022673701"
+    }, 
+    {
+        "latitude": "-13.442625799290761", 
+        "UTM_lat": "0548035", 
+        "ft_facility_code": "1000-0011", 
+        "UTM_long": "8508417", 
+        "longitude": "33.443753167412815"
+    }, 
+    {
+        "latitude": "-13.495109812199258", 
+        "UTM_lat": "0555727", 
+        "ft_facility_code": "1000-0012", 
+        "UTM_long": "8502592", 
+        "longitude": "33.514923146299566"
+    }, 
+    {
+        "latitude": "-13.58527383063205", 
+        "UTM_lat": "0550839", 
+        "ft_facility_code": "1000-0013", 
+        "UTM_long": "8492585", 
+        "longitude": "33.46993557704095"
+    }, 
+    {
+        "latitude": "-13.593004488758947", 
+        "UTM_lat": "0563068", 
+        "ft_facility_code": "1000-0014", 
+        "UTM_long": "8491727", 
+        "longitude": "33.58299076270081"
+    }, 
+    {
+        "latitude": "-13.59300449375719", 
+        "UTM_lat": "0565644", 
+        "ft_facility_code": "1000-0015", 
+        "UTM_long": "8491727", 
+        "longitude": "33.60680197895667"
+    }, 
+    {
+        "latitude": "-13.536240981371174", 
+        "UTM_lat": "0571584", 
+        "ft_facility_code": "1000-0016", 
+        "UTM_long": "8498027", 
+        "longitude": "33.661550711257526"
+    }, 
+    {
+        "latitude": "-13.484000390171664", 
+        "UTM_lat": "0579757", 
+        "ft_facility_code": "1000-0017", 
+        "UTM_long": "8503825", 
+        "longitude": "33.736917704303"
+    }, 
+    {
+        "latitude": "-13.622143093273493", 
+        "UTM_lat": "0583910", 
+        "ft_facility_code": "1000-0018", 
+        "UTM_long": "8488493", 
+        "longitude": "33.7757348993294"
+    }, 
+    {
+        "latitude": "-13.612592484518292", 
+        "UTM_lat": "0594142", 
+        "ft_facility_code": "1000-0019", 
+        "UTM_long": "8489553", 
+        "longitude": "33.870285929690134"
+    }, 
+    {
+        "latitude": "-13.677230691402427", 
+        "UTM_lat": "0612164", 
+        "ft_facility_code": "1000-0020", 
+        "UTM_long": "8482379", 
+        "longitude": "34.03715282384723"
+    }, 
+    {
+        "latitude": "-13.716343161702692", 
+        "UTM_lat": "0609696", 
+        "ft_facility_code": "1000-0021", 
+        "UTM_long": "8478038", 
+        "longitude": "34.01450206362687"
+    }, 
+    {
+        "latitude": "-13.678888833312564", 
+        "UTM_lat": "0633772", 
+        "ft_facility_code": "1000-0022", 
+        "UTM_long": "8482195", 
+        "longitude": "34.23693501919418"
+    }, 
+    {
+        "latitude": "-13.730795370423795", 
+        "UTM_lat": "0623263", 
+        "ft_facility_code": "1000-0023", 
+        "UTM_long": "8476434", 
+        "longitude": "34.140026958501586"
+    }, 
+    {
+        "latitude": "-13.688682550549236", 
+        "UTM_lat": "0621979", 
+        "ft_facility_code": "1000-0024", 
+        "UTM_long": "8481108", 
+        "longitude": "34.12795228204629"
+    }, 
+    {
+        "latitude": "-13.592554275249805", 
+        "UTM_lat": "0615057", 
+        "ft_facility_code": "1000-0025", 
+        "UTM_long": "8491777", 
+        "longitude": "34.06352162574548"
+    }, 
+    {
+        "latitude": "-13.4394183580392", 
+        "UTM_lat": "0599941", 
+        "ft_facility_code": "1000-0026", 
+        "UTM_long": "8508773", 
+        "longitude": "33.92322226131661"
+    }, 
+    {
+        "latitude": "-12.517406087848652", 
+        "UTM_lat": "0554346", 
+        "ft_facility_code": "1001-0000", 
+        "UTM_long": "8611101", 
+        "longitude": "33.50020010382884"
+    }, 
+    {
+        "latitude": "-12.462702830276731", 
+        "UTM_lat": "0549153", 
+        "ft_facility_code": "1001-0001", 
+        "UTM_long": "8617172", 
+        "longitude": "33.45230982478946"
+    }, 
+    {
+        "latitude": "-12.633344764473916", 
+        "UTM_lat": "0542681", 
+        "ft_facility_code": "1001-0002", 
+        "UTM_long": "8598234", 
+        "longitude": "33.3930137886587"
+    }, 
+    {
+        "latitude": "-12.573001223909921", 
+        "UTM_lat": "0535418", 
+        "ft_facility_code": "1001-0003", 
+        "UTM_long": "8604931", 
+        "longitude": "33.32605941147724"
+    }, 
+    {
+        "latitude": "-12.534418029648187", 
+        "UTM_lat": "0541382", 
+        "ft_facility_code": "1001-0004", 
+        "UTM_long": "8609213", 
+        "longitude": "33.380906667962456"
+    }, 
+    {
+        "latitude": "-12.532354622258302", 
+        "UTM_lat": "0556265", 
+        "ft_facility_code": "1001-0005", 
+        "UTM_long": "8609442", 
+        "longitude": "33.517891887604115"
+    }, 
+    {
+        "latitude": "-12.6513387706173", 
+        "UTM_lat": "0552945", 
+        "ft_facility_code": "1001-0006", 
+        "UTM_long": "8596237", 
+        "longitude": "33.48755837024871"
+    }, 
+    {
+        "latitude": "-12.691931116654697", 
+        "UTM_lat": "0573358", 
+        "ft_facility_code": "1001-0007", 
+        "UTM_long": "8591732", 
+        "longitude": "33.67563602382333"
+    }, 
+    {
+        "latitude": "-12.685605782457484", 
+        "UTM_lat": "0583363", 
+        "ft_facility_code": "1001-0008", 
+        "UTM_long": "8592434", 
+        "longitude": "33.767758853307434"
+    }, 
+    {
+        "latitude": "-12.730063456753319", 
+        "UTM_lat": "0559492", 
+        "ft_facility_code": "1001-0009", 
+        "UTM_long": "8587500", 
+        "longitude": "33.54801480757596"
+    }, 
+    {
+        "latitude": "-12.772052207466688", 
+        "UTM_lat": "0533354", 
+        "ft_facility_code": "1001-0010", 
+        "UTM_long": "8582840", 
+        "longitude": "33.30729677338064"
+    }, 
+    {
+        "latitude": "-12.764285199047245", 
+        "UTM_lat": "0547053", 
+        "ft_facility_code": "1001-0011", 
+        "UTM_long": "8583702", 
+        "longitude": "33.433492874836496"
+    }, 
+    {
+        "latitude": "-12.831521135436432", 
+        "UTM_lat": "0549162", 
+        "ft_facility_code": "1001-0012", 
+        "UTM_long": "8576240", 
+        "longitude": "33.45304236183088"
+    }, 
+    {
+        "latitude": "-12.87330244866047", 
+        "UTM_lat": "0548237", 
+        "ft_facility_code": "1001-0013", 
+        "UTM_long": "8571603", 
+        "longitude": "33.44459188551662"
+    }, 
+    {
+        "latitude": "-12.838134802456995", 
+        "UTM_lat": "0560808", 
+        "ft_facility_code": "1001-0014", 
+        "UTM_long": "8575506", 
+        "longitude": "33.560375070979454"
+    }, 
+    {
+        "latitude": "-13.415063750382348", 
+        "UTM_lat": "0542542", 
+        "ft_facility_code": "1001-0015", 
+        "UTM_long": "8511476", 
+        "longitude": "33.392964213782655"
+    }, 
+    {
+        "latitude": "-13.514094105153298", 
+        "UTM_lat": "0537065", 
+        "ft_facility_code": "1001-0016", 
+        "UTM_long": "8500485", 
+        "longitude": "33.342514176516374"
+    }, 
+    {
+        "latitude": "-13.292741481225073", 
+        "UTM_lat": "0534197", 
+        "ft_facility_code": "1001-0017", 
+        "UTM_long": "8525052", 
+        "longitude": "33.315722610404094"
+    }, 
+    {
+        "latitude": "-13.36168751422066", 
+        "UTM_lat": "0542530", 
+        "ft_facility_code": "1001-0018", 
+        "UTM_long": "8517400", 
+        "longitude": "33.392766824922035"
+    }, 
+    {
+        "latitude": "-13.244221419610025", 
+        "UTM_lat": "0536666", 
+        "ft_facility_code": "1001-0019", 
+        "UTM_long": "8530437", 
+        "longitude": "33.338450133485026"
+    }, 
+    {
+        "latitude": "-13.255934720681916", 
+        "UTM_lat": "0519634", 
+        "ft_facility_code": "1001-0020", 
+        "UTM_long": "8529137", 
+        "longitude": "33.181243576134655"
+    }, 
+    {
+        "latitude": "-13.092866865064822", 
+        "UTM_lat": "0532471", 
+        "ft_facility_code": "1001-0021", 
+        "UTM_long": "8547235", 
+        "longitude": "33.29954404138246"
+    }, 
+    {
+        "latitude": "-13.228291327042154", 
+        "UTM_lat": "0554538", 
+        "ft_facility_code": "1001-0022", 
+        "UTM_long": "8532205", 
+        "longitude": "33.5033834136938"
+    }, 
+    {
+        "latitude": "-13.24286089098176", 
+        "UTM_lat": "0558246", 
+        "ft_facility_code": "1001-0023", 
+        "UTM_long": "8530588", 
+        "longitude": "33.537639015098705"
+    }, 
+    {
+        "latitude": "-12.943799882191316", 
+        "UTM_lat": "0592304", 
+        "ft_facility_code": "1001-0024", 
+        "UTM_long": "8563779", 
+        "longitude": "33.85096400274569"
+    }, 
+    {
+        "latitude": "-12.828926257431272", 
+        "UTM_lat": "0594414", 
+        "ft_facility_code": "1001-0025", 
+        "UTM_long": "8576528", 
+        "longitude": "33.870018281035435"
+    }, 
+    {
+        "latitude": "-12.851245125132873", 
+        "UTM_lat": "0601414", 
+        "ft_facility_code": "1001-0026", 
+        "UTM_long": "8574051", 
+        "longitude": "33.934599387659794"
+    }, 
+    {
+        "latitude": "-12.775088819517071", 
+        "UTM_lat": "0585475", 
+        "ft_facility_code": "1001-0027", 
+        "UTM_long": "8582503", 
+        "longitude": "33.78748472961912"
+    }, 
+    {
+        "latitude": "-12.7781163074447", 
+        "UTM_lat": "0578968", 
+        "ft_facility_code": "1001-0028", 
+        "UTM_long": "8582167", 
+        "longitude": "33.72754766842641"
+    }, 
+    {
+        "latitude": "-12.844126761472866", 
+        "UTM_lat": "0573596", 
+        "ft_facility_code": "1001-0029", 
+        "UTM_long": "8574841", 
+        "longitude": "33.67823342240477"
+    }, 
+    {
+        "latitude": "-12.902811566385484", 
+        "UTM_lat": "0576152", 
+        "ft_facility_code": "1001-0030", 
+        "UTM_long": "8568328", 
+        "longitude": "33.701950581583674"
+    }, 
+    {
+        "latitude": "-12.982958864821992", 
+        "UTM_lat": "0572712", 
+        "ft_facility_code": "1001-0031", 
+        "UTM_long": "8559433", 
+        "longitude": "33.67045717570028"
+    }, 
+    {
+        "latitude": "-12.981616324518976", 
+        "UTM_lat": "0573898", 
+        "ft_facility_code": "1001-0032", 
+        "UTM_long": "8559582", 
+        "longitude": "33.681388755125774"
+    }, 
+    {
+        "latitude": "-13.057438353308221", 
+        "UTM_lat": "0574228", 
+        "ft_facility_code": "1001-0033", 
+        "UTM_long": "8551167", 
+        "longitude": "33.68463953410714"
+    }, 
+    {
+        "latitude": "-13.090190870578635", 
+        "UTM_lat": "0579309", 
+        "ft_facility_code": "1001-0034", 
+        "UTM_long": "8547532", 
+        "longitude": "33.73159785128924"
+    }, 
+    {
+        "latitude": "-12.370821584637016", 
+        "UTM_lat": "0557459", 
+        "ft_facility_code": "1001-0035", 
+        "UTM_long": "8627369", 
+        "longitude": "33.5285547315828"
+    }, 
+    {
+        "latitude": "-12.985211418737773", 
+        "UTM_lat": "0552007", 
+        "ft_facility_code": "1001-0036", 
+        "UTM_long": "8559183", 
+        "longitude": "33.4795520828981"
+    }, 
+    {
+        "latitude": "-12.941276904237661", 
+        "UTM_lat": "0574441", 
+        "ft_facility_code": "1001-0037", 
+        "UTM_long": "8564059", 
+        "longitude": "33.68628482427416"
+    }, 
+    {
+        "latitude": "-12.875392940419172", 
+        "UTM_lat": "0584194", 
+        "ft_facility_code": "1001-0038", 
+        "UTM_long": "8571371", 
+        "longitude": "33.77599079064557"
+    }, 
+    {
+        "latitude": "-12.985211418737773", 
+        "UTM_lat": "0552007", 
+        "ft_facility_code": "1001-0039", 
+        "UTM_long": "8559183", 
+        "longitude": "33.4795520828981"
+    }, 
+    {
+        "latitude": "-13.389601673397813", 
+        "UTM_lat": "0637812", 
+        "ft_facility_code": "1002-0000", 
+        "UTM_long": "8514302", 
+        "longitude": "34.272747332324954"
+    }, 
+    {
+        "latitude": "-13.339036499552803", 
+        "UTM_lat": "0364560", 
+        "ft_facility_code": "1002-0001", 
+        "UTM_long": "8519914", 
+        "longitude": "31.749415777258704"
+    }, 
+    {
+        "latitude": "-13.319646600663678", 
+        "UTM_lat": "0637888", 
+        "ft_facility_code": "1002-0002", 
+        "UTM_long": "8522066", 
+        "longitude": "34.27308250512669"
+    }, 
+    {
+        "latitude": "-13.257710116340665", 
+        "UTM_lat": "0621092", 
+        "ft_facility_code": "1002-0003", 
+        "UTM_long": "8528940", 
+        "longitude": "34.11774835762931"
+    }, 
+    {
+        "latitude": "-13.133503880721486", 
+        "UTM_lat": "0365538", 
+        "ft_facility_code": "1002-0004", 
+        "UTM_long": "8542725", 
+        "longitude": "31.759484810822567"
+    }, 
+    {
+        "latitude": "-13.168067459220236", 
+        "UTM_lat": "0642020", 
+        "ft_facility_code": "1002-0005", 
+        "UTM_long": "8538889", 
+        "longitude": "34.31041447336615"
+    }, 
+    {
+        "latitude": "-13.038156912357076", 
+        "UTM_lat": "0642457", 
+        "ft_facility_code": "1002-0006", 
+        "UTM_long": "8553307", 
+        "longitude": "34.313757026056074"
+    }, 
+    {
+        "latitude": "-13.021388547435906", 
+        "UTM_lat": "0635689", 
+        "ft_facility_code": "1002-0007", 
+        "UTM_long": "8555168", 
+        "longitude": "34.25126821717328"
+    }, 
+    {
+        "latitude": "-12.879844663557664", 
+        "UTM_lat": "0640494", 
+        "ft_facility_code": "1002-0008", 
+        "UTM_long": "8570877", 
+        "longitude": "34.29483923628741"
+    }, 
+    {
+        "latitude": "-12.749445460743813", 
+        "UTM_lat": "0631214", 
+        "ft_facility_code": "1002-0009", 
+        "UTM_long": "8585349", 
+        "longitude": "34.20870385001113"
+    }, 
+    {
+        "latitude": "-12.685407908821718", 
+        "UTM_lat": "0627006", 
+        "ft_facility_code": "1002-0010", 
+        "UTM_long": "8592456", 
+        "longitude": "34.16965369634538"
+    }, 
+    {
+        "latitude": "-12.710078705812032", 
+        "UTM_lat": "0632089", 
+        "ft_facility_code": "1002-0011", 
+        "UTM_long": "8589718", 
+        "longitude": "34.21657522676493"
+    }, 
+    {
+        "latitude": "-12.573695460808159", 
+        "UTM_lat": "0626490", 
+        "ft_facility_code": "1002-0012", 
+        "UTM_long": "8604854", 
+        "longitude": "34.164396894001015"
+    }, 
+    {
+        "latitude": "-12.18790504099457", 
+        "UTM_lat": "0607812", 
+        "ft_facility_code": "1002-0013", 
+        "UTM_long": "8647669", 
+        "longitude": "33.991021051595375"
+    }, 
+    {
+        "latitude": "-12.263135422599106", 
+        "UTM_lat": "0612383", 
+        "ft_facility_code": "1002-0014", 
+        "UTM_long": "8639320", 
+        "longitude": "34.033325547236096"
+    }, 
+    {
+        "latitude": "-12.318938547904656", 
+        "UTM_lat": "0615757", 
+        "ft_facility_code": "1002-0015", 
+        "UTM_long": "8633127", 
+        "longitude": "34.06456907280383"
+    }, 
+    {
+        "latitude": "-12.389807247194375", 
+        "UTM_lat": "0614031", 
+        "ft_facility_code": "1002-0016", 
+        "UTM_long": "8625262", 
+        "longitude": "34.04897991407773"
+    }, 
+    {
+        "latitude": "-12.433643974623106", 
+        "UTM_lat": "0620369", 
+        "ft_facility_code": "1002-0017", 
+        "UTM_long": "8620397", 
+        "longitude": "34.10746144896912"
+    }, 
+    {
+        "latitude": "-12.452368073324877", 
+        "UTM_lat": "0625409", 
+        "ft_facility_code": "1002-0018", 
+        "UTM_long": "8618319", 
+        "longitude": "34.15390842420593"
+    }, 
+    {
+        "latitude": "-12.2715061709548", 
+        "UTM_lat": "0584686", 
+        "ft_facility_code": "1002-0019", 
+        "UTM_long": "8638391", 
+        "longitude": "33.778704292300624"
+    }, 
+    {
+        "latitude": "-12.877177547478702", 
+        "UTM_lat": "0638594", 
+        "ft_facility_code": "1002-0020", 
+        "UTM_long": "8571173", 
+        "longitude": "34.27731778738558"
+    }, 
+    {
+        "latitude": "-12.474579143352454", 
+        "UTM_lat": "0621517", 
+        "ft_facility_code": "1002-0021", 
+        "UTM_long": "8615854", 
+        "longitude": "34.11819753621147"
+    }, 
+    {
+        "latitude": "-12.877177547478702", 
+        "UTM_lat": "0638594", 
+        "ft_facility_code": "1002-0022", 
+        "UTM_long": "8571173", 
+        "longitude": "34.27731778738558"
+    }, 
+    {
+        "latitude": "-13.313050657337163", 
+        "UTM_lat": "0598570", 
+        "ft_facility_code": "1003-0000", 
+        "UTM_long": "8522798", 
+        "longitude": "33.910084223800816"
+    }, 
+    {
+        "latitude": "-13.313050657337163", 
+        "UTM_lat": "0598570", 
+        "ft_facility_code": "1003-0001", 
+        "UTM_long": "8522798", 
+        "longitude": "33.910084223800816"
+    }, 
+    {
+        "latitude": "-13.299679569569358", 
+        "UTM_lat": "0606392", 
+        "ft_facility_code": "1003-0002", 
+        "UTM_long": "8524282", 
+        "longitude": "33.98224267198505"
+    }, 
+    {
+        "latitude": "-13.098741702059506", 
+        "UTM_lat": "0590888", 
+        "ft_facility_code": "1003-0003", 
+        "UTM_long": "8546583", 
+        "longitude": "33.83843145424174"
+    }, 
+    {
+        "latitude": "-13.211144946959022", 
+        "UTM_lat": "0594034", 
+        "ft_facility_code": "1003-0004", 
+        "UTM_long": "8534108", 
+        "longitude": "33.867845879805024"
+    }, 
+    {
+        "latitude": "-13.438841803728405", 
+        "UTM_lat": "0611145", 
+        "ft_facility_code": "1003-0005", 
+        "UTM_long": "8508837", 
+        "longitude": "34.0267075434445"
+    }, 
+    {
+        "latitude": "-13.38305085673333", 
+        "UTM_lat": "0605505", 
+        "ft_facility_code": "1003-0006", 
+        "UTM_long": "8515029", 
+        "longitude": "33.97438845223465"
+    }, 
+    {
+        "latitude": "-13.320655420387713", 
+        "UTM_lat": "0615831", 
+        "ft_facility_code": "1003-0007", 
+        "UTM_long": "8521954", 
+        "longitude": "34.069468069958305"
+    }, 
+    {
+        "latitude": "-13.197539571659224", 
+        "UTM_lat": "0608966", 
+        "ft_facility_code": "1003-0008", 
+        "UTM_long": "8535618", 
+        "longitude": "34.005584665079205"
+    }, 
+    {
+        "latitude": "-13.198026179091054", 
+        "UTM_lat": "0614411", 
+        "ft_facility_code": "1003-0009", 
+        "UTM_long": "8535564", 
+        "longitude": "34.05582965785843"
+    }, 
+    {
+        "latitude": "-13.380897322641983", 
+        "UTM_lat": "0590207", 
+        "ft_facility_code": "1003-0010", 
+        "UTM_long": "8515268", 
+        "longitude": "33.83310824894631"
+    }, 
+    {
+        "latitude": "-13.223678164721147", 
+        "UTM_lat": "0586513", 
+        "ft_facility_code": "1003-0011", 
+        "UTM_long": "8532717", 
+        "longitude": "33.79847980164256"
+    }, 
+    {
+        "latitude": "-13.162768785176201", 
+        "UTM_lat": "0582523", 
+        "ft_facility_code": "1003-0012", 
+        "UTM_long": "8539477", 
+        "longitude": "33.76146751560769"
+    }, 
+    {
+        "latitude": "-13.315591455492934", 
+        "UTM_lat": "0584021", 
+        "ft_facility_code": "1003-0013", 
+        "UTM_long": "8522516", 
+        "longitude": "33.77577269935221"
+    }, 
+    {
+        "latitude": "-13.71273991468906", 
+        "UTM_lat": "0653639", 
+        "ft_facility_code": "1004-0000", 
+        "UTM_long": "8478438", 
+        "longitude": "34.42080283177096"
+    }, 
+    {
+        "latitude": "-13.71273991468906", 
+        "UTM_lat": "0653639", 
+        "ft_facility_code": "1004-0001", 
+        "UTM_long": "8478438", 
+        "longitude": "34.42080283177096"
+    }, 
+    {
+        "latitude": "-13.621819291364764", 
+        "UTM_lat": "0637437", 
+        "ft_facility_code": "1004-0002", 
+        "UTM_long": "8488529", 
+        "longitude": "34.270512627381905"
+    }, 
+    {
+        "latitude": "-13.71322635000251", 
+        "UTM_lat": "0649522", 
+        "ft_facility_code": "1004-0003", 
+        "UTM_long": "8478384", 
+        "longitude": "34.38274097772495"
+    }, 
+    {
+        "latitude": "-13.61550350626357", 
+        "UTM_lat": "0649720", 
+        "ft_facility_code": "1004-0004", 
+        "UTM_long": "8489230", 
+        "longitude": "34.38400150483935"
+    }, 
+    {
+        "latitude": "-13.66349986563918", 
+        "UTM_lat": "0642451", 
+        "ft_facility_code": "1004-0005", 
+        "UTM_long": "8483903", 
+        "longitude": "34.31708615322146"
+    }, 
+    {
+        "latitude": "-13.547414183482426", 
+        "UTM_lat": "0641790", 
+        "ft_facility_code": "1004-0006", 
+        "UTM_long": "8496787", 
+        "longitude": "34.310337345401145"
+    }, 
+    {
+        "latitude": "-13.53605222990997", 
+        "UTM_lat": "0629432", 
+        "ft_facility_code": "1004-0007", 
+        "UTM_long": "8498048", 
+        "longitude": "34.19609388327095"
+    }, 
+    {
+        "latitude": "-13.448735287916334", 
+        "UTM_lat": "0636429", 
+        "ft_facility_code": "1004-0008", 
+        "UTM_long": "8507739", 
+        "longitude": "34.26028521259794"
+    }, 
+    {
+        "latitude": "-13.735706532584395", 
+        "UTM_lat": "0657629", 
+        "ft_facility_code": "1004-0009", 
+        "UTM_long": "8475889", 
+        "longitude": "34.45783443097663"
+    }, 
+    {
+        "latitude": "-13.732345802401184", 
+        "UTM_lat": "0657649", 
+        "ft_facility_code": "1004-0010", 
+        "UTM_long": "8476262", 
+        "longitude": "34.45799859843487"
+    }, 
+    {
+        "latitude": "-13.693044615539172", 
+        "UTM_lat": "0672409", 
+        "ft_facility_code": "1004-0011", 
+        "UTM_long": "8480624", 
+        "longitude": "34.59420389356939"
+    }, 
+    {
+        "latitude": "-13.693044615539172", 
+        "UTM_lat": "0672409", 
+        "ft_facility_code": "1004-0012", 
+        "UTM_long": "8480624", 
+        "longitude": "34.59420389356939"
+    }, 
+    {
+        "latitude": "-13.735770126276925", 
+        "UTM_lat": "0673303", 
+        "ft_facility_code": "1004-0013", 
+        "UTM_long": "8475882", 
+        "longitude": "34.602757756470936"
+    }, 
+    {
+        "latitude": "-13.695125900918958", 
+        "UTM_lat": "0671614", 
+        "ft_facility_code": "1004-0014", 
+        "UTM_long": "8480393", 
+        "longitude": "34.58686876566622"
+    }, 
+    {
+        "latitude": "-13.79816410214544", 
+        "UTM_lat": "0668446", 
+        "ft_facility_code": "1004-0015", 
+        "UTM_long": "8468957", 
+        "longitude": "34.55826358483102"
+    }, 
+    {
+        "latitude": "-13.830473217881124", 
+        "UTM_lat": "0647651", 
+        "ft_facility_code": "1004-0016", 
+        "UTM_long": "8465371", 
+        "longitude": "34.36612239514275"
+    }, 
+    {
+        "latitude": "-13.87685676721628", 
+        "UTM_lat": "0660876", 
+        "ft_facility_code": "1004-0017", 
+        "UTM_long": "8460223", 
+        "longitude": "34.48875217581649"
+    }, 
+    {
+        "latitude": "-13.94016953672772", 
+        "UTM_lat": "0663611", 
+        "ft_facility_code": "1004-0018", 
+        "UTM_long": "8453196", 
+        "longitude": "34.51446730217132"
+    }, 
+    {
+        "latitude": "-14.03986379829843", 
+        "UTM_lat": "0663114", 
+        "ft_facility_code": "1004-0019", 
+        "UTM_long": "8442131", 
+        "longitude": "34.51051820013511"
+    }, 
+    {
+        "latitude": "-14.04208935286279", 
+        "UTM_lat": "0666705", 
+        "ft_facility_code": "1004-0020", 
+        "UTM_long": "8441884", 
+        "longitude": "34.54377909536951"
+    }, 
+    {
+        "latitude": "-13.42179515075793", 
+        "UTM_lat": "0646286", 
+        "ft_facility_code": "1004-0021", 
+        "UTM_long": "8510729", 
+        "longitude": "34.35117280947602"
+    }, 
+    {
+        "latitude": "-14.355330991697425", 
+        "UTM_lat": "0620300", 
+        "ft_facility_code": "1005-0001", 
+        "UTM_long": "8407117", 
+        "longitude": "34.11564439404544"
+    }, 
+    {
+        "latitude": "-14.404361610566998", 
+        "UTM_lat": "0616021", 
+        "ft_facility_code": "1005-0002", 
+        "UTM_long": "8401675", 
+        "longitude": "34.076201203814094"
+    }, 
+    {
+        "latitude": "-14.391784032847857", 
+        "UTM_lat": "0608888", 
+        "ft_facility_code": "1005-0003", 
+        "UTM_long": "8403071", 
+        "longitude": "34.00998709386861"
+    }, 
+    {
+        "latitude": "-14.395901384193603", 
+        "UTM_lat": "0601262", 
+        "ft_facility_code": "1005-0004", 
+        "UTM_long": "8402614", 
+        "longitude": "33.93927661041928"
+    }, 
+    {
+        "latitude": "-14.321436271215356", 
+        "UTM_lat": "0597670", 
+        "ft_facility_code": "1005-0005", 
+        "UTM_long": "8410879", 
+        "longitude": "33.9056618744835"
+    }, 
+    {
+        "latitude": "-14.17564069675165", 
+        "UTM_lat": "0612164", 
+        "ft_facility_code": "1005-0006", 
+        "UTM_long": "8427061", 
+        "longitude": "34.03937777930971"
+    }, 
+    {
+        "latitude": "-14.184731489549177", 
+        "UTM_lat": "0604390", 
+        "ft_facility_code": "1005-0007", 
+        "UTM_long": "8426052", 
+        "longitude": "33.96738540820898"
+    }, 
+    {
+        "latitude": "-14.263161419425025", 
+        "UTM_lat": "0602766", 
+        "ft_facility_code": "1005-0008", 
+        "UTM_long": "8417347", 
+        "longitude": "33.952665600622325"
+    }, 
+    {
+        "latitude": "-14.379755912514971", 
+        "UTM_lat": "0577355", 
+        "ft_facility_code": "1005-0009", 
+        "UTM_long": "8404406", 
+        "longitude": "33.7174850458169"
+    }, 
+    {
+        "latitude": "-14.339834255239532", 
+        "UTM_lat": "0615552", 
+        "ft_facility_code": "1005-0010", 
+        "UTM_long": "8408837", 
+        "longitude": "34.07154408819085"
+    }, 
+    {
+        "latitude": "-14.1801106064148", 
+        "UTM_lat": "0663431", 
+        "ft_facility_code": "1005-0011", 
+        "UTM_long": "8426565", 
+        "longitude": "34.51437825425271"
+    }, 
+    {
+        "latitude": "-14.153081369739002", 
+        "UTM_lat": "0667115", 
+        "ft_facility_code": "1005-0012", 
+        "UTM_long": "8429565", 
+        "longitude": "34.54832290285474"
+    }, 
+    {
+        "latitude": "-14.235601743673927", 
+        "UTM_lat": "0662906", 
+        "ft_facility_code": "1005-0013", 
+        "UTM_long": "8420406", 
+        "longitude": "34.509882414013695"
+    }, 
+    {
+        "latitude": "-14.24646797764361", 
+        "UTM_lat": "0675670", 
+        "ft_facility_code": "1005-0014", 
+        "UTM_long": "8419200", 
+        "longitude": "34.62822972848816"
+    }, 
+    {
+        "latitude": "-14.372468417539972", 
+        "UTM_lat": "0664183", 
+        "ft_facility_code": "1005-0015", 
+        "UTM_long": "8405215", 
+        "longitude": "34.522636087715405"
+    }, 
+    {
+        "latitude": "-14.365269988841426", 
+        "UTM_lat": "0672572", 
+        "ft_facility_code": "1005-0016", 
+        "UTM_long": "8406014", 
+        "longitude": "34.60036358857769"
+    }, 
+    {
+        "latitude": "-14.309508309805183", 
+        "UTM_lat": "0653609", 
+        "ft_facility_code": "1005-0017", 
+        "UTM_long": "8412203", 
+        "longitude": "34.424197457538774"
+    }, 
+    {
+        "latitude": "-14.093642600663477", 
+        "UTM_lat": "0622109", 
+        "ft_facility_code": "1005-0018", 
+        "UTM_long": "8436162", 
+        "longitude": "34.13111671310223"
+    }, 
+    {
+        "latitude": "-14.031988318569919", 
+        "UTM_lat": "0625377", 
+        "ft_facility_code": "1005-0019", 
+        "UTM_long": "8443005", 
+        "longitude": "34.161073452037044"
+    }, 
+    {
+        "latitude": "", 
+        "UTM_lat": "", 
+        "ft_facility_code": "1005-0020", 
+        "UTM_long": "", 
+        "longitude": null
+    }, 
+    {
+        "latitude": "-14.048323323212651", 
+        "UTM_lat": "0634206", 
+        "ft_facility_code": "1005-0021", 
+        "UTM_long": "8441192", 
+        "longitude": "34.242910616261405"
+    }, 
+    {
+        "latitude": "-40.94831572641299", 
+        "UTM_lat": "0629328", 
+        "ft_facility_code": "1005-0022", 
+        "UTM_long": "5452258", 
+        "longitude": "34.53629702275433"
+    }, 
+    {
+        "latitude": "-14.027852971979064", 
+        "UTM_lat": "0635903", 
+        "ft_facility_code": "1005-0023", 
+        "UTM_long": "8443464", 
+        "longitude": "34.25851253814938"
+    }, 
+    {
+        "latitude": "-13.995876922870227", 
+        "UTM_lat": "0633758", 
+        "ft_facility_code": "1005-0024", 
+        "UTM_long": "8447013", 
+        "longitude": "34.23848100459481"
+    }, 
+    {
+        "latitude": "-14.110617193114654", 
+        "UTM_lat": "0628329", 
+        "ft_facility_code": "1005-0025", 
+        "UTM_long": "8434278", 
+        "longitude": "34.18881294649445"
+    }, 
+    {
+        "latitude": "-14.151720289745084", 
+        "UTM_lat": "0646762", 
+        "ft_facility_code": "1005-0026", 
+        "UTM_long": "8429716", 
+        "longitude": "34.35978432124271"
+    }, 
+    {
+        "latitude": "-14.102103178992675", 
+        "UTM_lat": "0642313", 
+        "ft_facility_code": "1005-0027", 
+        "UTM_long": "8435223", 
+        "longitude": "34.31828572711967"
+    }, 
+    {
+        "latitude": "-14.190894743307197", 
+        "UTM_lat": "0642801", 
+        "ft_facility_code": "1005-0028", 
+        "UTM_long": "8425368", 
+        "longitude": "34.323318701945354"
+    }, 
+    {
+        "latitude": "-14.270675994098893", 
+        "UTM_lat": "0636613", 
+        "ft_facility_code": "1005-0029", 
+        "UTM_long": "8416513", 
+        "longitude": "34.26642965638014"
+    }, 
+    {
+        "latitude": "-14.36356612830747", 
+        "UTM_lat": "0637211", 
+        "ft_facility_code": "1005-0030", 
+        "UTM_long": "8406203", 
+        "longitude": "34.27249518934105"
+    }, 
+    {
+        "latitude": "-14.328617328911177", 
+        "UTM_lat": "0626691", 
+        "ft_facility_code": "1005-0031", 
+        "UTM_long": "8410082", 
+        "longitude": "34.1747658084263"
+    }, 
+    {
+        "latitude": "-14.271937060191778", 
+        "UTM_lat": "0617983", 
+        "ft_facility_code": "1005-0032", 
+        "UTM_long": "8416373", 
+        "longitude": "34.093756083084145"
+    }, 
+    {
+        "latitude": "-14.336645306548055", 
+        "UTM_lat": "0643978", 
+        "ft_facility_code": "1005-0033", 
+        "UTM_long": "8409191", 
+        "longitude": "34.33508109918524"
+    }, 
+    {
+        "latitude": "-14.336645306548055", 
+        "UTM_lat": "0643978", 
+        "ft_facility_code": "1005-0034", 
+        "UTM_long": "8409191", 
+        "longitude": "34.33508109918524"
+    }, 
+    {
+        "latitude": "-13.939573634537895", 
+        "UTM_lat": "0583603", 
+        "ft_facility_code": "1006-0000", 
+        "UTM_long": "8453262", 
+        "longitude": "33.77394110739775"
+    }, 
+    {
+        "latitude": "-13.938717694231793", 
+        "UTM_lat": "0583655", 
+        "ft_facility_code": "1006-0001", 
+        "UTM_long": "8453357", 
+        "longitude": "33.77441960473627"
+    }, 
+    {
+        "latitude": "-13.939114140911611", 
+        "UTM_lat": "0586073", 
+        "ft_facility_code": "1006-0002", 
+        "UTM_long": "8453313", 
+        "longitude": "33.79680360686629"
+    }, 
+    {
+        "latitude": "-13.92900504253397", 
+        "UTM_lat": "0588613", 
+        "ft_facility_code": "1006-0003", 
+        "UTM_long": "8454435", 
+        "longitude": "33.820279787399734"
+    }, 
+    {
+        "latitude": "-13.817885558362889", 
+        "UTM_lat": "0591814", 
+        "ft_facility_code": "1006-0004", 
+        "UTM_long": "8466768", 
+        "longitude": "33.84950440315796"
+    }, 
+    {
+        "latitude": "-13.925383098542168", 
+        "UTM_lat": "0595211", 
+        "ft_facility_code": "1006-0005", 
+        "UTM_long": "8454837", 
+        "longitude": "33.88133799828173"
+    }, 
+    {
+        "latitude": "-13.954728302203257", 
+        "UTM_lat": "0588219", 
+        "ft_facility_code": "1006-0006", 
+        "UTM_long": "8451580", 
+        "longitude": "33.816723275746284"
+    }, 
+    {
+        "latitude": "-13.954458009936454", 
+        "UTM_lat": "0589084", 
+        "ft_facility_code": "1006-0007", 
+        "UTM_long": "8451610", 
+        "longitude": "33.82472981883815"
+    }, 
+    {
+        "latitude": "-13.973585948270037", 
+        "UTM_lat": "0576474", 
+        "ft_facility_code": "1006-0008", 
+        "UTM_long": "8449487", 
+        "longitude": "33.708053077380306"
+    }, 
+    {
+        "latitude": "-13.959305276377219", 
+        "UTM_lat": "0576078", 
+        "ft_facility_code": "1006-0009", 
+        "UTM_long": "8451072", 
+        "longitude": "33.70434342952187"
+    }, 
+    {
+        "latitude": "-13.888532481458935", 
+        "UTM_lat": "0584231", 
+        "ft_facility_code": "1006-0010", 
+        "UTM_long": "8458927", 
+        "longitude": "33.779583374727835"
+    }, 
+    {
+        "latitude": "-13.875098679493645", 
+        "UTM_lat": "0584617", 
+        "ft_facility_code": "1006-0011", 
+        "UTM_long": "8460418", 
+        "longitude": "33.78311059869374"
+    }, 
+    {
+        "latitude": "-13.83980673688452", 
+        "UTM_lat": "0583522", 
+        "ft_facility_code": "1006-0012", 
+        "UTM_long": "8464335", 
+        "longitude": "33.772860598153464"
+    }, 
+    {
+        "latitude": "-13.805118496295126", 
+        "UTM_lat": "0600329", 
+        "ft_facility_code": "1006-0013", 
+        "UTM_long": "8468185", 
+        "longitude": "33.92823147486126"
+    }, 
+    {
+        "latitude": "-13.718631542991448", 
+        "UTM_lat": "0586935", 
+        "ft_facility_code": "1006-0014", 
+        "UTM_long": "8477784", 
+        "longitude": "33.804025780349214"
+    }, 
+    {
+        "latitude": "-13.68432135774173", 
+        "UTM_lat": "0577120", 
+        "ft_facility_code": "1006-0015", 
+        "UTM_long": "8481592", 
+        "longitude": "33.71315275675202"
+    }, 
+    {
+        "latitude": "-13.671554106559132", 
+        "UTM_lat": "0560249", 
+        "ft_facility_code": "1006-0016", 
+        "UTM_long": "8483009", 
+        "longitude": "33.55711727715083"
+    }, 
+    {
+        "latitude": "-13.722478753319319", 
+        "UTM_lat": "0569124", 
+        "ft_facility_code": "1006-0017", 
+        "UTM_long": "8477357", 
+        "longitude": "33.63931783523282"
+    }, 
+    {
+        "latitude": "-13.772799563707238", 
+        "UTM_lat": "0564919", 
+        "ft_facility_code": "1006-0018", 
+        "UTM_long": "8471772", 
+        "longitude": "33.60055616628117"
+    }, 
+    {
+        "latitude": "-13.742525986652195", 
+        "UTM_lat": "0558081", 
+        "ft_facility_code": "1006-0019", 
+        "UTM_long": "8475132", 
+        "longitude": "33.53723185434006"
+    }, 
+    {
+        "latitude": "-13.832175234148885", 
+        "UTM_lat": "0554406", 
+        "ft_facility_code": "1006-0020", 
+        "UTM_long": "8465182", 
+        "longitude": "33.50343219279765"
+    }, 
+    {
+        "latitude": "-13.766231262811518", 
+        "UTM_lat": "0548389", 
+        "ft_facility_code": "1006-0021", 
+        "UTM_long": "8472501", 
+        "longitude": "33.447630931423724"
+    }, 
+    {
+        "latitude": "-13.874999525977715", 
+        "UTM_lat": "0572403", 
+        "ft_facility_code": "1006-0022", 
+        "UTM_long": "8460429", 
+        "longitude": "33.67007853606509"
+    }, 
+    {
+        "latitude": "-13.823615838814828", 
+        "UTM_lat": "0580635", 
+        "ft_facility_code": "1006-0023", 
+        "UTM_long": "8466132", 
+        "longitude": "33.74609615361377"
+    }, 
+    {
+        "latitude": "-13.823805077427604", 
+        "UTM_lat": "0587343", 
+        "ft_facility_code": "1006-0024", 
+        "UTM_long": "8466111", 
+        "longitude": "33.80816010000189"
+    }, 
+    {
+        "latitude": "-13.936230959374193", 
+        "UTM_lat": "0583164", 
+        "ft_facility_code": "1006-0025", 
+        "UTM_long": "8453633", 
+        "longitude": "33.7698663223973"
+    }, 
+    {
+        "latitude": "-13.96669342243708", 
+        "UTM_lat": "0585522", 
+        "ft_facility_code": "1006-0026", 
+        "UTM_long": "8450252", 
+        "longitude": "33.79179726003326"
+    }, 
+    {
+        "latitude": "-14.082046883693668", 
+        "UTM_lat": "0616661", 
+        "ft_facility_code": "1006-0027", 
+        "UTM_long": "8437449", 
+        "longitude": "34.08060294788922"
+    }, 
+    {
+        "latitude": "-14.056323713818971", 
+        "UTM_lat": "0608449", 
+        "ft_facility_code": "1006-0028", 
+        "UTM_long": "8440304", 
+        "longitude": "34.004433489203926"
+    }, 
+    {
+        "latitude": "-13.917031125046131", 
+        "UTM_lat": "0618313", 
+        "ft_facility_code": "1006-0029", 
+        "UTM_long": "8455764", 
+        "longitude": "34.09512156446915"
+    }, 
+    {
+        "latitude": "-13.88495585087555", 
+        "UTM_lat": "0621354", 
+        "ft_facility_code": "1006-0030", 
+        "UTM_long": "8459324", 
+        "longitude": "34.123111096694124"
+    }, 
+    {
+        "latitude": "-13.991975424148583", 
+        "UTM_lat": "0619084", 
+        "ft_facility_code": "1006-0031", 
+        "UTM_long": "8447446", 
+        "longitude": "34.10261308411417"
+    }, 
+    {
+        "latitude": "-13.958818909210681", 
+        "UTM_lat": "0605226", 
+        "ft_facility_code": "1006-0032", 
+        "UTM_long": "8451126", 
+        "longitude": "33.974174828187834"
+    }, 
+    {
+        "latitude": "-14.032132184169514", 
+        "UTM_lat": "0597960", 
+        "ft_facility_code": "1006-0033", 
+        "UTM_long": "8442989", 
+        "longitude": "33.90720032553077"
+    }, 
+    {
+        "latitude": "-14.094119828778018", 
+        "UTM_lat": "0590752", 
+        "ft_facility_code": "1006-0034", 
+        "UTM_long": "8436109", 
+        "longitude": "33.84067920527493"
+    }, 
+    {
+        "latitude": "-14.209355118676093", 
+        "UTM_lat": "0594163", 
+        "ft_facility_code": "1006-0035", 
+        "UTM_long": "8423319", 
+        "longitude": "33.87271398126158"
+    }, 
+    {
+        "latitude": "-14.230131650405246", 
+        "UTM_lat": "0597839", 
+        "ft_facility_code": "1006-0036", 
+        "UTM_long": "8421013", 
+        "longitude": "33.906863403727634"
+    }, 
+    {
+        "latitude": "-14.12677136245485", 
+        "UTM_lat": "0583600", 
+        "ft_facility_code": "1006-0037", 
+        "UTM_long": "8432485", 
+        "longitude": "33.774541524205155"
+    }, 
+    {
+        "latitude": "-14.123870192053143", 
+        "UTM_lat": "0580661", 
+        "ft_facility_code": "1006-0038", 
+        "UTM_long": "8432807", 
+        "longitude": "33.74730434161403"
+    }, 
+    {
+        "latitude": "-14.176307203022944", 
+        "UTM_lat": "0581487", 
+        "ft_facility_code": "1006-0039", 
+        "UTM_long": "8426987", 
+        "longitude": "33.75512965522745"
+    }, 
+    {
+        "latitude": "-14.1945610204336", 
+        "UTM_lat": "0583468", 
+        "ft_facility_code": "1006-0040", 
+        "UTM_long": "8424961", 
+        "longitude": "33.773548046530856"
+    }, 
+    {
+        "latitude": "-14.299893935848626", 
+        "UTM_lat": "0576594", 
+        "ft_facility_code": "1006-0041", 
+        "UTM_long": "8413270", 
+        "longitude": "33.710175509052334"
+    }, 
+    {
+        "latitude": "-14.350834802302934", 
+        "UTM_lat": "0572002", 
+        "ft_facility_code": "1006-0042", 
+        "UTM_long": "8407616", 
+        "longitude": "33.66775147518897"
+    }, 
+    {
+        "latitude": "-14.212184083041468", 
+        "UTM_lat": "0570986", 
+        "ft_facility_code": "1006-0043", 
+        "UTM_long": "8423005", 
+        "longitude": "33.657926648161464"
+    }, 
+    {
+        "latitude": "-14.11463509872488", 
+        "UTM_lat": "0568932", 
+        "ft_facility_code": "1006-0044", 
+        "UTM_long": "8433832", 
+        "longitude": "33.63861751494487"
+    }, 
+    {
+        "latitude": "-13.6336398467232", 
+        "UTM_lat": "0554715", 
+        "ft_facility_code": "1006-0045", 
+        "UTM_long": "8487217", 
+        "longitude": "33.50586554602408"
+    }, 
+    {
+        "latitude": "-14.115040502754642", 
+        "UTM_lat": "0540849", 
+        "ft_facility_code": "1006-0046", 
+        "UTM_long": "8433787", 
+        "longitude": "33.3784498692837"
+    }, 
+    {
+        "latitude": "-14.020680492734328", 
+        "UTM_lat": "0548313", 
+        "ft_facility_code": "1006-0047", 
+        "UTM_long": "8444260", 
+        "longitude": "33.447415991245045"
+    }, 
+    {
+        "latitude": "-13.977775489582834", 
+        "UTM_lat": "0548354", 
+        "ft_facility_code": "1006-0048", 
+        "UTM_long": "8449022", 
+        "longitude": "33.44771261215835"
+    }, 
+    {
+        "latitude": "-13.930347406980983", 
+        "UTM_lat": "0537871", 
+        "ft_facility_code": "1006-0049", 
+        "UTM_long": "8454286", 
+        "longitude": "33.35057969006412"
+    }, 
+    {
+        "latitude": "-13.966927584783303", 
+        "UTM_lat": "0541534", 
+        "ft_facility_code": "1006-0050", 
+        "UTM_long": "8450226", 
+        "longitude": "33.38454891034925"
+    }, 
+    {
+        "latitude": "-13.950034057453065", 
+        "UTM_lat": "0559407", 
+        "ft_facility_code": "1006-0051", 
+        "UTM_long": "8452101", 
+        "longitude": "33.54998417514841"
+    }, 
+    {
+        "latitude": "-13.92369813625477", 
+        "UTM_lat": "0569648", 
+        "ft_facility_code": "1006-0052", 
+        "UTM_long": "8455024", 
+        "longitude": "33.64471732805713"
+    }, 
+    {
+        "latitude": "-13.83181482172035", 
+        "UTM_lat": "0532017", 
+        "ft_facility_code": "1006-0053", 
+        "UTM_long": "8465222", 
+        "longitude": "33.29626342405428"
+    }, 
+    {
+        "latitude": "-13.801298087567659", 
+        "UTM_lat": "0540381", 
+        "ft_facility_code": "1006-0054", 
+        "UTM_long": "8468609", 
+        "longitude": "33.37360848441122"
+    }, 
+    {
+        "latitude": "-13.721460585095157", 
+        "UTM_lat": "0539662", 
+        "ft_facility_code": "1006-0055", 
+        "UTM_long": "8477470", 
+        "longitude": "33.3668319192505"
+    }, 
+    {
+        "latitude": "-13.567578032945889", 
+        "UTM_lat": "0544764", 
+        "ft_facility_code": "1006-0056", 
+        "UTM_long": "8494549", 
+        "longitude": "33.41375112576027"
+    }, 
+    {
+        "latitude": "-13.676617730503752", 
+        "UTM_lat": "0549459", 
+        "ft_facility_code": "1006-0057", 
+        "UTM_long": "8482447", 
+        "longitude": "33.45735534985181"
+    }, 
+    {
+        "latitude": "-13.853997317592528", 
+        "UTM_lat": "0542931", 
+        "ft_facility_code": "1006-0058", 
+        "UTM_long": "8462760", 
+        "longitude": "33.397290275239044"
+    }, 
+    {
+        "latitude": "-13.99816492982406", 
+        "UTM_lat": "0585614", 
+        "ft_facility_code": "1006-0059", 
+        "UTM_long": "8446759", 
+        "longitude": "33.79275669781227"
+    }, 
+    {
+        "latitude": "-13.915580239848948", 
+        "UTM_lat": "0579985", 
+        "ft_facility_code": "1006-0060", 
+        "UTM_long": "8455925", 
+        "longitude": "33.74037369629803"
+    }, 
+    {
+        "latitude": "-13.928725717927412", 
+        "UTM_lat": "0585030", 
+        "ft_facility_code": "1006-0061", 
+        "UTM_long": "8454466", 
+        "longitude": "33.787113712357666"
+    }, 
+    {
+        "latitude": "-13.92393244621667", 
+        "UTM_lat": "0584736", 
+        "ft_facility_code": "1006-0062", 
+        "UTM_long": "8454998", 
+        "longitude": "33.784376199965614"
+    }, 
+    {
+        "latitude": "-13.943132537001542", 
+        "UTM_lat": "0581773", 
+        "ft_facility_code": "1006-0063", 
+        "UTM_long": "8452867", 
+        "longitude": "33.75701283971155"
+    }, 
+    {
+        "latitude": "-13.943132537001542", 
+        "UTM_lat": "0581773", 
+        "ft_facility_code": "1006-0064", 
+        "UTM_long": "8452867", 
+        "longitude": "33.75701283971155"
+    }, 
+    {
+        "latitude": "-13.573948152614587", 
+        "UTM_lat": "0492175", 
+        "ft_facility_code": "1007-0000", 
+        "UTM_long": "8493842", 
+        "longitude": "32.927671391211014"
+    }, 
+    {
+        "latitude": "-13.701989945522552", 
+        "UTM_lat": "0527971", 
+        "ft_facility_code": "1007-0001", 
+        "UTM_long": "8479631", 
+        "longitude": "33.25868205601984"
+    }, 
+    {
+        "latitude": "-13.655921671969038", 
+        "UTM_lat": "0527758", 
+        "ft_facility_code": "1007-0002", 
+        "UTM_long": "8484744", 
+        "longitude": "33.25666228517242"
+    }, 
+    {
+        "latitude": "-13.654777395949072", 
+        "UTM_lat": "0514860", 
+        "ft_facility_code": "1007-0003", 
+        "UTM_long": "8484871", 
+        "longitude": "33.13740157184444"
+    }, 
+    {
+        "latitude": "-13.369129916360817", 
+        "UTM_lat": "0511978", 
+        "ft_facility_code": "1007-0004", 
+        "UTM_long": "8516574", 
+        "longitude": "33.11062170811094"
+    }, 
+    {
+        "latitude": "-13.497272222754935", 
+        "UTM_lat": "0502718", 
+        "ft_facility_code": "1007-0005", 
+        "UTM_long": "8502352", 
+        "longitude": "33.02511518010218"
+    }, 
+    {
+        "latitude": "-13.522815884232758", 
+        "UTM_lat": "0485200", 
+        "ft_facility_code": "1007-0006", 
+        "UTM_long": "8499517", 
+        "longitude": "32.863228893025855"
+    }, 
+    {
+        "latitude": "-13.74930148227996", 
+        "UTM_lat": "0487714", 
+        "ft_facility_code": "1007-0007", 
+        "UTM_long": "8474380", 
+        "longitude": "32.88635322297556"
+    }, 
+    {
+        "latitude": "-13.869800743992457", 
+        "UTM_lat": "0524396", 
+        "ft_facility_code": "1007-0008", 
+        "UTM_long": "8461006", 
+        "longitude": "33.22578102136253"
+    }, 
+    {
+        "latitude": "-13.74930148227996", 
+        "UTM_lat": "0487714", 
+        "ft_facility_code": "1007-0009", 
+        "UTM_long": "8474380", 
+        "longitude": "32.88635322297556"
+    }, 
+    {
+        "latitude": "-13.418838999354007", 
+        "UTM_lat": "0515659", 
+        "ft_facility_code": "1007-0010", 
+        "UTM_long": "8511057", 
+        "longitude": "33.14464686507705"
+    }, 
+    {
+        "latitude": "-13.847176783654453", 
+        "UTM_lat": "0506634", 
+        "ft_facility_code": "1007-0011", 
+        "UTM_long": "8463517", 
+        "longitude": "33.06139080709541"
+    }, 
+    {
+        "latitude": "-13.705170480072915", 
+        "UTM_lat": "0499130", 
+        "ft_facility_code": "1007-0012", 
+        "UTM_long": "8479278", 
+        "longitude": "32.99195390843851"
+    }, 
+    {
+        "latitude": "-13.461889463905855", 
+        "UTM_lat": "0495664", 
+        "ft_facility_code": "1007-0013", 
+        "UTM_long": "8506279", 
+        "longitude": "32.959939882839436"
+    }, 
+    {
+        "latitude": "-13.352578213315228", 
+        "UTM_lat": "0499217", 
+        "ft_facility_code": "1007-0014", 
+        "UTM_long": "8518411", 
+        "longitude": "32.99276916437861"
+    }, 
+    {
+        "latitude": "-13.572398418963278", 
+        "UTM_lat": "0508697", 
+        "ft_facility_code": "1007-0015", 
+        "UTM_long": "8494014", 
+        "longitude": "33.08038821561376"
+    }, 
+    {
+        "latitude": "-13.509589047475544", 
+        "UTM_lat": "0518695", 
+        "ft_facility_code": "1007-0016", 
+        "UTM_long": "8500985", 
+        "longitude": "33.172756305756764"
+    }, 
+    {
+        "latitude": "-13.742562005919428", 
+        "UTM_lat": "0518871", 
+        "ft_facility_code": "1007-0017", 
+        "UTM_long": "8475128", 
+        "longitude": "33.174553555260424"
+    }, 
+    {
+        "latitude": "-13.72896591514179", 
+        "UTM_lat": "0504674", 
+        "ft_facility_code": "1007-0018", 
+        "UTM_long": "8476637", 
+        "longitude": "33.04323128362137"
+    }, 
+    {
+        "latitude": "-13.836166626691128", 
+        "UTM_lat": "0508079", 
+        "ft_facility_code": "1007-0019", 
+        "UTM_long": "8464739", 
+        "longitude": "33.074759262448815"
+    }, 
+    {
+        "latitude": "-14.005697081662866", 
+        "UTM_lat": "0532965", 
+        "ft_facility_code": "1007-0020", 
+        "UTM_long": "8445923", 
+        "longitude": "33.30526353046896"
+    }, 
+    {
+        "latitude": "-13.91700373085212", 
+        "UTM_lat": "0529357", 
+        "ft_facility_code": "1007-0021", 
+        "UTM_long": "8455767", 
+        "longitude": "33.271748957708986"
+    }, 
+    {
+        "latitude": "-14.765764197945428", 
+        "UTM_lat": "0676200", 
+        "ft_facility_code": "1008-0000", 
+        "UTM_long": "8361562", 
+        "longitude": "34.63694877513215"
+    }, 
+    {
+        "latitude": "-14.748114671153845", 
+        "UTM_lat": "0677462", 
+        "ft_facility_code": "1008-0001", 
+        "UTM_long": "8363521", 
+        "longitude": "34.64853680807415"
+    }, 
+    {
+        "latitude": "-14.89668949670862", 
+        "UTM_lat": "0676614", 
+        "ft_facility_code": "1008-0002", 
+        "UTM_long": "8347030", 
+        "longitude": "34.64178017826398"
+    }, 
+    {
+        "latitude": "-14.813758230072484", 
+        "UTM_lat": "0688420", 
+        "ft_facility_code": "1008-0003", 
+        "UTM_long": "8356235", 
+        "longitude": "34.750823998252805"
+    }, 
+    {
+        "latitude": "-14.757223710570893", 
+        "UTM_lat": "0686745", 
+        "ft_facility_code": "1008-0004", 
+        "UTM_long": "8362510", 
+        "longitude": "34.73481603486211"
+    }, 
+    {
+        "latitude": "-14.723772566639568", 
+        "UTM_lat": "0705239", 
+        "ft_facility_code": "1008-0005", 
+        "UTM_long": "8366223", 
+        "longitude": "34.906265200163276"
+    }, 
+    {
+        "latitude": "-14.77514428029774", 
+        "UTM_lat": "0699146", 
+        "ft_facility_code": "1008-0006", 
+        "UTM_long": "8360521", 
+        "longitude": "34.85012825745797"
+    }, 
+    {
+        "latitude": "-14.599106741246903", 
+        "UTM_lat": "0691056", 
+        "ft_facility_code": "1008-0007", 
+        "UTM_long": "8380060", 
+        "longitude": "34.77357696697288"
+    }, 
+    {
+        "latitude": "-14.85161580845505", 
+        "UTM_lat": "0686231", 
+        "ft_facility_code": "1008-0008", 
+        "UTM_long": "8352033", 
+        "longitude": "34.73079092692188"
+    }, 
+    {
+        "latitude": "-14.953944902003952", 
+        "UTM_lat": "0690310", 
+        "ft_facility_code": "1008-0009", 
+        "UTM_long": "8340675", 
+        "longitude": "34.769522585332936"
+    }, 
+    {
+        "latitude": "-14.295733652389675", 
+        "UTM_lat": "0685424", 
+        "ft_facility_code": "1008-0010", 
+        "UTM_long": "8413732", 
+        "longitude": "34.71898164401146"
+    }, 
+    {
+        "latitude": "-14.957972671884248", 
+        "UTM_lat": "0699893", 
+        "ft_facility_code": "1008-0011", 
+        "UTM_long": "8340228", 
+        "longitude": "34.85862827754759"
+    }, 
+    {
+        "latitude": "-14.948566658795071", 
+        "UTM_lat": "0696449", 
+        "ft_facility_code": "1008-0012", 
+        "UTM_long": "8341272", 
+        "longitude": "34.82653777403283"
+    }, 
+    {
+        "latitude": "-15.028101530915757", 
+        "UTM_lat": "0699615", 
+        "ft_facility_code": "1008-0013", 
+        "UTM_long": "8332444", 
+        "longitude": "34.85664866529255"
+    }, 
+    {
+        "latitude": "-15.155673280161695", 
+        "UTM_lat": "0698394", 
+        "ft_facility_code": "1008-0014", 
+        "UTM_long": "8318284", 
+        "longitude": "34.84639681129285"
+    }, 
+    {
+        "latitude": "-15.032344430309786", 
+        "UTM_lat": "0691379", 
+        "ft_facility_code": "1008-0015", 
+        "UTM_long": "8331973", 
+        "longitude": "34.780106582171385"
+    }, 
+    {
+        "latitude": "-15.059453823046017", 
+        "UTM_lat": "0696531", 
+        "ft_facility_code": "1008-0016", 
+        "UTM_long": "8328964", 
+        "longitude": "34.82824145118223"
+    }, 
+    {
+        "latitude": "-14.84163263356604", 
+        "UTM_lat": "0670528", 
+        "ft_facility_code": "1008-0017", 
+        "UTM_long": "8353141", 
+        "longitude": "34.58481963770405"
+    }, 
+    {
+        "latitude": "-14.88674446221023", 
+        "UTM_lat": "0701503", 
+        "ft_facility_code": "1008-0018", 
+        "UTM_long": "8348134", 
+        "longitude": "34.87297624387844"
+    }, 
+    {
+        "latitude": "-14.981521901204813", 
+        "UTM_lat": "0676338", 
+        "ft_facility_code": "1008-0019", 
+        "UTM_long": "8337614", 
+        "longitude": "34.63985855318945"
+    }, 
+    {
+        "latitude": "-15.02978478344084", 
+        "UTM_lat": "0670896", 
+        "ft_facility_code": "1008-0020", 
+        "UTM_long": "8332257", 
+        "longitude": "34.58962117997789"
+    }, 
+    {
+        "latitude": "-15.053353569744926", 
+        "UTM_lat": "0679219", 
+        "ft_facility_code": "1008-0021", 
+        "UTM_long": "8329641", 
+        "longitude": "34.667199254941465"
+    }, 
+    {
+        "latitude": "-14.548039492481637", 
+        "UTM_lat": "0670851", 
+        "ft_facility_code": "1008-0022", 
+        "UTM_long": "8385728", 
+        "longitude": "34.58570278904643"
+    }, 
+    {
+        "latitude": "-14.552319176898823", 
+        "UTM_lat": "0674029", 
+        "ft_facility_code": "1008-0023", 
+        "UTM_long": "8385253", 
+        "longitude": "34.61522127595863"
+    }, 
+    {
+        "latitude": "-14.647784430062558", 
+        "UTM_lat": "0671095", 
+        "ft_facility_code": "1008-0024", 
+        "UTM_long": "8374657", 
+        "longitude": "34.58868204128894"
+    }, 
+    {
+        "latitude": "-14.668875949012419", 
+        "UTM_lat": "0675774", 
+        "ft_facility_code": "1008-0025", 
+        "UTM_long": "8372316", 
+        "longitude": "34.63227201716286"
+    }, 
+    {
+        "latitude": "-14.68505719179479", 
+        "UTM_lat": "0678759", 
+        "ft_facility_code": "1008-0026", 
+        "UTM_long": "8370520", 
+        "longitude": "34.66010503944331"
+    }, 
+    {
+        "latitude": "-14.381847156745648", 
+        "UTM_lat": "0653252", 
+        "ft_facility_code": "1008-0027", 
+        "UTM_long": "8404174", 
+        "longitude": "34.42134402609761"
+    }, 
+    {
+        "latitude": "-14.42744519758191", 
+        "UTM_lat": "0657259", 
+        "ft_facility_code": "1008-0028", 
+        "UTM_long": "8399113", 
+        "longitude": "34.458794857725245"
+    }, 
+    {
+        "longitude": "", 
+        "null": [
+            ""
+        ], 
+        "UTM_lat": "0868995", 
+        "latitude": "", 
+        "ft_facility_code": "1008-0029", 
+        "UTM_long": "8384264"
+    }, 
+    {
+        "latitude": "-14.466276787669301", 
+        "UTM_lat": "0657860", 
+        "ft_facility_code": "1008-0030", 
+        "UTM_long": "8394803", 
+        "longitude": "34.46462266172374"
+    }, 
+    {
+        "latitude": "-14.59083487312601", 
+        "UTM_lat": "0667235", 
+        "ft_facility_code": "1008-0031", 
+        "UTM_long": "8380978", 
+        "longitude": "34.552450146769765"
+    }, 
+    {
+        "latitude": "-14.625071145002211", 
+        "UTM_lat": "0665398", 
+        "ft_facility_code": "1008-0032", 
+        "UTM_long": "8377178", 
+        "longitude": "34.535639102318214"
+    }, 
+    {
+        "latitude": "-14.765764197945428", 
+        "UTM_lat": "0676200", 
+        "ft_facility_code": "1008-0033", 
+        "UTM_long": "8361562", 
+        "longitude": "34.63694877513215"
+    }, 
+    {
+        "latitude": "-15.121211425980912", 
+        "UTM_lat": "0672991", 
+        "ft_facility_code": "1008-0034", 
+        "UTM_long": "8322109", 
+        "longitude": "34.60978984088219"
+    }, 
+    {
+        "latitude": "-14.709067093078017", 
+        "UTM_lat": "0667587", 
+        "ft_facility_code": "1008-0035", 
+        "UTM_long": "8367855", 
+        "longitude": "34.55655067985634"
+    }, 
+    {
+        "latitude": "-14.440986992319592", 
+        "UTM_lat": "0666016", 
+        "ft_facility_code": "1008-0036", 
+        "UTM_long": "8397610", 
+        "longitude": "34.540100864008366"
+    }, 
+    {
+        "latitude": "-14.47327813506625", 
+        "UTM_lat": "0680568", 
+        "ft_facility_code": "1008-0037", 
+        "UTM_long": "8394026", 
+        "longitude": "34.67529949081045"
+    }, 
+    {
+        "latitude": "-14.969467953422306", 
+        "UTM_lat": "0688347", 
+        "ft_facility_code": "1008-0038", 
+        "UTM_long": "8338952", 
+        "longitude": "34.75140245877731"
+    }, 
+    {
+        "latitude": "-9.904479053105643", 
+        "UTM_lat": "0543560", 
+        "ft_facility_code": "1009-0002", 
+        "UTM_long": "8901068", 
+        "longitude": "33.397342746920245"
+    }, 
+    {
+        "latitude": "-10.07314010930011", 
+        "UTM_lat": "0561668", 
+        "ft_facility_code": "1009-0003", 
+        "UTM_long": "8882352", 
+        "longitude": "33.5628042244623"
+    }, 
+    {
+        "latitude": "-10.234743991725818", 
+        "UTM_lat": "0562519", 
+        "ft_facility_code": "1009-0004", 
+        "UTM_long": "8864419", 
+        "longitude": "33.57085689803904"
+    }, 
+    {
+        "latitude": "-10.143403213152007", 
+        "UTM_lat": "0575542", 
+        "ft_facility_code": "1009-0005", 
+        "UTM_long": "8874555", 
+        "longitude": "33.6895673029897"
+    }, 
+    {
+        "latitude": "-10.097777745709381", 
+        "UTM_lat": "0576989", 
+        "ft_facility_code": "1009-0006", 
+        "UTM_long": "8879618", 
+        "longitude": "33.70267599233035"
+    }, 
+    {
+        "latitude": "-10.21839712575123", 
+        "UTM_lat": "0570396", 
+        "ft_facility_code": "1009-0007", 
+        "UTM_long": "8866233", 
+        "longitude": "33.642745446528224"
+    }, 
+    {
+        "latitude": "-10.377017255925672", 
+        "UTM_lat": "0572510", 
+        "ft_facility_code": "1009-0008", 
+        "UTM_long": "8848631", 
+        "longitude": "33.66237719015699"
+    }, 
+    {
+        "latitude": "-9.506162012338294", 
+        "UTM_lat": "0514332", 
+        "ft_facility_code": "1009-0009", 
+        "UTM_long": "8945268", 
+        "longitude": "33.13057932658588"
+    }, 
+    {
+        "latitude": "-9.567081488241008", 
+        "UTM_lat": "0505480", 
+        "ft_facility_code": "1009-0010", 
+        "UTM_long": "8938508", 
+        "longitude": "33.04993736079131"
+    }, 
+    {
+        "latitude": "-9.44506215840892", 
+        "UTM_lat": "0512344", 
+        "ft_facility_code": "1009-0011", 
+        "UTM_long": "8952048", 
+        "longitude": "33.112446733401775"
+    }, 
+    {
+        "latitude": "-9.379654517151574", 
+        "UTM_lat": "0503645", 
+        "ft_facility_code": "1009-0012", 
+        "UTM_long": "8959306", 
+        "longitude": "33.033197629661075"
+    }, 
+    {
+        "latitude": "-9.420288740487115", 
+        "UTM_lat": "0496363", 
+        "ft_facility_code": "1009-0013", 
+        "UTM_long": "8954797", 
+        "longitude": "32.96687136810656"
+    }, 
+    {
+        "latitude": "-9.539820941856677", 
+        "UTM_lat": "0522113", 
+        "ft_facility_code": "1009-0014", 
+        "UTM_long": "8941533", 
+        "longitude": "33.20149175278549"
+    }, 
+    {
+        "latitude": "-9.528763515779135", 
+        "UTM_lat": "0528392", 
+        "ft_facility_code": "1009-0015", 
+        "UTM_long": "8942760", 
+        "longitude": "33.25869677204098"
+    }, 
+    {
+        "latitude": "-9.471052145576122", 
+        "UTM_lat": "0537413", 
+        "ft_facility_code": "1009-0016", 
+        "UTM_long": "8949164", 
+        "longitude": "33.340834626764206"
+    }, 
+    {
+        "latitude": "-9.45598444429046", 
+        "UTM_lat": "0527276", 
+        "ft_facility_code": "1009-0017", 
+        "UTM_long": "8950836", 
+        "longitude": "33.24847584982022"
+    }, 
+    {
+        "latitude": "-9.56612624781812", 
+        "UTM_lat": "0544054", 
+        "ft_facility_code": "1009-0018", 
+        "UTM_long": "8938614", 
+        "longitude": "33.40144453054947"
+    }, 
+    {
+        "latitude": "-9.628235129508553", 
+        "UTM_lat": "0540939", 
+        "ft_facility_code": "1009-0019", 
+        "UTM_long": "8931722", 
+        "longitude": "33.373127287464925"
+    }, 
+    {
+        "latitude": "-9.684423190746129", 
+        "UTM_lat": "0563986", 
+        "ft_facility_code": "1009-0020", 
+        "UTM_long": "8925487", 
+        "longitude": "33.58327337280899"
+    }, 
+    {
+        "latitude": "-9.71292721541554", 
+        "UTM_lat": "0574025", 
+        "ft_facility_code": "1009-0021", 
+        "UTM_long": "8922324", 
+        "longitude": "33.67483820447259"
+    }, 
+    {
+        "latitude": "-9.639779165850824", 
+        "UTM_lat": "0565274", 
+        "ft_facility_code": "1009-0022", 
+        "UTM_long": "8930441", 
+        "longitude": "33.59493547633713"
+    }, 
+    {
+        "latitude": "-9.641482371537444", 
+        "UTM_lat": "0557046", 
+        "ft_facility_code": "1009-0023", 
+        "UTM_long": "8930252", 
+        "longitude": "33.519946815814386"
+    }, 
+    {
+        "latitude": "-9.741998897284729", 
+        "UTM_lat": "0549680", 
+        "ft_facility_code": "1009-0024", 
+        "UTM_long": "8919098", 
+        "longitude": "33.45294562732809"
+    }, 
+    {
+        "latitude": "-9.926431366592487", 
+        "UTM_lat": "0542613", 
+        "ft_facility_code": "1009-0025", 
+        "UTM_long": "8898632", 
+        "longitude": "33.38873046781099"
+    }, 
+    {
+        "latitude": "-9.663065420187463", 
+        "UTM_lat": "0529158", 
+        "ft_facility_code": "1009-0026", 
+        "UTM_long": "8927857", 
+        "longitude": "33.265780830695775"
+    }, 
+    {
+        "latitude": "-9.663065420187463", 
+        "UTM_lat": "0529158", 
+        "ft_facility_code": "1009-0027", 
+        "UTM_long": "8927857", 
+        "longitude": "33.265780830695775"
+    }, 
+    {
+        "latitude": "-9.916563766023772", 
+        "UTM_lat": "0599828", 
+        "ft_facility_code": "1010-0000", 
+        "UTM_long": "8899727", 
+        "longitude": "33.9106056765364"
+    }, 
+    {
+        "latitude": "-9.916563766023772", 
+        "UTM_lat": "0599828", 
+        "ft_facility_code": "1010-0001", 
+        "UTM_long": "8899727", 
+        "longitude": "33.9106056765364"
+    }, 
+    {
+        "latitude": "-9.854284261989195", 
+        "UTM_lat": "0567240", 
+        "ft_facility_code": "1010-0002", 
+        "UTM_long": "8906638", 
+        "longitude": "33.61324541682259"
+    }, 
+    {
+        "latitude": "-9.905984056856132", 
+        "UTM_lat": "0584749", 
+        "ft_facility_code": "1010-0003", 
+        "UTM_long": "8900901", 
+        "longitude": "33.77304350576509"
+    }, 
+    {
+        "latitude": "-9.921979704461036", 
+        "UTM_lat": "0589298", 
+        "ft_facility_code": "1010-0004", 
+        "UTM_long": "8899126", 
+        "longitude": "33.81457416459214"
+    }, 
+    {
+        "latitude": "-10.02757775015382", 
+        "UTM_lat": "0608177", 
+        "ft_facility_code": "1010-0005", 
+        "UTM_long": "8887408", 
+        "longitude": "33.98708960113932"
+    }, 
+    {
+        "latitude": "-10.134220627820532", 
+        "UTM_lat": "0613395", 
+        "ft_facility_code": "1010-0006", 
+        "UTM_long": "8875574", 
+        "longitude": "34.03503752130589"
+    }, 
+    {
+        "latitude": "-10.246513286358738", 
+        "UTM_lat": "0621318", 
+        "ft_facility_code": "1010-0007", 
+        "UTM_long": "8863113", 
+        "longitude": "34.10773494789292"
+    }, 
+    {
+        "latitude": "-10.293192826022361", 
+        "UTM_lat": "0621519", 
+        "ft_facility_code": "1010-0008", 
+        "UTM_long": "8857933", 
+        "longitude": "34.109732707324135"
+    }, 
+    {
+        "latitude": "-10.290525501052935", 
+        "UTM_lat": "0628609", 
+        "ft_facility_code": "1010-0009", 
+        "UTM_long": "8858229", 
+        "longitude": "34.17446080700863"
+    }, 
+    {
+        "latitude": "-10.351217827872112", 
+        "UTM_lat": "0632257", 
+        "ft_facility_code": "1010-0010", 
+        "UTM_long": "8851494", 
+        "longitude": "34.208000813148935"
+    }, 
+    {
+        "latitude": "-10.372602025992071", 
+        "UTM_lat": "0632630", 
+        "ft_facility_code": "1010-0011", 
+        "UTM_long": "8849121", 
+        "longitude": "34.211489283816974"
+    }, 
+    {
+        "latitude": "-10.393166215841482", 
+        "UTM_lat": "0636922", 
+        "ft_facility_code": "1010-0012", 
+        "UTM_long": "8846839", 
+        "longitude": "34.25076925315622"
+    }, 
+    {
+        "latitude": "-9.835540113175497", 
+        "UTM_lat": "0595345", 
+        "ft_facility_code": "1010-0013", 
+        "UTM_long": "8908718", 
+        "longitude": "33.86950354825956"
+    }, 
+    {
+        "latitude": "-9.891682633225656", 
+        "UTM_lat": "0593434", 
+        "ft_facility_code": "1010-0014", 
+        "UTM_long": "8902488", 
+        "longitude": "33.85222165029807"
+    }, 
+    {
+        "latitude": "-9.729661997045653", 
+        "UTM_lat": "0595856", 
+        "ft_facility_code": "1010-0015", 
+        "UTM_long": "8920467", 
+        "longitude": "33.873886642483576"
+    }, 
+    {
+        "latitude": "-9.735970124877058", 
+        "UTM_lat": "0580473", 
+        "ft_facility_code": "1010-0016", 
+        "UTM_long": "8919767", 
+        "longitude": "33.73366750212451"
+    }, 
+    {
+        "latitude": "-9.697913778581325", 
+        "UTM_lat": "0591796", 
+        "ft_facility_code": "1010-0017", 
+        "UTM_long": "8923990", 
+        "longitude": "33.836796934792524"
+    }, 
+    {
+        "latitude": "-9.608553590020898", 
+        "UTM_lat": "0589053", 
+        "ft_facility_code": "1010-0018", 
+        "UTM_long": "8933906", 
+        "longitude": "33.811580068568716"
+    }, 
+    {
+        "latitude": "-9.554104635533285", 
+        "UTM_lat": "0585037", 
+        "ft_facility_code": "1010-0019", 
+        "UTM_long": "8939948", 
+        "longitude": "33.77485933140594"
+    }, 
+    {
+        "latitude": "-9.582536671484016", 
+        "UTM_lat": "0576619", 
+        "ft_facility_code": "1010-0020", 
+        "UTM_long": "8936793", 
+        "longitude": "33.6982164565279"
+    }, 
+    {
+        "latitude": "-10.408269216994084", 
+        "UTM_lat": "0621640", 
+        "ft_facility_code": "1010-0021", 
+        "UTM_long": "8845163", 
+        "longitude": "34.111242384753616"
+    }, 
+    {
+        "latitude": "-10.449379446167558", 
+        "UTM_lat": "0627867", 
+        "ft_facility_code": "1010-0022", 
+        "UTM_long": "8840601", 
+        "longitude": "34.168274393577796"
+    }, 
+    {
+        "latitude": "-10.476756202940605", 
+        "UTM_lat": "0632702", 
+        "ft_facility_code": "1010-0023", 
+        "UTM_long": "8837563", 
+        "longitude": "34.21254957211877"
+    }, 
+    {
+        "latitude": "-10.52718398829763", 
+        "UTM_lat": "0628960", 
+        "ft_facility_code": "1010-0024", 
+        "UTM_long": "8831967", 
+        "longitude": "34.17855352366348"
+    }, 
+    {
+        "latitude": "-12.025803415446871", 
+        "UTM_lat": "0689015", 
+        "ft_facility_code": "1011-0000", 
+        "UTM_long": "8665659", 
+        "longitude": "34.73621358373396"
+    }, 
+    {
+        "latitude": "-11.989579537790458", 
+        "UTM_lat": "0676837", 
+        "ft_facility_code": "1011-0001", 
+        "UTM_long": "8669679", 
+        "longitude": "34.624167150874584"
+    }, 
+    {
+        "latitude": "-11.42186299391119", 
+        "UTM_lat": "0611554", 
+        "ft_facility_code": "1012-0000", 
+        "UTM_long": "8732682", 
+        "longitude": "34.02257173588834"
+    }, 
+    {
+        "latitude": "-11.408968192062177", 
+        "UTM_lat": "0612003", 
+        "ft_facility_code": "1012-0004", 
+        "UTM_long": "8734113", 
+        "longitude": "34.0266407390422"
+    }, 
+    {
+        "latitude": "-11.412725788566428", 
+        "UTM_lat": "0610787", 
+        "ft_facility_code": "1012-0005", 
+        "UTM_long": "8733696", 
+        "longitude": "34.01550923177125"
+    }, 
+    {
+        "latitude": "-11.384584255712165", 
+        "UTM_lat": "0608597", 
+        "ft_facility_code": "1012-0006", 
+        "UTM_long": "8736819", 
+        "longitude": "33.995339207896855"
+    }, 
+    {
+        "latitude": "-11.428071576147918", 
+        "UTM_lat": "0608414", 
+        "ft_facility_code": "1012-0007", 
+        "UTM_long": "8731993", 
+        "longitude": "33.99381326793911"
+    }, 
+    {
+        "latitude": "-11.328039716303591", 
+        "UTM_lat": "0596319", 
+        "ft_facility_code": "1012-0008", 
+        "UTM_long": "8743094", 
+        "longitude": "33.88264203497123"
+    }, 
+    {
+        "latitude": "-11.34682788201791", 
+        "UTM_lat": "0607386", 
+        "ft_facility_code": "1012-0009", 
+        "UTM_long": "8741009", 
+        "longitude": "33.98411150721429"
+    }, 
+    {
+        "latitude": "-11.26991824320166", 
+        "UTM_lat": "0608095", 
+        "ft_facility_code": "1012-0010", 
+        "UTM_long": "8749544", 
+        "longitude": "33.99034417550526"
+    }, 
+    {
+        "latitude": "-11.379483925313675", 
+        "UTM_lat": "0597846", 
+        "ft_facility_code": "1012-0011", 
+        "UTM_long": "8737385", 
+        "longitude": "33.89679447852014"
+    }, 
+    {
+        "latitude": "-11.441281685557668", 
+        "UTM_lat": "0597661", 
+        "ft_facility_code": "1012-0012", 
+        "UTM_long": "8730527", 
+        "longitude": "33.89529261284236"
+    }, 
+    {
+        "latitude": "-11.400488656188532", 
+        "UTM_lat": "0589905", 
+        "ft_facility_code": "1012-0013", 
+        "UTM_long": "8735054", 
+        "longitude": "33.82407823577278"
+    }, 
+    {
+        "latitude": "-11.352766044979214", 
+        "UTM_lat": "0581305", 
+        "ft_facility_code": "1012-0014", 
+        "UTM_long": "8740350", 
+        "longitude": "33.74513059649241"
+    }, 
+    {
+        "latitude": "-11.480065056692608", 
+        "UTM_lat": "0576209", 
+        "ft_facility_code": "1012-0015", 
+        "UTM_long": "8726223", 
+        "longitude": "33.698741493540126"
+    }, 
+    {
+        "latitude": "-11.413086038104268", 
+        "UTM_lat": "0569079", 
+        "ft_facility_code": "1012-0016", 
+        "UTM_long": "8733656", 
+        "longitude": "33.63322228757834"
+    }, 
+    {
+        "latitude": "-11.344953423220367", 
+        "UTM_lat": "0573339", 
+        "ft_facility_code": "1012-0017", 
+        "UTM_long": "8741217", 
+        "longitude": "33.672110534537254"
+    }, 
+    {
+        "latitude": "-11.244218385776023", 
+        "UTM_lat": "0567001", 
+        "ft_facility_code": "1012-0018", 
+        "UTM_long": "8752396", 
+        "longitude": "33.61381460671411"
+    }, 
+    {
+        "latitude": "-11.264709637638948", 
+        "UTM_lat": "0557286", 
+        "ft_facility_code": "1012-0019", 
+        "UTM_long": "8750122", 
+        "longitude": "33.52485274553901"
+    }, 
+    {
+        "latitude": "-11.185420766910537", 
+        "UTM_lat": "0554498", 
+        "ft_facility_code": "1012-0020", 
+        "UTM_long": "8758921", 
+        "longitude": "33.49917363818367"
+    }, 
+    {
+        "latitude": "-11.141932979510658", 
+        "UTM_lat": "0562835", 
+        "ft_facility_code": "1012-0021", 
+        "UTM_long": "8763747", 
+        "longitude": "33.5754481254259"
+    }, 
+    {
+        "latitude": "-11.154611745130211", 
+        "UTM_lat": "0589788", 
+        "ft_facility_code": "1012-0022", 
+        "UTM_long": "8762340", 
+        "longitude": "33.8223065197078"
+    }, 
+    {
+        "latitude": "-11.06006653402998", 
+        "UTM_lat": "0586094", 
+        "ft_facility_code": "1012-0023", 
+        "UTM_long": "8772832", 
+        "longitude": "33.78822427528583"
+    }, 
+    {
+        "latitude": "-11.09652574918388", 
+        "UTM_lat": "0578056", 
+        "ft_facility_code": "1012-0024", 
+        "UTM_long": "8768786", 
+        "longitude": "33.71472588509779"
+    }, 
+    {
+        "latitude": "-11.021264386382471", 
+        "UTM_lat": "0600022", 
+        "ft_facility_code": "1012-0025", 
+        "UTM_long": "8777138", 
+        "longitude": "33.91560983725764"
+    }, 
+    {
+        "latitude": "-10.954833716261605", 
+        "UTM_lat": "0604353", 
+        "ft_facility_code": "1012-0026", 
+        "UTM_long": "8784510", 
+        "longitude": "33.95503883037432"
+    }, 
+    {
+        "latitude": "-11.137211238210433", 
+        "UTM_lat": "0596654", 
+        "ft_facility_code": "1012-0027", 
+        "UTM_long": "8764271", 
+        "longitude": "33.88512984001844"
+    }, 
+    {
+        "latitude": "-11.405787288268344", 
+        "UTM_lat": "0611564", 
+        "ft_facility_code": "1012-0028", 
+        "UTM_long": "8734466", 
+        "longitude": "34.022605850487274"
+    }, 
+    {
+        "latitude": "-11.179293324359701", 
+        "UTM_lat": "0599734", 
+        "ft_facility_code": "1012-0029", 
+        "UTM_long": "8759601", 
+        "longitude": "33.91346460104608"
+    }, 
+    {
+        "latitude": "-11.488796847476658", 
+        "UTM_lat": "0602447", 
+        "ft_facility_code": "1012-0030", 
+        "UTM_long": "8725254", 
+        "longitude": "33.939320471426996"
+    }, 
+    {
+        "latitude": "-11.418754185332277", 
+        "UTM_lat": "0611710", 
+        "ft_facility_code": "1012-0031", 
+        "UTM_long": "8733027", 
+        "longitude": "34.023990418634"
+    }, 
+    {
+        "latitude": "-11.416384293421688", 
+        "UTM_lat": "0613198", 
+        "ft_facility_code": "1012-0032", 
+        "UTM_long": "8733290", 
+        "longitude": "34.03762002136885"
+    }, 
+    {
+        "latitude": "-11.41810538141116", 
+        "UTM_lat": "0610651", 
+        "ft_facility_code": "1012-0033", 
+        "UTM_long": "8733099", 
+        "longitude": "34.01428184932403"
+    }, 
+    {
+        "latitude": "-11.422115304221826", 
+        "UTM_lat": "0611688", 
+        "ft_facility_code": "1012-0034", 
+        "UTM_long": "8732654", 
+        "longitude": "34.02380082951704"
+    }, 
+    {
+        "latitude": "-11.714881879749107", 
+        "UTM_lat": "0560616", 
+        "ft_facility_code": "1013-0000", 
+        "UTM_long": "8700164", 
+        "longitude": "33.55624303621342"
+    }, 
+    {
+        "latitude": "-11.996146863956424", 
+        "UTM_lat": "0534089", 
+        "ft_facility_code": "1013-0001", 
+        "UTM_long": "8668950", 
+        "longitude": "33.31314185918151"
+    }, 
+    {
+        "latitude": "-11.569859639682772", 
+        "UTM_lat": "0561620", 
+        "ft_facility_code": "1013-0002", 
+        "UTM_long": "8716258", 
+        "longitude": "33.56516303222867"
+    }, 
+    {
+        "latitude": "-11.496528131482043", 
+        "UTM_lat": "0532117", 
+        "ft_facility_code": "1013-0003", 
+        "UTM_long": "8724396", 
+        "longitude": "33.29449620327856"
+    }, 
+    {
+        "latitude": "-11.635477490763911", 
+        "UTM_lat": "0548826", 
+        "ft_facility_code": "1013-0004", 
+        "UTM_long": "8708976", 
+        "longitude": "33.44792716574734"
+    }, 
+    {
+        "latitude": "-12.23339993426271", 
+        "UTM_lat": "0574676", 
+        "ft_facility_code": "1013-0005", 
+        "UTM_long": "8642620", 
+        "longitude": "33.6865668065996"
+    }, 
+    {
+        "latitude": "-12.30134046126119", 
+        "UTM_lat": "0566781", 
+        "ft_facility_code": "1013-0006", 
+        "UTM_long": "8635080", 
+        "longitude": "33.614141030967396"
+    }, 
+    {
+        "latitude": "-11.896324984959554", 
+        "UTM_lat": "0547845", 
+        "ft_facility_code": "1013-0007", 
+        "UTM_long": "8680028", 
+        "longitude": "33.43934143965115"
+    }, 
+    {
+        "latitude": "-12.20146595556102", 
+        "UTM_lat": "0546743", 
+        "ft_facility_code": "1013-0008", 
+        "UTM_long": "8646164", 
+        "longitude": "33.429707474362274"
+    }, 
+    {
+        "latitude": "-11.315829574103672", 
+        "UTM_lat": "0540500", 
+        "ft_facility_code": "1013-0009", 
+        "UTM_long": "8744449", 
+        "longitude": "33.37112826279738"
+    }, 
+    {
+        "latitude": "-12.159124574800547", 
+        "UTM_lat": "0536306", 
+        "ft_facility_code": "1013-0010", 
+        "UTM_long": "8650863", 
+        "longitude": "33.33370875163734"
+    }, 
+    {
+        "latitude": "-12.442861517857617", 
+        "UTM_lat": "0569666", 
+        "ft_facility_code": "1013-0011", 
+        "UTM_long": "8619374", 
+        "longitude": "33.64101630993666"
+    }, 
+    {
+        "latitude": "-11.755241787423525", 
+        "UTM_lat": "0577019", 
+        "ft_facility_code": "1013-0012", 
+        "UTM_long": "8695685", 
+        "longitude": "33.70686085585664"
+    }, 
+    {
+        "latitude": "-11.455185589292512", 
+        "UTM_lat": "0559858", 
+        "ft_facility_code": "1013-0013", 
+        "UTM_long": "8728984", 
+        "longitude": "33.54878063442979"
+    }, 
+    {
+        "latitude": "-12.395483754343381", 
+        "UTM_lat": "0586016", 
+        "ft_facility_code": "1013-0014", 
+        "UTM_long": "8624632", 
+        "longitude": "33.79130494145076"
+    }, 
+    {
+        "latitude": "-12.314856493835457", 
+        "UTM_lat": "0580448", 
+        "ft_facility_code": "1013-0015", 
+        "UTM_long": "8633580", 
+        "longitude": "33.73985857091403"
+    }, 
+    {
+        "latitude": "-12.18945467883309", 
+        "UTM_lat": "0552893", 
+        "ft_facility_code": "1013-0016", 
+        "UTM_long": "8647497", 
+        "longitude": "33.48622107134039"
+    }, 
+    {
+        "latitude": "-12.548051035030296", 
+        "UTM_lat": "0566230", 
+        "ft_facility_code": "1013-0017", 
+        "UTM_long": "8607700", 
+        "longitude": "33.6096483906397"
+    }, 
+    {
+        "latitude": "-12.566820072694167", 
+        "UTM_lat": "0585005", 
+        "ft_facility_code": "1013-0018", 
+        "UTM_long": "8605617", 
+        "longitude": "33.782519275294696"
+    }, 
+    {
+        "latitude": "-12.157007095543065", 
+        "UTM_lat": "0572771", 
+        "ft_facility_code": "1013-0019", 
+        "UTM_long": "8651098", 
+        "longitude": "33.6688616825768"
+    }, 
+    {
+        "latitude": "-12.473074320631047", 
+        "UTM_lat": "0616691", 
+        "ft_facility_code": "1013-0020", 
+        "UTM_long": "8616021", 
+        "longitude": "34.07378814917187"
+    }, 
+    {
+        "longitude": "", 
+        "null": [
+            ""
+        ], 
+        "UTM_lat": "0959505", 
+        "latitude": "", 
+        "ft_facility_code": "1013-0021", 
+        "UTM_long": "8634462"
+    }, 
+    {
+        "latitude": "-11.416185810039996", 
+        "UTM_lat": "0545779", 
+        "ft_facility_code": "1013-0022", 
+        "UTM_long": "8733312", 
+        "longitude": "33.419649150671745"
+    }, 
+    {
+        "latitude": "-12.217450970758938", 
+        "UTM_lat": "0564084", 
+        "ft_facility_code": "1013-0023", 
+        "UTM_long": "8644390", 
+        "longitude": "33.589153174746514"
+    }, 
+    {
+        "latitude": "-11.800629694349519", 
+        "UTM_lat": "0587202", 
+        "ft_facility_code": "1013-0024", 
+        "UTM_long": "8690648", 
+        "longitude": "33.80044318829281"
+    }, 
+    {
+        "latitude": "-12.069503719457268", 
+        "UTM_lat": "0578285", 
+        "ft_facility_code": "1013-0025", 
+        "UTM_long": "8660809", 
+        "longitude": "33.719305654355885"
+    }, 
+    {
+        "latitude": "-11.873239255622309", 
+        "UTM_lat": "0582321", 
+        "ft_facility_code": "1013-0026", 
+        "UTM_long": "8682590", 
+        "longitude": "33.75584180987464"
+    }, 
+    {
+        "latitude": "-11.671746587927805", 
+        "UTM_lat": "0574717", 
+        "ft_facility_code": "1013-0027", 
+        "UTM_long": "8704951", 
+        "longitude": "33.685528947213804"
+    }, 
+    {
+        "latitude": "-11.793069474780136", 
+        "UTM_lat": "0539106", 
+        "ft_facility_code": "1013-0028", 
+        "UTM_long": "8691487", 
+        "longitude": "33.35896111060077"
+    }, 
+    {
+        "latitude": "-11.385737471191254", 
+        "UTM_lat": "0549133", 
+        "ft_facility_code": "1013-0029", 
+        "UTM_long": "8736691", 
+        "longitude": "33.450346170052164"
+    }, 
+    {
+        "latitude": "-11.854631789268167", 
+        "UTM_lat": "0563632", 
+        "ft_facility_code": "1013-0030", 
+        "UTM_long": "8684655", 
+        "longitude": "33.58421368587112"
+    }, 
+    {
+        "latitude": "-12.092300903505388", 
+        "UTM_lat": "0551861", 
+        "ft_facility_code": "1013-0031", 
+        "UTM_long": "8658279", 
+        "longitude": "33.47656184934079"
+    }, 
+    {
+        "latitude": "-11.854631789268167", 
+        "UTM_lat": "0563632", 
+        "ft_facility_code": "1013-0032", 
+        "UTM_long": "8684655", 
+        "longitude": "33.58421368587112"
+    }, 
+    {
+        "latitude": "", 
+        "UTM_lat": "", 
+        "ft_facility_code": "1013-0033", 
+        "UTM_long": "", 
+        "longitude": null
+    }, 
+    {
+        "latitude": "", 
+        "UTM_lat": "", 
+        "ft_facility_code": "1013-0034", 
+        "UTM_long": "", 
+        "longitude": null
+    }, 
+    {
+        "latitude": "-11.558902873219928", 
+        "UTM_lat": "0641508", 
+        "ft_facility_code": "1014-0000", 
+        "UTM_long": "8717474", 
+        "longitude": "34.29773097894095"
+    }, 
+    {
+        "latitude": "-11.558902873219928", 
+        "UTM_lat": "0641508", 
+        "ft_facility_code": "1014-0001", 
+        "UTM_long": "8717474", 
+        "longitude": "34.29773097894095"
+    }, 
+    {
+        "latitude": "-11.809568634848066", 
+        "UTM_lat": "0610847", 
+        "ft_facility_code": "1014-0002", 
+        "UTM_long": "8689656", 
+        "longitude": "34.0174965871325"
+    }, 
+    {
+        "latitude": "-11.890981879859037", 
+        "UTM_lat": "0620727", 
+        "ft_facility_code": "1014-0003", 
+        "UTM_long": "8680621", 
+        "longitude": "34.10850483863548"
+    }, 
+    {
+        "latitude": "-12.143761511069938", 
+        "UTM_lat": "0610424", 
+        "ft_facility_code": "1014-0004", 
+        "UTM_long": "8652568", 
+        "longitude": "34.01486080132027"
+    }, 
+    {
+        "latitude": "-11.95822964804749", 
+        "UTM_lat": "0614193", 
+        "ft_facility_code": "1014-0005", 
+        "UTM_long": "8673158", 
+        "longitude": "34.04877563827521"
+    }, 
+    {
+        "latitude": "-12.062070041287953", 
+        "UTM_lat": "0613765", 
+        "ft_facility_code": "1014-0006", 
+        "UTM_long": "8661634", 
+        "longitude": "34.04524550435213"
+    }, 
+    {
+        "latitude": "-11.782319887917469", 
+        "UTM_lat": "0627246", 
+        "ft_facility_code": "1014-0007", 
+        "UTM_long": "8692680", 
+        "longitude": "34.16789206836878"
+    }, 
+    {
+        "latitude": "-11.831753488569127", 
+        "UTM_lat": "0619016", 
+        "ft_facility_code": "1014-0008", 
+        "UTM_long": "8687194", 
+        "longitude": "34.09256094066157"
+    }, 
+    {
+        "latitude": "-11.691589122515566", 
+        "UTM_lat": "0634517", 
+        "ft_facility_code": "1014-0009", 
+        "UTM_long": "8702749", 
+        "longitude": "34.234212996917144"
+    }, 
+    {
+        "latitude": "-11.64821060518863", 
+        "UTM_lat": "0643368", 
+        "ft_facility_code": "1014-0010", 
+        "UTM_long": "8707563", 
+        "longitude": "34.31520343972028"
+    }, 
+    {
+        "latitude": "-11.623529500551772", 
+        "UTM_lat": "0637386", 
+        "ft_facility_code": "1014-0011", 
+        "UTM_long": "8710302", 
+        "longitude": "34.260225279393076"
+    }, 
+    {
+        "latitude": "-11.657599539119945", 
+        "UTM_lat": "0603599", 
+        "ft_facility_code": "1014-0012", 
+        "UTM_long": "8706521", 
+        "longitude": "33.95045144268825"
+    }, 
+    {
+        "latitude": "-11.688290908765481", 
+        "UTM_lat": "0617314", 
+        "ft_facility_code": "1014-0013", 
+        "UTM_long": "8703115", 
+        "longitude": "34.07638111331658"
+    }, 
+    {
+        "latitude": "-11.630665928176475", 
+        "UTM_lat": "0617839", 
+        "ft_facility_code": "1014-0014", 
+        "UTM_long": "8709510", 
+        "longitude": "34.080974630739135"
+    }, 
+    {
+        "latitude": "-11.60050626932463", 
+        "UTM_lat": "0620884", 
+        "ft_facility_code": "1014-0015", 
+        "UTM_long": "8712857", 
+        "longitude": "34.10878460212281"
+    }, 
+    {
+        "latitude": "-11.531175781167597", 
+        "UTM_lat": "0622255", 
+        "ft_facility_code": "1014-0016", 
+        "UTM_long": "8720551", 
+        "longitude": "34.12108235919662"
+    }, 
+    {
+        "latitude": "-11.306863884155296", 
+        "UTM_lat": "0623485", 
+        "ft_facility_code": "1014-0017", 
+        "UTM_long": "8745444", 
+        "longitude": "34.13147089612445"
+    }, 
+    {
+        "latitude": "-11.354568589164957", 
+        "UTM_lat": "0627520", 
+        "ft_facility_code": "1014-0018", 
+        "UTM_long": "8740150", 
+        "longitude": "34.168631251044076"
+    }, 
+    {
+        "latitude": "-11.503800454627257", 
+        "UTM_lat": "0630486", 
+        "ft_facility_code": "1014-0019", 
+        "UTM_long": "8723589", 
+        "longitude": "34.19643407437104"
+    }, 
+    {
+        "latitude": "-11.604272992556767", 
+        "UTM_lat": "0632060", 
+        "ft_facility_code": "1014-0020", 
+        "UTM_long": "8712439", 
+        "longitude": "34.21129518519043"
+    }, 
+    {
+        "latitude": "-11.475776135267976", 
+        "UTM_lat": "0625458", 
+        "ft_facility_code": "1014-0021", 
+        "UTM_long": "8726699", 
+        "longitude": "34.15022504937888"
+    }, 
+    {
+        "latitude": "-11.483768829476587", 
+        "UTM_lat": "0618212", 
+        "ft_facility_code": "1014-0022", 
+        "UTM_long": "8725812", 
+        "longitude": "34.08383125397436"
+    }, 
+    {
+        "latitude": "-11.197586234117546", 
+        "UTM_lat": "0631929", 
+        "ft_facility_code": "1014-0023", 
+        "UTM_long": "8757571", 
+        "longitude": "34.20837462400677"
+    }, 
+    {
+        "latitude": "-11.180365836288974", 
+        "UTM_lat": "0622541", 
+        "ft_facility_code": "1014-0024", 
+        "UTM_long": "8759482", 
+        "longitude": "34.12233294929479"
+    }, 
+    {
+        "latitude": "-11.615238959183653", 
+        "UTM_lat": "0587188", 
+        "ft_facility_code": "1014-0025", 
+        "UTM_long": "8711222", 
+        "longitude": "33.79978173402362"
+    }, 
+    {
+        "latitude": "-12.150816747058041", 
+        "UTM_lat": "0581096", 
+        "ft_facility_code": "1014-0026", 
+        "UTM_long": "8651785", 
+        "longitude": "33.74535790439668"
+    }, 
+    {
+        "latitude": "-11.280614737435553", 
+        "UTM_lat": "0636689", 
+        "ft_facility_code": "1014-0027", 
+        "UTM_long": "8748357", 
+        "longitude": "34.25232381065926"
+    }, 
+    {
+        "latitude": "-11.03135724343842", 
+        "UTM_lat": "0633124", 
+        "ft_facility_code": "1014-0028", 
+        "UTM_long": "8776018", 
+        "longitude": "34.21862816446144"
+    }, 
+    {
+        "latitude": "-11.072367197733058", 
+        "UTM_lat": "0634335", 
+        "ft_facility_code": "1014-0029", 
+        "UTM_long": "8771467", 
+        "longitude": "34.22988275856719"
+    }, 
+    {
+        "latitude": "-10.900180527567915", 
+        "UTM_lat": "0603089", 
+        "ft_facility_code": "1015-0000", 
+        "UTM_long": "8790575", 
+        "longitude": "33.94329921291254"
+    }, 
+    {
+        "latitude": "-10.82815351431018", 
+        "UTM_lat": "0609032", 
+        "ft_facility_code": "1015-0001", 
+        "UTM_long": "8798568", 
+        "longitude": "33.99743502855566"
+    }, 
+    {
+        "latitude": "-10.84911378415032", 
+        "UTM_lat": "0614139", 
+        "ft_facility_code": "1015-0002", 
+        "UTM_long": "8796242", 
+        "longitude": "34.04422172708297"
+    }, 
+    {
+        "latitude": "-10.869037683539789", 
+        "UTM_lat": "0612260", 
+        "ft_facility_code": "1015-0003", 
+        "UTM_long": "8794031", 
+        "longitude": "34.02710133713622"
+    }, 
+    {
+        "latitude": "-10.737797261572736", 
+        "UTM_lat": "0613611", 
+        "ft_facility_code": "1015-0004", 
+        "UTM_long": "8808595", 
+        "longitude": "34.039009439591524"
+    }, 
+    {
+        "latitude": "-10.68835212318584", 
+        "UTM_lat": "0614179", 
+        "ft_facility_code": "1015-0005", 
+        "UTM_long": "8814082", 
+        "longitude": "34.04403405718293"
+    }, 
+    {
+        "latitude": "-10.566365428966467", 
+        "UTM_lat": "0621512", 
+        "ft_facility_code": "1015-0006", 
+        "UTM_long": "8827619", 
+        "longitude": "34.11063652085511"
+    }, 
+    {
+        "latitude": "-10.646224261676263", 
+        "UTM_lat": "0630529", 
+        "ft_facility_code": "1015-0007", 
+        "UTM_long": "8818757", 
+        "longitude": "34.19335051252372"
+    }, 
+    {
+        "latitude": "-10.560958669196612", 
+        "UTM_lat": "0628022", 
+        "ft_facility_code": "1015-0008", 
+        "UTM_long": "8828219", 
+        "longitude": "34.170109985895216"
+    }, 
+    {
+        "latitude": "-9.563756551002783", 
+        "UTM_lat": "0633618", 
+        "ft_facility_code": "1015-0009", 
+        "UTM_long": "8938877", 
+        "longitude": "34.21750859180183"
+    }, 
+    {
+        "latitude": "-10.967764930259417", 
+        "UTM_lat": "0617240", 
+        "ft_facility_code": "1015-0010", 
+        "UTM_long": "8783075", 
+        "longitude": "34.07301368294266"
+    }, 
+    {
+        "latitude": "-10.879310490339508", 
+        "UTM_lat": "0607980", 
+        "ft_facility_code": "1015-0011", 
+        "UTM_long": "8792891", 
+        "longitude": "33.987980223322495"
+    }, 
+    {
+        "latitude": "-10.773481824681253", 
+        "UTM_lat": "0557083", 
+        "ft_facility_code": "1015-0012", 
+        "UTM_long": "8804635", 
+        "longitude": "33.52212618036263"
+    }, 
+    {
+        "latitude": "-10.790242849979952", 
+        "UTM_lat": "0564767", 
+        "ft_facility_code": "1015-0013", 
+        "UTM_long": "8802775", 
+        "longitude": "33.59244044435707"
+    }, 
+    {
+        "latitude": "-10.903884013168195", 
+        "UTM_lat": "0563245", 
+        "ft_facility_code": "1015-0014", 
+        "UTM_long": "8790164", 
+        "longitude": "33.57873728616536"
+    }, 
+    {
+        "latitude": "-10.938766578019639", 
+        "UTM_lat": "0581196", 
+        "ft_facility_code": "1015-0015", 
+        "UTM_long": "8786293", 
+        "longitude": "33.74308004112783"
+    }, 
+    {
+        "latitude": "-10.983345181211082", 
+        "UTM_lat": "0595390", 
+        "ft_facility_code": "1015-0016", 
+        "UTM_long": "8781346", 
+        "longitude": "33.87310001651229"
+    }, 
+    {
+        "latitude": "-10.726704504660754", 
+        "UTM_lat": "0630656", 
+        "ft_facility_code": "1015-0017", 
+        "UTM_long": "8809826", 
+        "longitude": "34.19482595290266"
+    }, 
+    {
+        "latitude": "-10.69298407556645", 
+        "UTM_lat": "0627010", 
+        "ft_facility_code": "1015-0018", 
+        "UTM_long": "8813568", 
+        "longitude": "34.16136034569189"
+    }, 
+    {
+        "latitude": "-10.80845508328624", 
+        "UTM_lat": "0632518", 
+        "ft_facility_code": "1015-0019", 
+        "UTM_long": "8800754", 
+        "longitude": "34.21217763737529"
+    }, 
+    {
+        "latitude": "-10.979659581652255", 
+        "UTM_lat": "0593227", 
+        "ft_facility_code": "1015-0020", 
+        "UTM_long": "8781755", 
+        "longitude": "33.85329314608554"
+    }, 
+    {
+        "latitude": "-10.979659581886262", 
+        "UTM_lat": "0593277", 
+        "ft_facility_code": "1015-0021", 
+        "UTM_long": "8781755", 
+        "longitude": "33.85375075349805"
+    }, 
+    {
+        "latitude": "-15.057420345476242", 
+        "UTM_lat": "0729672", 
+        "ft_facility_code": "1016-0002", 
+        "UTM_long": "8329190", 
+        "longitude": "35.136375025676706"
+    }, 
+    {
+        "latitude": "-15.123737229360794", 
+        "UTM_lat": "0722671", 
+        "ft_facility_code": "1016-0003", 
+        "UTM_long": "8321829", 
+        "longitude": "35.07192563962989"
+    }, 
+    {
+        "latitude": "-10.626158940195136", 
+        "UTM_lat": "0721805", 
+        "ft_facility_code": "1016-0004", 
+        "UTM_long": "8820984", 
+        "longitude": "35.02741349479085"
+    }, 
+    {
+        "latitude": "-15.204748948752112", 
+        "UTM_lat": "0726327", 
+        "ft_facility_code": "1016-0005", 
+        "UTM_long": "8312837", 
+        "longitude": "35.1067293383676"
+    }, 
+    {
+        "latitude": "-15.177638211350558", 
+        "UTM_lat": "0703357", 
+        "ft_facility_code": "1016-0006", 
+        "UTM_long": "8315846", 
+        "longitude": "34.89276353169119"
+    }, 
+    {
+        "latitude": "-15.00773187069479", 
+        "UTM_lat": "0706640", 
+        "ft_facility_code": "1016-0007", 
+        "UTM_long": "8334705", 
+        "longitude": "34.921781348857174"
+    }, 
+    {
+        "latitude": "-14.865105296365615", 
+        "UTM_lat": "0720898", 
+        "ft_facility_code": "1016-0008", 
+        "UTM_long": "8350536", 
+        "longitude": "35.052969736387325"
+    }, 
+    {
+        "latitude": "-14.798445578026799", 
+        "UTM_lat": "0733582", 
+        "ft_facility_code": "1016-0009", 
+        "UTM_long": "8357935", 
+        "longitude": "35.1701289246571"
+    }, 
+    {
+        "latitude": "-14.937684214376999", 
+        "UTM_lat": "0709693", 
+        "ft_facility_code": "1016-0010", 
+        "UTM_long": "8342480", 
+        "longitude": "34.94952995381749"
+    }, 
+    {
+        "latitude": "-14.937684214376999", 
+        "UTM_lat": "0709693", 
+        "ft_facility_code": "1016-0011", 
+        "UTM_long": "8342480", 
+        "longitude": "34.94952995381749"
+    }, 
+    {
+        "latitude": "-14.817797967943665", 
+        "UTM_lat": "0734229", 
+        "ft_facility_code": "1016-0012", 
+        "UTM_long": "8355787", 
+        "longitude": "35.176329801986164"
+    }, 
+    {
+        "latitude": "-14.95612873996664", 
+        "UTM_lat": "0735494", 
+        "ft_facility_code": "1016-0013", 
+        "UTM_long": "8340433", 
+        "longitude": "35.18947203746458"
+    }, 
+    {
+        "latitude": "-14.807942176974201", 
+        "UTM_lat": "0739473", 
+        "ft_facility_code": "1016-0014", 
+        "UTM_long": "8356881", 
+        "longitude": "35.2249277916776"
+    }, 
+    {
+        "latitude": "-14.88524271044149", 
+        "UTM_lat": "0735023", 
+        "ft_facility_code": "1016-0015", 
+        "UTM_long": "8348301", 
+        "longitude": "35.1843802160611"
+    }, 
+    {
+        "latitude": "-15.019184257615084", 
+        "UTM_lat": "0724974", 
+        "ft_facility_code": "1016-0016", 
+        "UTM_long": "8333434", 
+        "longitude": "35.09232350500011"
+    }, 
+    {
+        "latitude": "-14.972948055053509", 
+        "UTM_lat": "0723263", 
+        "ft_facility_code": "1016-0017", 
+        "UTM_long": "8338566", 
+        "longitude": "35.07597259998254"
+    }, 
+    {
+        "latitude": "-15.017915398763964", 
+        "UTM_lat": "0739315", 
+        "ft_facility_code": "1017-0000", 
+        "UTM_long": "8333575", 
+        "longitude": "35.22561600327829"
+    }, 
+    {
+        "latitude": "-15.017915398763964", 
+        "UTM_lat": "0739315", 
+        "ft_facility_code": "1017-0001", 
+        "UTM_long": "8333575", 
+        "longitude": "35.22561600327829"
+    }, 
+    {
+        "latitude": "-14.840740209127658", 
+        "UTM_lat": "0767172", 
+        "ft_facility_code": "1017-0002", 
+        "UTM_long": "8353241", 
+        "longitude": "35.48248707423105"
+    }, 
+    {
+        "latitude": "-14.827578188813781", 
+        "UTM_lat": "0772185", 
+        "ft_facility_code": "1017-0003", 
+        "UTM_long": "8354702", 
+        "longitude": "35.528881635239884"
+    }, 
+    {
+        "latitude": "-15.159634573359646", 
+        "UTM_lat": "0760131", 
+        "ft_facility_code": "1017-0004", 
+        "UTM_long": "8317845", 
+        "longitude": "35.42068688774987"
+    }, 
+    {
+        "latitude": "-15.107310217633675", 
+        "UTM_lat": "0770666", 
+        "ft_facility_code": "1017-0005", 
+        "UTM_long": "8323653", 
+        "longitude": "35.51803802872884"
+    }, 
+    {
+        "latitude": "-15.182339038875318", 
+        "UTM_lat": "0767419", 
+        "ft_facility_code": "1017-0006", 
+        "UTM_long": "8315325", 
+        "longitude": "35.48872663067737"
+    }, 
+    {
+        "latitude": "-15.178785320157736", 
+        "UTM_lat": "0736642", 
+        "ft_facility_code": "1017-0007", 
+        "UTM_long": "8315719", 
+        "longitude": "35.20242609750545"
+    }, 
+    {
+        "latitude": "-14.669908529244044", 
+        "UTM_lat": "0801699", 
+        "ft_facility_code": "1017-0008", 
+        "UTM_long": "8372203", 
+        "longitude": "35.80086057946896"
+    }, 
+    {
+        "latitude": "-14.568028474000613", 
+        "UTM_lat": "0802309", 
+        "ft_facility_code": "1017-0009", 
+        "UTM_long": "8383511", 
+        "longitude": "35.80522761396323"
+    }, 
+    {
+        "latitude": "-14.725791693707325", 
+        "UTM_lat": "0787278", 
+        "ft_facility_code": "1017-0010", 
+        "UTM_long": "8366000", 
+        "longitude": "35.667764676394405"
+    }, 
+    {
+        "latitude": "-14.81654457734723", 
+        "UTM_lat": "0788997", 
+        "ft_facility_code": "1017-0011", 
+        "UTM_long": "8355927", 
+        "longitude": "35.68482786466667"
+    }, 
+    {
+        "latitude": "-15.038316438008362", 
+        "UTM_lat": "0768365", 
+        "ft_facility_code": "1017-0012", 
+        "UTM_long": "8331311", 
+        "longitude": "35.49584271507954"
+    }, 
+    {
+        "latitude": "-14.977421865917881", 
+        "UTM_lat": "0766355", 
+        "ft_facility_code": "1017-0013", 
+        "UTM_long": "8338070", 
+        "longitude": "35.47646145518017"
+    }, 
+    {
+        "latitude": "-14.700572091117012", 
+        "UTM_lat": "0776197", 
+        "ft_facility_code": "1017-0014", 
+        "UTM_long": "8368799", 
+        "longitude": "35.564643490299545"
+    }, 
+    {
+        "latitude": "-14.733304400028512", 
+        "UTM_lat": "0780556", 
+        "ft_facility_code": "1017-0015", 
+        "UTM_long": "8365166", 
+        "longitude": "35.60547756450207"
+    }, 
+    {
+        "latitude": "-14.926996010248894", 
+        "UTM_lat": "0764319", 
+        "ft_facility_code": "1017-0016", 
+        "UTM_long": "8343667", 
+        "longitude": "35.45697082419983"
+    }, 
+    {
+        "latitude": "-14.650362094295748", 
+        "UTM_lat": "0777034", 
+        "ft_facility_code": "1017-0017", 
+        "UTM_long": "8374372", 
+        "longitude": "35.571824109142995"
+    }, 
+    {
+        "latitude": "-14.56415073109548", 
+        "UTM_lat": "0784034", 
+        "ft_facility_code": "1017-0018", 
+        "UTM_long": "8383941", 
+        "longitude": "35.63573374409186"
+    }, 
+    {
+        "latitude": "-14.594749169774616", 
+        "UTM_lat": "0793969", 
+        "ft_facility_code": "1017-0019", 
+        "UTM_long": "8380545", 
+        "longitude": "35.72822973785759"
+    }, 
+    {
+        "latitude": "-14.656896633285346", 
+        "UTM_lat": "0791448", 
+        "ft_facility_code": "1017-0020", 
+        "UTM_long": "8373647", 
+        "longitude": "35.705611644950025"
+    }, 
+    {
+        "latitude": "-14.81459632035963", 
+        "UTM_lat": "0776784", 
+        "ft_facility_code": "1017-0021", 
+        "UTM_long": "8356143", 
+        "longitude": "35.57142763650268"
+    }, 
+    {
+        "latitude": "-14.877015261249827", 
+        "UTM_lat": "0785193", 
+        "ft_facility_code": "1017-0022", 
+        "UTM_long": "8349215", 
+        "longitude": "35.65025095225966"
+    }, 
+    {
+        "latitude": "-14.953367115469709", 
+        "UTM_lat": "0768290", 
+        "ft_facility_code": "1017-0023", 
+        "UTM_long": "8340740", 
+        "longitude": "35.4941623388672"
+    }, 
+    {
+        "latitude": "-14.925567582446", 
+        "UTM_lat": "0788186", 
+        "ft_facility_code": "1017-0024", 
+        "UTM_long": "8343826", 
+        "longitude": "35.67864210262486"
+    }, 
+    {
+        "latitude": "-14.921380663883971", 
+        "UTM_lat": "0800143", 
+        "ft_facility_code": "1017-0025", 
+        "UTM_long": "8344291", 
+        "longitude": "35.78963425806369"
+    }, 
+    {
+        "latitude": "-14.93863578630995", 
+        "UTM_lat": "0809384", 
+        "ft_facility_code": "1017-0026", 
+        "UTM_long": "8342376", 
+        "longitude": "35.87567625437201"
+    }, 
+    {
+        "latitude": "-14.901682326186762", 
+        "UTM_lat": "0781157", 
+        "ft_facility_code": "1017-0027", 
+        "UTM_long": "8346477", 
+        "longitude": "35.61306995874216"
+    }, 
+    {
+        "latitude": "-14.935350287601787", 
+        "UTM_lat": "0780053", 
+        "ft_facility_code": "1017-0028", 
+        "UTM_long": "8342740", 
+        "longitude": "35.60322139068338"
+    }, 
+    {
+        "latitude": "-14.95465683800872", 
+        "UTM_lat": "0776722", 
+        "ft_facility_code": "1017-0029", 
+        "UTM_long": "8340597", 
+        "longitude": "35.572510271264605"
+    }, 
+    {
+        "latitude": "-14.848001738681965", 
+        "UTM_lat": "0766624", 
+        "ft_facility_code": "1017-0030", 
+        "UTM_long": "8352435", 
+        "longitude": "35.47748121123052"
+    }, 
+    {
+        "latitude": "-14.749933024448241", 
+        "UTM_lat": "0762270", 
+        "ft_facility_code": "1017-0031", 
+        "UTM_long": "8363320", 
+        "longitude": "35.435956468278626"
+    }, 
+    {
+        "latitude": "-14.711749385093672", 
+        "UTM_lat": "0752213", 
+        "ft_facility_code": "1017-0032", 
+        "UTM_long": "8367558", 
+        "longitude": "35.34219677788498"
+    }, 
+    {
+        "latitude": "-15.008061388073955", 
+        "UTM_lat": "0757184", 
+        "ft_facility_code": "1017-0033", 
+        "UTM_long": "8334669", 
+        "longitude": "35.39158720743173"
+    }, 
+    {
+        "latitude": "-15.133460799958382", 
+        "UTM_lat": "0746636", 
+        "ft_facility_code": "1017-0034", 
+        "UTM_long": "8320750", 
+        "longitude": "35.29489961983133"
+    }, 
+    {
+        "latitude": "-14.43693806880867", 
+        "UTM_lat": "0744046", 
+        "ft_facility_code": "1018-0000", 
+        "UTM_long": "8398060", 
+        "longitude": "35.263592360355936"
+    }, 
+    {
+        "latitude": "-13.61886631141542", 
+        "UTM_lat": "0700909", 
+        "ft_facility_code": "1018-0001", 
+        "UTM_long": "8488857", 
+        "longitude": "34.8570618744579"
+    }, 
+    {
+        "latitude": "-13.641869375840805", 
+        "UTM_lat": "0707301", 
+        "ft_facility_code": "1018-0002", 
+        "UTM_long": "8486304", 
+        "longitude": "34.91630724867554"
+    }, 
+    {
+        "latitude": "-13.670513306666729", 
+        "UTM_lat": "0721291", 
+        "ft_facility_code": "1018-0003", 
+        "UTM_long": "8483125", 
+        "longitude": "35.04582214567659"
+    }, 
+    {
+        "latitude": "-13.916783832658682", 
+        "UTM_lat": "0731400", 
+        "ft_facility_code": "1018-0004", 
+        "UTM_long": "8455792", 
+        "longitude": "35.14147637831603"
+    }, 
+    {
+        "latitude": "-14.017668016229209", 
+        "UTM_lat": "0736012", 
+        "ft_facility_code": "1018-0005", 
+        "UTM_long": "8444595", 
+        "longitude": "35.18508582013969"
+    }, 
+    {
+        "latitude": "-14.079196349939616", 
+        "UTM_lat": "0736685", 
+        "ft_facility_code": "1018-0006", 
+        "UTM_long": "8437766", 
+        "longitude": "35.19189809655822"
+    }, 
+    {
+        "latitude": "-14.200370043195578", 
+        "UTM_lat": "0744520", 
+        "ft_facility_code": "1018-0007", 
+        "UTM_long": "8424317", 
+        "longitude": "35.265614963380735"
+    }, 
+    {
+        "latitude": "-14.3033517981122", 
+        "UTM_lat": "0747388", 
+        "ft_facility_code": "1018-0008", 
+        "UTM_long": "8412887", 
+        "longitude": "35.293212564629975"
+    }, 
+    {
+        "latitude": "-14.536090321977518", 
+        "UTM_lat": "0754625", 
+        "ft_facility_code": "1018-0009", 
+        "UTM_long": "8387055", 
+        "longitude": "35.36270564217701"
+    }, 
+    {
+        "latitude": "-14.585949189418345", 
+        "UTM_lat": "0752969", 
+        "ft_facility_code": "1018-0010", 
+        "UTM_long": "8381521", 
+        "longitude": "35.347875308217624"
+    }, 
+    {
+        "latitude": "-14.73350873754719", 
+        "UTM_lat": "0762474", 
+        "ft_facility_code": "1018-0011", 
+        "UTM_long": "8365143", 
+        "longitude": "35.437667491533105"
+    }, 
+    {
+        "latitude": "-14.46952181606422", 
+        "UTM_lat": "0778841", 
+        "ft_facility_code": "1018-0012", 
+        "UTM_long": "8394444", 
+        "longitude": "35.58648202851933"
+    }, 
+    {
+        "latitude": "-14.541796781875352", 
+        "UTM_lat": "0777494", 
+        "ft_facility_code": "1018-0013", 
+        "UTM_long": "8386422", 
+        "longitude": "35.57483028127806"
+    }, 
+    {
+        "latitude": "-14.671127786849137", 
+        "UTM_lat": "0768944", 
+        "ft_facility_code": "1018-0014", 
+        "UTM_long": "8372067", 
+        "longitude": "35.497007807228144"
+    }, 
+    {
+        "latitude": "-14.551913666978566", 
+        "UTM_lat": "0771977", 
+        "ft_facility_code": "1018-0015", 
+        "UTM_long": "8385299", 
+        "longitude": "35.52378927934236"
+    }, 
+    {
+        "latitude": "-14.440359213546804", 
+        "UTM_lat": "0788048", 
+        "ft_facility_code": "1018-0016", 
+        "UTM_long": "8397681", 
+        "longitude": "35.67147168594959"
+    }, 
+    {
+        "latitude": "-14.43669063857396", 
+        "UTM_lat": "0778756", 
+        "ft_facility_code": "1018-0017", 
+        "UTM_long": "8398088", 
+        "longitude": "35.585315213330276"
+    }, 
+    {
+        "latitude": "-14.332322745846986", 
+        "UTM_lat": "0780500", 
+        "ft_facility_code": "1018-0018", 
+        "UTM_long": "8409672", 
+        "longitude": "35.600272294724014"
+    }, 
+    {
+        "latitude": "-14.343205303730615", 
+        "UTM_lat": "0773360", 
+        "ft_facility_code": "1018-0019", 
+        "UTM_long": "8408464", 
+        "longitude": "35.53425231188679"
+    }, 
+    {
+        "latitude": "-14.43693806880867", 
+        "UTM_lat": "0744046", 
+        "ft_facility_code": "1018-0020", 
+        "UTM_long": "8398060", 
+        "longitude": "35.263592360355936"
+    }, 
+    {
+        "latitude": "-14.321365215360403", 
+        "UTM_lat": "0769796", 
+        "ft_facility_code": "1018-0021", 
+        "UTM_long": "8410888", 
+        "longitude": "35.50099216558307"
+    }, 
+    {
+        "latitude": "-14.32002182563506", 
+        "UTM_lat": "0763340", 
+        "ft_facility_code": "1018-0022", 
+        "UTM_long": "8411037", 
+        "longitude": "35.44117006963034"
+    }, 
+    {
+        "latitude": "-14.26377342103105", 
+        "UTM_lat": "0758495", 
+        "ft_facility_code": "1018-0023", 
+        "UTM_long": "8417280", 
+        "longitude": "35.39569023056831"
+    }, 
+    {
+        "latitude": "-14.591100586443051", 
+        "UTM_lat": "0734752", 
+        "ft_facility_code": "1018-0024", 
+        "UTM_long": "8380949", 
+        "longitude": "35.17893945812676"
+    }, 
+    {
+        "latitude": "-13.88592616225744", 
+        "UTM_lat": "0744504", 
+        "ft_facility_code": "1018-0025", 
+        "UTM_long": "8459217", 
+        "longitude": "35.262381851460944"
+    }, 
+    {
+        "latitude": "-13.988108414635981", 
+        "UTM_lat": "0752383", 
+        "ft_facility_code": "1018-0026", 
+        "UTM_long": "8447876", 
+        "longitude": "35.336269611190815"
+    }, 
+    {
+        "latitude": "-14.13752015026018", 
+        "UTM_lat": "0763785", 
+        "ft_facility_code": "1018-0027", 
+        "UTM_long": "8431293", 
+        "longitude": "35.443333105541655"
+    }, 
+    {
+        "latitude": "-14.195849920985896", 
+        "UTM_lat": "0766383", 
+        "ft_facility_code": "1018-0028", 
+        "UTM_long": "8424819", 
+        "longitude": "35.46801091042263"
+    }, 
+    {
+        "latitude": "-14.277398644275557", 
+        "UTM_lat": "0775554", 
+        "ft_facility_code": "1018-0029", 
+        "UTM_long": "8415768", 
+        "longitude": "35.55383536782922"
+    }, 
+    {
+        "latitude": "-14.378241646155894", 
+        "UTM_lat": "0756976", 
+        "ft_facility_code": "1018-0030", 
+        "UTM_long": "8404575", 
+        "longitude": "35.38282702038419"
+    }, 
+    {
+        "latitude": "-14.70793562734527", 
+        "UTM_lat": "0727297", 
+        "ft_facility_code": "1018-0031", 
+        "UTM_long": "8367981", 
+        "longitude": "35.11089388965121"
+    }, 
+    {
+        "latitude": "-14.610452085746607", 
+        "UTM_lat": "0723625", 
+        "ft_facility_code": "1018-0032", 
+        "UTM_long": "8378801", 
+        "longitude": "35.075890854247845"
+    }, 
+    {
+        "latitude": "-14.563962730654065", 
+        "UTM_lat": "0724263", 
+        "ft_facility_code": "1018-0033", 
+        "UTM_long": "8383961", 
+        "longitude": "35.08137416299357"
+    }, 
+    {
+        "latitude": "-14.478497166614131", 
+        "UTM_lat": "0719513", 
+        "ft_facility_code": "1018-0034", 
+        "UTM_long": "8393447", 
+        "longitude": "35.03652834031161"
+    }, 
+    {
+        "latitude": "-14.539644303451261", 
+        "UTM_lat": "0704452", 
+        "ft_facility_code": "1018-0035", 
+        "UTM_long": "8386660", 
+        "longitude": "34.89737699092764"
+    }, 
+    {
+        "latitude": "-14.654579958421932", 
+        "UTM_lat": "0712469", 
+        "ft_facility_code": "1018-0036", 
+        "UTM_long": "8373903", 
+        "longitude": "34.97276946304228"
+    }, 
+    {
+        "latitude": "-14.737431698807718", 
+        "UTM_lat": "0715107", 
+        "ft_facility_code": "1018-0037", 
+        "UTM_long": "8364707", 
+        "longitude": "34.99800492600207"
+    }, 
+    {
+        "latitude": "-14.69994499487891", 
+        "UTM_lat": "0735512", 
+        "ft_facility_code": "1018-0038", 
+        "UTM_long": "8368868", 
+        "longitude": "35.18706766959893"
+    }, 
+    {
+        "latitude": "-14.499563211406581", 
+        "UTM_lat": "0736147", 
+        "ft_facility_code": "1018-0039", 
+        "UTM_long": "8391109", 
+        "longitude": "35.19097912341429"
+    }, 
+    {
+        "latitude": "-14.327235340575378", 
+        "UTM_lat": "0736231", 
+        "ft_facility_code": "1018-0040", 
+        "UTM_long": "8410236", 
+        "longitude": "35.1900767874392"
+    }, 
+    {
+        "latitude": "-14.418725869140353", 
+        "UTM_lat": "0701607", 
+        "ft_facility_code": "1018-0041", 
+        "UTM_long": "8400081", 
+        "longitude": "34.86997238127944"
+    }, 
+    {
+        "latitude": "-14.188500215164057", 
+        "UTM_lat": "0696879", 
+        "ft_facility_code": "1018-0042", 
+        "UTM_long": "8425634", 
+        "longitude": "34.824277748308916"
+    }, 
+    {
+        "latitude": "-14.087500449693879", 
+        "UTM_lat": "0699057", 
+        "ft_facility_code": "1018-0043", 
+        "UTM_long": "8436844", 
+        "longitude": "34.84363859144263"
+    }, 
+    {
+        "latitude": "-14.151183274217868", 
+        "UTM_lat": "0720005", 
+        "ft_facility_code": "1018-0044", 
+        "UTM_long": "8429776", 
+        "longitude": "35.03813878532402"
+    }, 
+    {
+        "latitude": "-14.03781162748093", 
+        "UTM_lat": "0706241", 
+        "ft_facility_code": "1018-0045", 
+        "UTM_long": "8442359", 
+        "longitude": "34.9097380256186"
+    }, 
+    {
+        "latitude": "-14.287556029693784", 
+        "UTM_lat": "0731085", 
+        "ft_facility_code": "1018-0046", 
+        "UTM_long": "8414640", 
+        "longitude": "35.14201704353112"
+    }, 
+    {
+        "latitude": "-14.408224028792894", 
+        "UTM_lat": "0741818", 
+        "ft_facility_code": "1018-0047", 
+        "UTM_long": "8401247", 
+        "longitude": "35.2426514354884"
+    }, 
+    {
+        "latitude": "-14.316943129161421", 
+        "UTM_lat": "0696608", 
+        "ft_facility_code": "1018-0048", 
+        "UTM_long": "8411378", 
+        "longitude": "34.82279803707174"
+    }, 
+    {
+        "latitude": "-15.978874332039364", 
+        "UTM_lat": "0768252", 
+        "ft_facility_code": "1019-0000", 
+        "UTM_long": "8226910", 
+        "longitude": "35.50609749285385"
+    }, 
+    {
+        "latitude": "-15.978874332039364", 
+        "UTM_lat": "0768252", 
+        "ft_facility_code": "1019-0001", 
+        "UTM_long": "8226910", 
+        "longitude": "35.50609749285385"
+    }, 
+    {
+        "latitude": "-16.05512435225317", 
+        "UTM_lat": "0765018", 
+        "ft_facility_code": "1019-0002", 
+        "UTM_long": "8218446", 
+        "longitude": "35.47684390900398"
+    }, 
+    {
+        "latitude": "-16.09700697717958", 
+        "UTM_lat": "0769943", 
+        "ft_facility_code": "1019-0003", 
+        "UTM_long": "8213797", 
+        "longitude": "35.523368329178446"
+    }, 
+    {
+        "latitude": "-16.0401542824302", 
+        "UTM_lat": "0779395", 
+        "ft_facility_code": "1019-0004", 
+        "UTM_long": "8220108", 
+        "longitude": "35.61091772302104"
+    }, 
+    {
+        "latitude": "-16.044758883590614", 
+        "UTM_lat": "0785015", 
+        "ft_facility_code": "1019-0005", 
+        "UTM_long": "8219597", 
+        "longitude": "35.663456587849474"
+    }, 
+    {
+        "latitude": "-16.036012472109654", 
+        "UTM_lat": "0790439", 
+        "ft_facility_code": "1019-0006", 
+        "UTM_long": "8220568", 
+        "longitude": "35.7139848468009"
+    }, 
+    {
+        "latitude": "-16.01885179912192", 
+        "UTM_lat": "0795452", 
+        "ft_facility_code": "1019-0007", 
+        "UTM_long": "8222473", 
+        "longitude": "35.76055384398383"
+    }, 
+    {
+        "latitude": "-15.996589729667711", 
+        "UTM_lat": "0789587", 
+        "ft_facility_code": "1019-0008", 
+        "UTM_long": "8224944", 
+        "longitude": "35.70549949945939"
+    }, 
+    {
+        "latitude": "-15.991661275656906", 
+        "UTM_lat": "0786581", 
+        "ft_facility_code": "1019-0009", 
+        "UTM_long": "8225491", 
+        "longitude": "35.67737232748152"
+    }, 
+    {
+        "latitude": "-15.983498762646255", 
+        "UTM_lat": "0784037", 
+        "ft_facility_code": "1019-0010", 
+        "UTM_long": "8226397", 
+        "longitude": "35.65351608394671"
+    }, 
+    {
+        "latitude": "-15.856587729866582", 
+        "UTM_lat": "0766576", 
+        "ft_facility_code": "1019-0011", 
+        "UTM_long": "8240484", 
+        "longitude": "35.48894629357892"
+    }, 
+    {
+        "latitude": "-15.807562584751308", 
+        "UTM_lat": "0774512", 
+        "ft_facility_code": "1019-0012", 
+        "UTM_long": "8245926", 
+        "longitude": "35.56237275557311"
+    }, 
+    {
+        "latitude": "-15.719282604728445", 
+        "UTM_lat": "0767037", 
+        "ft_facility_code": "1019-0013", 
+        "UTM_long": "8255725", 
+        "longitude": "35.491571386099444"
+    }, 
+    {
+        "latitude": "-15.628822981323907", 
+        "UTM_lat": "0765415", 
+        "ft_facility_code": "1019-0014", 
+        "UTM_long": "8265766", 
+        "longitude": "35.475358931315206"
+    }, 
+    {
+        "latitude": "-15.673550957055893", 
+        "UTM_lat": "0753557", 
+        "ft_facility_code": "1019-0015", 
+        "UTM_long": "8260801", 
+        "longitude": "35.36534961585008"
+    }, 
+    {
+        "latitude": "-15.756280102691475", 
+        "UTM_lat": "0751554", 
+        "ft_facility_code": "1019-0016", 
+        "UTM_long": "8251618", 
+        "longitude": "35.34762219676636"
+    }, 
+    {
+        "latitude": "-15.817288290589019", 
+        "UTM_lat": "0749158", 
+        "ft_facility_code": "1019-0017", 
+        "UTM_long": "8244846", 
+        "longitude": "35.32596989892845"
+    }, 
+    {
+        "latitude": "-15.871017886514348", 
+        "UTM_lat": "0752778", 
+        "ft_facility_code": "1019-0018", 
+        "UTM_long": "8238882", 
+        "longitude": "35.36036677142065"
+    }, 
+    {
+        "latitude": "-15.948529603921182", 
+        "UTM_lat": "0748570", 
+        "ft_facility_code": "1019-0019", 
+        "UTM_long": "8230278", 
+        "longitude": "35.321985830646014"
+    }, 
+    {
+        "latitude": "-16.044032404652985", 
+        "UTM_lat": "0750884", 
+        "ft_facility_code": "1019-0020", 
+        "UTM_long": "8219677", 
+        "longitude": "35.344700750814674"
+    }, 
+    {
+        "latitude": "-16.107625250403036", 
+        "UTM_lat": "0750235", 
+        "ft_facility_code": "1019-0021", 
+        "UTM_long": "8212618", 
+        "longitude": "35.33938168535494"
+    }, 
+    {
+        "latitude": "-16.06886152650676", 
+        "UTM_lat": "0757211", 
+        "ft_facility_code": "1019-0022", 
+        "UTM_long": "8216921", 
+        "longitude": "35.40409188630663"
+    }, 
+    {
+        "latitude": "-16.039628479792704", 
+        "UTM_lat": "0760284", 
+        "ft_facility_code": "1019-0023", 
+        "UTM_long": "8220166", 
+        "longitude": "35.432441401096455"
+    }, 
+    {
+        "latitude": "-15.973648459396042", 
+        "UTM_lat": "0763677", 
+        "ft_facility_code": "1019-0024", 
+        "UTM_long": "8227490", 
+        "longitude": "35.463321242145746"
+    }, 
+    {
+        "latitude": "-15.953531190652479", 
+        "UTM_lat": "0760272", 
+        "ft_facility_code": "1019-0025", 
+        "UTM_long": "8229723", 
+        "longitude": "35.43128946603063"
+    }, 
+    {
+        "latitude": "-15.997164287394206", 
+        "UTM_lat": "0779617", 
+        "ft_facility_code": "1019-0026", 
+        "UTM_long": "8224880", 
+        "longitude": "35.612432177182114"
+    }, 
+    {
+        "latitude": "-15.764447530767795", 
+        "UTM_lat": "0783750", 
+        "ft_facility_code": "1020-0000", 
+        "UTM_long": "8250712", 
+        "longitude": "35.647978504250936"
+    }, 
+    {
+        "latitude": "-15.761555631811243", 
+        "UTM_lat": "0783621", 
+        "ft_facility_code": "1020-0001", 
+        "UTM_long": "8251033", 
+        "longitude": "35.64673816870979"
+    }, 
+    {
+        "latitude": "-15.78275307777521", 
+        "UTM_lat": "0780475", 
+        "ft_facility_code": "1020-0002", 
+        "UTM_long": "8248680", 
+        "longitude": "35.61767346275441"
+    }, 
+    {
+        "latitude": "-15.889665073222728", 
+        "UTM_lat": "0796103", 
+        "ft_facility_code": "1020-0003", 
+        "UTM_long": "8236813", 
+        "longitude": "35.764862376242654"
+    }, 
+    {
+        "latitude": "-15.817287222939756", 
+        "UTM_lat": "0794673", 
+        "ft_facility_code": "1020-0004", 
+        "UTM_long": "8244847", 
+        "longitude": "35.750541612946776"
+    }, 
+    {
+        "latitude": "-15.817234744586052", 
+        "UTM_lat": "0801572", 
+        "ft_facility_code": "1020-0005", 
+        "UTM_long": "8244853", 
+        "longitude": "35.814882314136874"
+    }, 
+    {
+        "latitude": "-42.75762553853144", 
+        "UTM_lat": "0796102", 
+        "ft_facility_code": "1020-0006", 
+        "UTM_long": "5250929", 
+        "longitude": "36.61507351084626"
+    }, 
+    {
+        "latitude": "-15.731972845120444", 
+        "UTM_lat": "0796272", 
+        "ft_facility_code": "1020-0007", 
+        "UTM_long": "8254317", 
+        "longitude": "35.76430053660034"
+    }, 
+    {
+        "latitude": "-15.712540794277976", 
+        "UTM_lat": "0797663", 
+        "ft_facility_code": "1020-0008", 
+        "UTM_long": "8256474", 
+        "longitude": "35.777004921884505"
+    }, 
+    {
+        "latitude": "-15.517820576134012", 
+        "UTM_lat": "0802397", 
+        "ft_facility_code": "1020-0009", 
+        "UTM_long": "8278088", 
+        "longitude": "35.81847442672205"
+    }, 
+    {
+        "latitude": "-15.678322538761725", 
+        "UTM_lat": "0787826", 
+        "ft_facility_code": "1020-0010", 
+        "UTM_long": "8260272", 
+        "longitude": "35.684858631514174"
+    }, 
+    {
+        "latitude": "-15.631503666474666", 
+        "UTM_lat": "0792475", 
+        "ft_facility_code": "1020-0011", 
+        "UTM_long": "8265469", 
+        "longitude": "35.72756985114418"
+    }, 
+    {
+        "latitude": "-15.728031375681939", 
+        "UTM_lat": "0773308", 
+        "ft_facility_code": "1020-0012", 
+        "UTM_long": "8254754", 
+        "longitude": "35.55015012100572"
+    }, 
+    {
+        "latitude": "-15.715852428738026", 
+        "UTM_lat": "0779857", 
+        "ft_facility_code": "1020-0013", 
+        "UTM_long": "8256106", 
+        "longitude": "35.6110565666089"
+    }, 
+    {
+        "latitude": "-15.603490582262726", 
+        "UTM_lat": "0771484", 
+        "ft_facility_code": "1020-0014", 
+        "UTM_long": "8268578", 
+        "longitude": "35.53161085690604"
+    }, 
+    {
+        "latitude": "-15.573050861535014", 
+        "UTM_lat": "0781798", 
+        "ft_facility_code": "1020-0015", 
+        "UTM_long": "8271957", 
+        "longitude": "35.62733189378905"
+    }, 
+    {
+        "latitude": "-15.509896181513996", 
+        "UTM_lat": "0775932", 
+        "ft_facility_code": "1020-0016", 
+        "UTM_long": "8278967", 
+        "longitude": "35.571897975931456"
+    }, 
+    {
+        "latitude": "-15.354448447839395", 
+        "UTM_lat": "0748297", 
+        "ft_facility_code": "1021-0000", 
+        "UTM_long": "8296221", 
+        "longitude": "35.31275781710533"
+    }, 
+    {
+        "latitude": "-15.356475508885048", 
+        "UTM_lat": "0748277", 
+        "ft_facility_code": "1021-0001", 
+        "UTM_long": "8295996", 
+        "longitude": "35.312593939790155"
+    }, 
+    {
+        "latitude": "-15.356475508885048", 
+        "UTM_lat": "0748277", 
+        "ft_facility_code": "1021-0002", 
+        "UTM_long": "8295996", 
+        "longitude": "35.312593939790155"
+    }, 
+    {
+        "latitude": "-15.346565306282809", 
+        "UTM_lat": "0747397", 
+        "ft_facility_code": "1021-0003", 
+        "UTM_long": "8297096", 
+        "longitude": "35.30429325764831"
+    }, 
+    {
+        "latitude": "-15.217146230459331", 
+        "UTM_lat": "0731937", 
+        "ft_facility_code": "1021-0004", 
+        "UTM_long": "8311461", 
+        "longitude": "35.15904900634456"
+    }, 
+    {
+        "latitude": "-15.282508827570433", 
+        "UTM_lat": "0738013", 
+        "ft_facility_code": "1021-0005", 
+        "UTM_long": "8304206", 
+        "longitude": "35.21626339616599"
+    }, 
+    {
+        "latitude": "-15.335015925821818", 
+        "UTM_lat": "0750417", 
+        "ft_facility_code": "1021-0006", 
+        "UTM_long": "8298378", 
+        "longitude": "35.33227734680191"
+    }, 
+    {
+        "latitude": "-15.27812022210703", 
+        "UTM_lat": "0727290", 
+        "ft_facility_code": "1021-0007", 
+        "UTM_long": "8304693", 
+        "longitude": "35.1164219619818"
+    }, 
+    {
+        "latitude": "-15.343148352896149", 
+        "UTM_lat": "0724871", 
+        "ft_facility_code": "1021-0008", 
+        "UTM_long": "8297475", 
+        "longitude": "35.09455424579233"
+    }, 
+    {
+        "latitude": "-15.351176450601079", 
+        "UTM_lat": "0734041", 
+        "ft_facility_code": "1021-0009", 
+        "UTM_long": "8296584", 
+        "longitude": "35.18000768946183"
+    }, 
+    {
+        "latitude": "-15.344140651131543", 
+        "UTM_lat": "0737396", 
+        "ft_facility_code": "1021-0010", 
+        "UTM_long": "8297365", 
+        "longitude": "35.211167741429385"
+    }, 
+    {
+        "latitude": "-15.431908164110885", 
+        "UTM_lat": "0740407", 
+        "ft_facility_code": "1021-0011", 
+        "UTM_long": "8287623", 
+        "longitude": "35.240135097803424"
+    }, 
+    {
+        "latitude": "-15.710009950616351", 
+        "UTM_lat": "0750770", 
+        "ft_facility_code": "1021-0012", 
+        "UTM_long": "8256754", 
+        "longitude": "35.339781463964115"
+    }, 
+    {
+        "latitude": "-15.515990402918147", 
+        "UTM_lat": "0742488", 
+        "ft_facility_code": "1021-0013", 
+        "UTM_long": "8278290", 
+        "longitude": "35.2604267484523"
+    }, 
+    {
+        "latitude": "-15.556756429795916", 
+        "UTM_lat": "0742263", 
+        "ft_facility_code": "1021-0014", 
+        "UTM_long": "8273765", 
+        "longitude": "35.25877402387469"
+    }, 
+    {
+        "latitude": "-15.529478545524242", 
+        "UTM_lat": "0754449", 
+        "ft_facility_code": "1021-0015", 
+        "UTM_long": "8276793", 
+        "longitude": "35.372011834509884"
+    }, 
+    {
+        "latitude": "-15.6226780213816", 
+        "UTM_lat": "0760201", 
+        "ft_facility_code": "1021-0016", 
+        "UTM_long": "8266448", 
+        "longitude": "35.42669065270017"
+    }, 
+    {
+        "latitude": "-15.439505876878314", 
+        "UTM_lat": "0762943", 
+        "ft_facility_code": "1021-0017", 
+        "UTM_long": "8286780", 
+        "longitude": "35.45008479320708"
+    }, 
+    {
+        "latitude": "-15.385858065734373", 
+        "UTM_lat": "0773072", 
+        "ft_facility_code": "1021-0018", 
+        "UTM_long": "8292735", 
+        "longitude": "35.543748782433845"
+    }, 
+    {
+        "latitude": "-15.423209480154329", 
+        "UTM_lat": "0770026", 
+        "ft_facility_code": "1021-0019", 
+        "UTM_long": "8288589", 
+        "longitude": "35.51584256437965"
+    }, 
+    {
+        "latitude": "-15.32645898253004", 
+        "UTM_lat": "0763076", 
+        "ft_facility_code": "1021-0020", 
+        "UTM_long": "8299328", 
+        "longitude": "35.45000285311336"
+    }, 
+    {
+        "latitude": "-13.464674170678487", 
+        "UTM_lat": "0366258", 
+        "ft_facility_code": "1021-0021", 
+        "UTM_long": "8505970", 
+        "longitude": "31.764450575690343"
+    }, 
+    {
+        "latitude": "-15.189221340772264", 
+        "UTM_lat": "0762344", 
+        "ft_facility_code": "1021-0022", 
+        "UTM_long": "8314561", 
+        "longitude": "35.441606330475665"
+    }, 
+    {
+        "latitude": "-15.165462547761344", 
+        "UTM_lat": "0752716", 
+        "ft_facility_code": "1021-0023", 
+        "UTM_long": "8317198", 
+        "longitude": "35.351792118531634"
+    }, 
+    {
+        "latitude": "-17.89635594062601", 
+        "UTM_lat": "0759697", 
+        "ft_facility_code": "1021-0024", 
+        "UTM_long": "8014052", 
+        "longitude": "35.4509000849831"
+    }, 
+    {
+        "latitude": "-15.237366088920641", 
+        "UTM_lat": "0757656", 
+        "ft_facility_code": "1021-0025", 
+        "UTM_long": "8309217", 
+        "longitude": "35.398547239902456"
+    }, 
+    {
+        "latitude": "-15.253861417177307", 
+        "UTM_lat": "0753493", 
+        "ft_facility_code": "1021-0026", 
+        "UTM_long": "8307386", 
+        "longitude": "35.36000099103494"
+    }, 
+    {
+        "latitude": "-15.347340397846896", 
+        "UTM_lat": "0749761", 
+        "ft_facility_code": "1021-0027", 
+        "UTM_long": "8297010", 
+        "longitude": "35.32630752873774"
+    }, 
+    {
+        "latitude": "-15.796756990120835", 
+        "UTM_lat": "0749441", 
+        "ft_facility_code": "1021-0028", 
+        "UTM_long": "8247125", 
+        "longitude": "35.328375728814216"
+    }, 
+    {
+        "latitude": "-15.347034260341694", 
+        "UTM_lat": "0751095", 
+        "ft_facility_code": "1021-0029", 
+        "UTM_long": "8297044", 
+        "longitude": "35.33872177371397"
+    }, 
+    {
+        "latitude": "-15.344682596278753", 
+        "UTM_lat": "0749030", 
+        "ft_facility_code": "1021-0030", 
+        "UTM_long": "8297305", 
+        "longitude": "35.31947359322127"
+    }, 
+    {
+        "latitude": "-15.33724085561868", 
+        "UTM_lat": "0747788", 
+        "ft_facility_code": "1021-0031", 
+        "UTM_long": "8298131", 
+        "longitude": "35.30783068075781"
+    }, 
+    {
+        "latitude": "-15.438899197947025", 
+        "UTM_lat": "0739984", 
+        "ft_facility_code": "1021-0032", 
+        "UTM_long": "8286847", 
+        "longitude": "35.23627049483279"
+    }, 
+    {
+        "latitude": "-15.31425050497459", 
+        "UTM_lat": "0756038", 
+        "ft_facility_code": "1021-0033", 
+        "UTM_long": "8300683", 
+        "longitude": "35.38436171264453"
+    }, 
+    {
+        "latitude": "-15.307672466228784", 
+        "UTM_lat": "0745947", 
+        "ft_facility_code": "1021-0034", 
+        "UTM_long": "8301413", 
+        "longitude": "35.29037245558029"
+    }, 
+    {
+        "latitude": "-15.491841483324105", 
+        "UTM_lat": "0773228", 
+        "ft_facility_code": "1021-0035", 
+        "UTM_long": "8280971", 
+        "longitude": "35.54649171253784"
+    }, 
+    {
+        "latitude": "-15.346457963267595", 
+        "UTM_lat": "0753268", 
+        "ft_facility_code": "1021-0036", 
+        "UTM_long": "8297108", 
+        "longitude": "35.35894257724588"
+    }, 
+    {
+        "latitude": "-15.284451847511143", 
+        "UTM_lat": "0779742", 
+        "ft_facility_code": "1021-0037", 
+        "UTM_long": "8303991", 
+        "longitude": "35.6045814681252"
+    }, 
+    {
+        "latitude": "-15.191841175903425", 
+        "UTM_lat": "0801026", 
+        "ft_facility_code": "1021-0038", 
+        "UTM_long": "8314271", 
+        "longitude": "35.80136138558472"
+    }, 
+    {
+        "latitude": "-15.257663227365521", 
+        "UTM_lat": "0803154", 
+        "ft_facility_code": "1021-0039", 
+        "UTM_long": "8306965", 
+        "longitude": "35.82202277999125"
+    }, 
+    {
+        "latitude": "-15.380441120512316", 
+        "UTM_lat": "0805483", 
+        "ft_facility_code": "1021-0040", 
+        "UTM_long": "8293337", 
+        "longitude": "35.84534065252481"
+    }, 
+    {
+        "latitude": "-15.75538429507856", 
+        "UTM_lat": "0715996", 
+        "ft_facility_code": "1022-0001", 
+        "UTM_long": "8251717", 
+        "longitude": "35.01592912512437"
+    }, 
+    {
+        "latitude": "-15.722465244403077", 
+        "UTM_lat": "0712280", 
+        "ft_facility_code": "1022-0002", 
+        "UTM_long": "8255371", 
+        "longitude": "34.98094355775888"
+    }, 
+    {
+        "latitude": "-15.728465103890708", 
+        "UTM_lat": "0710895", 
+        "ft_facility_code": "1022-0003", 
+        "UTM_long": "8254705", 
+        "longitude": "34.968082212854995"
+    }, 
+    {
+        "latitude": "-15.743897487696634", 
+        "UTM_lat": "0711316", 
+        "ft_facility_code": "1022-0004", 
+        "UTM_long": "8252992", 
+        "longitude": "34.9721579537468"
+    }, 
+    {
+        "latitude": "-15.729799073263019", 
+        "UTM_lat": "0718473", 
+        "ft_facility_code": "1022-0005", 
+        "UTM_long": "8254557", 
+        "longitude": "35.03878208608107"
+    }, 
+    {
+        "latitude": "-15.808699276014337", 
+        "UTM_lat": "0717134", 
+        "ft_facility_code": "1022-0006", 
+        "UTM_long": "8245799", 
+        "longitude": "35.02707480746483"
+    }, 
+    {
+        "latitude": "-15.917750847927476", 
+        "UTM_lat": "0704229", 
+        "ft_facility_code": "1022-0007", 
+        "UTM_long": "8233694", 
+        "longitude": "34.907672862807"
+    }, 
+    {
+        "latitude": "-15.86478802130217", 
+        "UTM_lat": "0708764", 
+        "ft_facility_code": "1022-0008", 
+        "UTM_long": "8239573", 
+        "longitude": "34.94950660349361"
+    }, 
+    {
+        "latitude": "-15.825184949388401", 
+        "UTM_lat": "0709448", 
+        "ft_facility_code": "1022-0009", 
+        "UTM_long": "8243969", 
+        "longitude": "34.95551035292666"
+    }, 
+    {
+        "latitude": "-15.776078460627682", 
+        "UTM_lat": "0722818", 
+        "ft_facility_code": "1022-0010", 
+        "UTM_long": "8249420", 
+        "longitude": "35.07978090647199"
+    }, 
+    {
+        "latitude": "-15.768672827060401", 
+        "UTM_lat": "0719771", 
+        "ft_facility_code": "1022-0011", 
+        "UTM_long": "8250242", 
+        "longitude": "35.05127909324728"
+    }, 
+    {
+        "latitude": "-15.727887857908051", 
+        "UTM_lat": "0701980", 
+        "ft_facility_code": "1022-0012", 
+        "UTM_long": "8254769", 
+        "longitude": "34.884914807683714"
+    }, 
+    {
+        "latitude": "-15.783661888481165", 
+        "UTM_lat": "0696455", 
+        "ft_facility_code": "1022-0013", 
+        "UTM_long": "8248578", 
+        "longitude": "34.83387387368341"
+    }, 
+    {
+        "latitude": "-15.62202306773472", 
+        "UTM_lat": "0700535", 
+        "ft_facility_code": "1022-0014", 
+        "UTM_long": "8266520", 
+        "longitude": "34.870471631126186"
+    }, 
+    {
+        "latitude": "-15.514590191314403", 
+        "UTM_lat": "0701649", 
+        "ft_facility_code": "1022-0015", 
+        "UTM_long": "8278445", 
+        "longitude": "34.879882835241034"
+    }, 
+    {
+        "latitude": "-15.610987457586798", 
+        "UTM_lat": "0706764", 
+        "ft_facility_code": "1022-0016", 
+        "UTM_long": "8267745", 
+        "longitude": "34.92844564325738"
+    }, 
+    {
+        "latitude": "-15.633744593843412", 
+        "UTM_lat": "0711186", 
+        "ft_facility_code": "1022-0017", 
+        "UTM_long": "8265219", 
+        "longitude": "34.96988863914067"
+    }, 
+    {
+        "latitude": "-15.758590953279809", 
+        "UTM_lat": "0709618", 
+        "ft_facility_code": "1022-0018", 
+        "UTM_long": "8251361", 
+        "longitude": "34.95645815352095"
+    }, 
+    {
+        "latitude": "-15.77283457820964", 
+        "UTM_lat": "0715480", 
+        "ft_facility_code": "1022-0019", 
+        "UTM_long": "8249780", 
+        "longitude": "35.01128704665611"
+    }, 
+    {
+        "latitude": "-15.767375507060736", 
+        "UTM_lat": "0719418", 
+        "ft_facility_code": "1022-0020", 
+        "UTM_long": "8250386", 
+        "longitude": "35.0479728079639"
+    }, 
+    {
+        "latitude": "-15.595501690095158", 
+        "UTM_lat": "0716247", 
+        "ft_facility_code": "1022-0021", 
+        "UTM_long": "8269464", 
+        "longitude": "35.01670196511281"
+    }, 
+    {
+        "latitude": "-15.58276350557577", 
+        "UTM_lat": "0722941", 
+        "ft_facility_code": "1022-0022", 
+        "UTM_long": "8270878", 
+        "longitude": "35.07897251937556"
+    }, 
+    {
+        "latitude": "-15.481915467247813", 
+        "UTM_lat": "0717726", 
+        "ft_facility_code": "1022-0023", 
+        "UTM_long": "8282072", 
+        "longitude": "35.02937773004955"
+    }, 
+    {
+        "latitude": "-15.439537027503635", 
+        "UTM_lat": "0722471", 
+        "ft_facility_code": "1022-0024", 
+        "UTM_long": "8286776", 
+        "longitude": "35.073163132996875"
+    }, 
+    {
+        "latitude": "-15.374229190551636", 
+        "UTM_lat": "0716015", 
+        "ft_facility_code": "1022-0025", 
+        "UTM_long": "8294025", 
+        "longitude": "35.012400241751386"
+    }, 
+    {
+        "latitude": "-15.419733783106265", 
+        "UTM_lat": "0708423", 
+        "ft_facility_code": "1022-0026", 
+        "UTM_long": "8288974", 
+        "longitude": "34.94212444194118"
+    }, 
+    {
+        "latitude": "-15.678772367438029", 
+        "UTM_lat": "0720142", 
+        "ft_facility_code": "1022-0027", 
+        "UTM_long": "8260221", 
+        "longitude": "35.05383923379465"
+    }, 
+    {
+        "latitude": "-15.750555372804865", 
+        "UTM_lat": "0714546", 
+        "ft_facility_code": "1022-0028", 
+        "UTM_long": "8252253", 
+        "longitude": "35.00235471449129"
+    }, 
+    {
+        "latitude": "-15.753645612596502", 
+        "UTM_lat": "0716515", 
+        "ft_facility_code": "1022-0029", 
+        "UTM_long": "8251910", 
+        "longitude": "35.02075370057364"
+    }, 
+    {
+        "latitude": "-15.733708625125708", 
+        "UTM_lat": "0714584", 
+        "ft_facility_code": "1022-0030", 
+        "UTM_long": "8254123", 
+        "longitude": "35.00254439499209"
+    }, 
+    {
+        "latitude": "-15.76075365988782", 
+        "UTM_lat": "0716356", 
+        "ft_facility_code": "1022-0031", 
+        "UTM_long": "8251121", 
+        "longitude": "35.01934059218864"
+    }, 
+    {
+        "latitude": "-15.763717869851018", 
+        "UTM_lat": "0719357", 
+        "ft_facility_code": "1022-0032", 
+        "UTM_long": "8250792", 
+        "longitude": "35.047367076927905"
+    }, 
+    {
+        "latitude": "-15.74389798879081", 
+        "UTM_lat": "0717253", 
+        "ft_facility_code": "1022-0033", 
+        "UTM_long": "8252992", 
+        "longitude": "35.02754182717379"
+    }, 
+    {
+        "latitude": "-15.755141267970489", 
+        "UTM_lat": "0718435", 
+        "ft_facility_code": "1022-0034", 
+        "UTM_long": "8251744", 
+        "longitude": "35.03868000975622"
+    }, 
+    {
+        "latitude": "-15.719582956748972", 
+        "UTM_lat": "0719061", 
+        "ft_facility_code": "1022-0035", 
+        "UTM_long": "8255691", 
+        "longitude": "35.04416487008915"
+    }, 
+    {
+        "latitude": "-15.676114353197374", 
+        "UTM_lat": "0716064", 
+        "ft_facility_code": "1022-0036", 
+        "UTM_long": "8260516", 
+        "longitude": "35.01578411581657"
+    }, 
+    {
+        "latitude": "-15.603096334681089", 
+        "UTM_lat": "0716559", 
+        "ft_facility_code": "1022-0037", 
+        "UTM_long": "8268621", 
+        "longitude": "35.019684569137176"
+    }, 
+    {
+        "latitude": "-15.75049231047243", 
+        "UTM_lat": "0714550", 
+        "ft_facility_code": "1022-0038", 
+        "UTM_long": "8252260", 
+        "longitude": "35.0023914127919"
+    }, 
+    {
+        "latitude": "-15.698222442237562", 
+        "UTM_lat": "0716436", 
+        "ft_facility_code": "1022-0039", 
+        "UTM_long": "8258062", 
+        "longitude": "35.01947045983188"
+    }, 
+    {
+        "latitude": "-15.7700868565517", 
+        "UTM_lat": "0715544", 
+        "ft_facility_code": "1022-0040", 
+        "UTM_long": "8250085", 
+        "longitude": "35.011857097908596"
+    }, 
+    {
+        "latitude": "-15.761834495643415", 
+        "UTM_lat": "0713567", 
+        "ft_facility_code": "1022-0041", 
+        "UTM_long": "8251001", 
+        "longitude": "34.99333164634899"
+    }, 
+    {
+        "latitude": "-15.781880199647537", 
+        "UTM_lat": "0722640", 
+        "ft_facility_code": "1022-0042", 
+        "UTM_long": "8248776", 
+        "longitude": "35.0781792856574"
+    }, 
+    {
+        "latitude": "-15.75561008325386", 
+        "UTM_lat": "0722245", 
+        "ft_facility_code": "1022-0043", 
+        "UTM_long": "8251692", 
+        "longitude": "35.07422732205271"
+    }, 
+    {
+        "latitude": "-15.73698801331631", 
+        "UTM_lat": "0716059", 
+        "ft_facility_code": "1022-0044", 
+        "UTM_long": "8253759", 
+        "longitude": "35.016335589392604"
+    }, 
+    {
+        "latitude": "-15.969451764348856", 
+        "UTM_lat": "0691744", 
+        "ft_facility_code": "1023-0000", 
+        "UTM_long": "8227955", 
+        "longitude": "34.79155334758249"
+    }, 
+    {
+        "latitude": "-15.969451764348856", 
+        "UTM_lat": "0691744", 
+        "ft_facility_code": "1023-0001", 
+        "UTM_long": "8227955", 
+        "longitude": "34.79155334758249"
+    }, 
+    {
+        "latitude": "", 
+        "UTM_lat": "", 
+        "ft_facility_code": "1023-0002", 
+        "UTM_long": "", 
+        "longitude": null
+    }, 
+    {
+        "latitude": "-16.499244199312432", 
+        "UTM_lat": "0705293", 
+        "ft_facility_code": "1023-0003", 
+        "UTM_long": "8169146", 
+        "longitude": "34.923233957468156"
+    }, 
+    {
+        "latitude": "-16.615138128682887", 
+        "UTM_lat": "0700414", 
+        "ft_facility_code": "1023-0004", 
+        "UTM_long": "8156281", 
+        "longitude": "34.878665967135575"
+    }, 
+    {
+        "latitude": "-16.471372286091746", 
+        "UTM_lat": "0711433", 
+        "ft_facility_code": "1023-0005", 
+        "UTM_long": "8172240", 
+        "longitude": "34.98044726898842"
+    }, 
+    {
+        "latitude": "-16.40513155501748", 
+        "UTM_lat": "0701952", 
+        "ft_facility_code": "1023-0006", 
+        "UTM_long": "8179593", 
+        "longitude": "34.891035955520636"
+    }, 
+    {
+        "latitude": "-16.200391973291943", 
+        "UTM_lat": "0699509", 
+        "ft_facility_code": "1023-0007", 
+        "UTM_long": "8202320", 
+        "longitude": "34.866231044003"
+    }, 
+    {
+        "latitude": "-16.042953667560855", 
+        "UTM_lat": "0673570", 
+        "ft_facility_code": "1023-0008", 
+        "UTM_long": "8219796", 
+        "longitude": "34.62238975403219"
+    }, 
+    {
+        "latitude": "-15.98203573872313", 
+        "UTM_lat": "0664376", 
+        "ft_facility_code": "1023-0009", 
+        "UTM_long": "8226558", 
+        "longitude": "34.53600909282656"
+    }, 
+    {
+        "latitude": "-15.949027177478877", 
+        "UTM_lat": "0658854", 
+        "ft_facility_code": "1023-0010", 
+        "UTM_long": "8230222", 
+        "longitude": "34.4841785297481"
+    }, 
+    {
+        "latitude": "-16.09819685536641", 
+        "UTM_lat": "0698140", 
+        "ft_facility_code": "1023-0011", 
+        "UTM_long": "8213664", 
+        "longitude": "34.852479666634466"
+    }, 
+    {
+        "latitude": "-15.748263892163578", 
+        "UTM_lat": "0658049", 
+        "ft_facility_code": "1023-0012", 
+        "UTM_long": "8252507", 
+        "longitude": "34.47520076846737"
+    }, 
+    {
+        "latitude": "-15.750479733144916", 
+        "UTM_lat": "0646106", 
+        "ft_facility_code": "1023-0013", 
+        "UTM_long": "8252261", 
+        "longitude": "34.36376539745742"
+    }, 
+    {
+        "latitude": "-15.746173303654706", 
+        "UTM_lat": "0640127", 
+        "ft_facility_code": "1023-0014", 
+        "UTM_long": "8252739", 
+        "longitude": "34.30794006855233"
+    }, 
+    {
+        "latitude": "-15.827055456829322", 
+        "UTM_lat": "0639022", 
+        "ft_facility_code": "1023-0015", 
+        "UTM_long": "8243761", 
+        "longitude": "34.298142553609104"
+    }, 
+    {
+        "latitude": "-16.168247739967825", 
+        "UTM_lat": "0680451", 
+        "ft_facility_code": "1023-0016", 
+        "UTM_long": "8205888", 
+        "longitude": "34.68774610424109"
+    }, 
+    {
+        "latitude": "-16.094168835540405", 
+        "UTM_lat": "0679540", 
+        "ft_facility_code": "1023-0017", 
+        "UTM_long": "8214111", 
+        "longitude": "34.678604646565574"
+    }, 
+    {
+        "latitude": "-16.204581206304393", 
+        "UTM_lat": "0702127", 
+        "ft_facility_code": "1023-0018", 
+        "UTM_long": "8201855", 
+        "longitude": "34.8907504508119"
+    }, 
+    {
+        "latitude": "-16.188185523877976", 
+        "UTM_lat": "0704231", 
+        "ft_facility_code": "1023-0019", 
+        "UTM_long": "8203675", 
+        "longitude": "34.9102662854135"
+    }, 
+    {
+        "latitude": "-16.135718486405338", 
+        "UTM_lat": "0700968", 
+        "ft_facility_code": "1023-0020", 
+        "UTM_long": "8209499", 
+        "longitude": "34.879262558962715"
+    }, 
+    {
+        "latitude": "-16.168347899661967", 
+        "UTM_lat": "0698146", 
+        "ft_facility_code": "1023-0021", 
+        "UTM_long": "8205877", 
+        "longitude": "34.85318745082135"
+    }, 
+    {
+        "latitude": "-16.22213005018009", 
+        "UTM_lat": "0700888", 
+        "ft_facility_code": "1023-0022", 
+        "UTM_long": "8199907", 
+        "longitude": "34.87933124406235"
+    }, 
+    {
+        "latitude": "-16.34905297433679", 
+        "UTM_lat": "0701291", 
+        "ft_facility_code": "1023-0023", 
+        "UTM_long": "8185818", 
+        "longitude": "34.88431057219313"
+    }, 
+    {
+        "latitude": "-16.146041913848467", 
+        "UTM_lat": "0692307", 
+        "ft_facility_code": "1023-0024", 
+        "UTM_long": "8208353", 
+        "longitude": "34.7983956697892"
+    }, 
+    {
+        "latitude": "-16.34337676050727", 
+        "UTM_lat": "0689554", 
+        "ft_facility_code": "1023-0025", 
+        "UTM_long": "8186448", 
+        "longitude": "34.77442711567596"
+    }, 
+    {
+        "latitude": "-16.31192708321385", 
+        "UTM_lat": "0679605", 
+        "ft_facility_code": "1023-0026", 
+        "UTM_long": "8189939", 
+        "longitude": "34.681055189919164"
+    }, 
+    {
+        "latitude": "-16.423706079059887", 
+        "UTM_lat": "0684002", 
+        "ft_facility_code": "1023-0027", 
+        "UTM_long": "8177531", 
+        "longitude": "34.72317707222284"
+    }, 
+    {
+        "latitude": "-15.841318449338592", 
+        "UTM_lat": "0688102", 
+        "ft_facility_code": "1023-0028", 
+        "UTM_long": "8242178", 
+        "longitude": "34.756424070145734"
+    }, 
+    {
+        "latitude": "-16.0149197837436", 
+        "UTM_lat": "0699648", 
+        "ft_facility_code": "1023-0029", 
+        "UTM_long": "8222908", 
+        "longitude": "34.86579780610961"
+    }, 
+    {
+        "latitude": "-16.052279628380763", 
+        "UTM_lat": "0704807", 
+        "ft_facility_code": "1023-0030", 
+        "UTM_long": "8218761", 
+        "longitude": "34.91434796092512"
+    }, 
+    {
+        "latitude": "-16.093927541015685", 
+        "UTM_lat": "0709386", 
+        "ft_facility_code": "1023-0031", 
+        "UTM_long": "8214138", 
+        "longitude": "34.95753751860059"
+    }, 
+    {
+        "latitude": "-16.142449114236875", 
+        "UTM_lat": "0714855", 
+        "ft_facility_code": "1023-0032", 
+        "UTM_long": "8208752", 
+        "longitude": "35.00913267593762"
+    }, 
+    {
+        "latitude": "-16.216564248631407", 
+        "UTM_lat": "0719840", 
+        "ft_facility_code": "1023-0033", 
+        "UTM_long": "8200525", 
+        "longitude": "35.056492789338705"
+    }, 
+    {
+        "latitude": "-15.931137253743392", 
+        "UTM_lat": "0693185", 
+        "ft_facility_code": "1023-0034", 
+        "UTM_long": "8232208", 
+        "longitude": "34.8046698969828"
+    }, 
+    {
+        "latitude": "-15.851622993132157", 
+        "UTM_lat": "0649153", 
+        "ft_facility_code": "1023-0035", 
+        "UTM_long": "8241034", 
+        "longitude": "34.392891438568896"
+    }, 
+    {
+        "latitude": "-16.430760414829766", 
+        "UTM_lat": "0694256", 
+        "ft_facility_code": "1023-0036", 
+        "UTM_long": "8176748", 
+        "longitude": "34.81923716410687"
+    }, 
+    {
+        "latitude": "-16.216472464500633", 
+        "UTM_lat": "0699075", 
+        "ft_facility_code": "1023-0037", 
+        "UTM_long": "8200535", 
+        "longitude": "34.862323790634576"
+    }, 
+    {
+        "latitude": "-16.232048299728916", 
+        "UTM_lat": "0696397", 
+        "ft_facility_code": "1023-0038", 
+        "UTM_long": "8198806", 
+        "longitude": "34.83742512437467"
+    }, 
+    {
+        "latitude": "-15.66129618058393", 
+        "UTM_lat": "0732936", 
+        "ft_facility_code": "1024-0000", 
+        "UTM_long": "8262161", 
+        "longitude": "35.17295761036665"
+    }, 
+    {
+        "latitude": "-15.66129618058393", 
+        "UTM_lat": "0732936", 
+        "ft_facility_code": "1024-0001", 
+        "UTM_long": "8262161", 
+        "longitude": "35.17295761036665"
+    }, 
+    {
+        "latitude": "-15.751548046697744", 
+        "UTM_lat": "0732183", 
+        "ft_facility_code": "1024-0002", 
+        "UTM_long": "8252143", 
+        "longitude": "35.166889582415536"
+    }, 
+    {
+        "latitude": "-15.703809817397671", 
+        "UTM_lat": "0734808", 
+        "ft_facility_code": "1024-0003", 
+        "UTM_long": "8257442", 
+        "longitude": "35.190864620872595"
+    }, 
+    {
+        "latitude": "-15.647414012548175", 
+        "UTM_lat": "0739289", 
+        "ft_facility_code": "1024-0004", 
+        "UTM_long": "8263702", 
+        "longitude": "35.232039578701894"
+    }, 
+    {
+        "latitude": "-15.639054776443547", 
+        "UTM_lat": "0748433", 
+        "ft_facility_code": "1024-0005", 
+        "UTM_long": "8264630", 
+        "longitude": "35.31718974662906"
+    }, 
+    {
+        "latitude": "-15.604089833217147", 
+        "UTM_lat": "0741113", 
+        "ft_facility_code": "1024-0006", 
+        "UTM_long": "8268511", 
+        "longitude": "35.24857193836765"
+    }, 
+    {
+        "latitude": "-15.589340922649093", 
+        "UTM_lat": "0731149", 
+        "ft_facility_code": "1024-0007", 
+        "UTM_long": "8270148", 
+        "longitude": "35.15554416588034"
+    }, 
+    {
+        "latitude": "-15.556953012740143", 
+        "UTM_lat": "0727534", 
+        "ft_facility_code": "1024-0008", 
+        "UTM_long": "8273743", 
+        "longitude": "35.12151791826049"
+    }, 
+    {
+        "latitude": "-15.497809154940445", 
+        "UTM_lat": "0734556", 
+        "ft_facility_code": "1024-0009", 
+        "UTM_long": "8280308", 
+        "longitude": "35.18633437758352"
+    }, 
+    {
+        "latitude": "-15.691556899659425", 
+        "UTM_lat": "0728204", 
+        "ft_facility_code": "1024-0010", 
+        "UTM_long": "8258802", 
+        "longitude": "35.12915031777245"
+    }, 
+    {
+        "latitude": "-15.608143285760475", 
+        "UTM_lat": "0735789", 
+        "ft_facility_code": "1024-0011", 
+        "UTM_long": "8268061", 
+        "longitude": "35.19899109674739"
+    }, 
+    {
+        "latitude": "-15.71930595268942", 
+        "UTM_lat": "0740858", 
+        "ft_facility_code": "1024-0012", 
+        "UTM_long": "8255722", 
+        "longitude": "35.24745275008068"
+    }, 
+    {
+        "latitude": "-15.792305758638486", 
+        "UTM_lat": "0743064", 
+        "ft_facility_code": "1024-0013", 
+        "UTM_long": "8247619", 
+        "longitude": "35.26883497015252"
+    }, 
+    {
+        "latitude": "-15.921764121019942", 
+        "UTM_lat": "0747199", 
+        "ft_facility_code": "1024-0014", 
+        "UTM_long": "8233249", 
+        "longitude": "35.30888058447567"
+    }, 
+    {
+        "latitude": "-15.536651375348375", 
+        "UTM_lat": "0661845", 
+        "ft_facility_code": "1025-0000", 
+        "UTM_long": "8275996", 
+        "longitude": "34.509072194239785"
+    }, 
+    {
+        "latitude": "-15.670164844408712", 
+        "UTM_lat": "0649900", 
+        "ft_facility_code": "1025-0001", 
+        "UTM_long": "8261176", 
+        "longitude": "34.39862347252579"
+    }, 
+    {
+        "latitude": "-15.536651375348375", 
+        "UTM_lat": "0661845", 
+        "ft_facility_code": "1025-0002", 
+        "UTM_long": "8275996", 
+        "longitude": "34.509072194239785"
+    }, 
+    {
+        "latitude": "-15.410397737591929", 
+        "UTM_lat": "0659929", 
+        "ft_facility_code": "1025-0003", 
+        "UTM_long": "8290010", 
+        "longitude": "34.49030813648903"
+    }, 
+    {
+        "latitude": "-15.69465170750084", 
+        "UTM_lat": "0663081", 
+        "ft_facility_code": "1025-0004", 
+        "UTM_long": "8258458", 
+        "longitude": "34.52175860189039"
+    }, 
+    {
+        "latitude": "-15.277819438391264", 
+        "UTM_lat": "0677358", 
+        "ft_facility_code": "1026-0000", 
+        "UTM_long": "8304726", 
+        "longitude": "34.65163332959467"
+    }, 
+    {
+        "latitude": "-15.208700455261116", 
+        "UTM_lat": "0673193", 
+        "ft_facility_code": "1026-0001", 
+        "UTM_long": "8312398", 
+        "longitude": "34.61233168584802"
+    }, 
+    {
+        "latitude": "-15.419191326156298", 
+        "UTM_lat": "0676726", 
+        "ft_facility_code": "1026-0002", 
+        "UTM_long": "8289034", 
+        "longitude": "34.6468570270722"
+    }, 
+    {
+        "latitude": "-15.495201107865295", 
+        "UTM_lat": "0674541", 
+        "ft_facility_code": "1026-0003", 
+        "UTM_long": "8280597", 
+        "longitude": "34.627094326093896"
+    }, 
+    {
+        "latitude": "-15.544643289848448", 
+        "UTM_lat": "0682071", 
+        "ft_facility_code": "1026-0004", 
+        "UTM_long": "8275109", 
+        "longitude": "34.697672327965314"
+    }, 
+    {
+        "latitude": "-15.46993171862196", 
+        "UTM_lat": "0695698", 
+        "ft_facility_code": "1026-0005", 
+        "UTM_long": "8283402", 
+        "longitude": "34.82403345470313"
+    }, 
+    {
+        "latitude": "-15.427119870110223", 
+        "UTM_lat": "0686824", 
+        "ft_facility_code": "1026-0006", 
+        "UTM_long": "8288154", 
+        "longitude": "34.74099295872796"
+    }, 
+    {
+        "latitude": "-15.342235163123746", 
+        "UTM_lat": "0677373", 
+        "ft_facility_code": "1026-0007", 
+        "UTM_long": "8297576", 
+        "longitude": "34.65227798012895"
+    }, 
+    {
+        "latitude": "-15.383352768008171", 
+        "UTM_lat": "0672498", 
+        "ft_facility_code": "1026-0008", 
+        "UTM_long": "8293012", 
+        "longitude": "34.607193733077324"
+    }, 
+    {
+        "latitude": "-15.385795140887753", 
+        "UTM_lat": "0690347", 
+        "ft_facility_code": "1026-0009", 
+        "UTM_long": "8292741", 
+        "longitude": "34.77346213335831"
+    }, 
+    {
+        "latitude": "-15.303164229531745", 
+        "UTM_lat": "0708959", 
+        "ft_facility_code": "1026-0010", 
+        "UTM_long": "8301913", 
+        "longitude": "34.94603653318598"
+    }, 
+    {
+        "latitude": "-15.298253413340554", 
+        "UTM_lat": "0697438", 
+        "ft_facility_code": "1026-0011", 
+        "UTM_long": "8302458", 
+        "longitude": "34.83873934358645"
+    }, 
+    {
+        "latitude": "-15.342235163123746", 
+        "UTM_lat": "0677373", 
+        "ft_facility_code": "1026-0012", 
+        "UTM_long": "8297576", 
+        "longitude": "34.65227798012895"
+    }, 
+    {
+        "latitude": "-16.865521335221548", 
+        "UTM_lat": "0740618", 
+        "ft_facility_code": "1027-0001", 
+        "UTM_long": "8128487", 
+        "longitude": "35.25828638838123"
+    }, 
+    {
+        "latitude": "-16.865521335221548", 
+        "UTM_lat": "0740618", 
+        "ft_facility_code": "1027-0002", 
+        "UTM_long": "8128487", 
+        "longitude": "35.25828638838123"
+    }, 
+    {
+        "latitude": "-16.94233453462665", 
+        "UTM_lat": "0736358", 
+        "ft_facility_code": "1027-0003", 
+        "UTM_long": "8119960", 
+        "longitude": "35.21922425984405"
+    }, 
+    {
+        "latitude": "-17.04281244042644", 
+        "UTM_lat": "0736047", 
+        "ft_facility_code": "1027-0004", 
+        "UTM_long": "8108806", 
+        "longitude": "35.21748537528777"
+    }, 
+    {
+        "latitude": "-16.99387972203142", 
+        "UTM_lat": "0735848", 
+        "ft_facility_code": "1027-0005", 
+        "UTM_long": "8114238", 
+        "longitude": "35.2150419603428"
+    }, 
+    {
+        "latitude": "-17.061215421605322", 
+        "UTM_lat": "0729408", 
+        "ft_facility_code": "1027-0006", 
+        "UTM_long": "8106763", 
+        "longitude": "35.15536033345727"
+    }, 
+    {
+        "latitude": "-17.03347864680542", 
+        "UTM_lat": "0724907", 
+        "ft_facility_code": "1027-0007", 
+        "UTM_long": "8109842", 
+        "longitude": "35.11278172319747"
+    }, 
+    {
+        "latitude": "-16.94533293156903", 
+        "UTM_lat": "0724478", 
+        "ft_facility_code": "1027-0008", 
+        "UTM_long": "8119627", 
+        "longitude": "35.10776967847166"
+    }, 
+    {
+        "latitude": "-16.862043001188507", 
+        "UTM_lat": "0731421", 
+        "ft_facility_code": "1027-0009", 
+        "UTM_long": "8128873", 
+        "longitude": "35.171975517541085"
+    }, 
+    {
+        "latitude": "-16.77366388091596", 
+        "UTM_lat": "0745480", 
+        "ft_facility_code": "1027-0010", 
+        "UTM_long": "8138684", 
+        "longitude": "35.30278322579079"
+    }, 
+    {
+        "latitude": "-16.681372363079998", 
+        "UTM_lat": "0741992", 
+        "ft_facility_code": "1027-0011", 
+        "UTM_long": "8148929", 
+        "longitude": "35.26899119938653"
+    }, 
+    {
+        "latitude": "-16.630410668437374", 
+        "UTM_lat": "0734351", 
+        "ft_facility_code": "1027-0012", 
+        "UTM_long": "8154586", 
+        "longitude": "35.19680520407044"
+    }, 
+    {
+        "latitude": "-16.576341325475052", 
+        "UTM_lat": "0729962", 
+        "ft_facility_code": "1027-0013", 
+        "UTM_long": "8160588", 
+        "longitude": "35.15508186143155"
+    }, 
+    {
+        "latitude": "-16.523145613714753", 
+        "UTM_lat": "0725202", 
+        "ft_facility_code": "1027-0014", 
+        "UTM_long": "8166493", 
+        "longitude": "35.10991774844356"
+    }, 
+    {
+        "latitude": "-16.489344600339503", 
+        "UTM_lat": "0714585", 
+        "ft_facility_code": "1027-0015", 
+        "UTM_long": "8170245", 
+        "longitude": "35.01014354133078"
+    }, 
+    {
+        "latitude": "-16.708827351021053", 
+        "UTM_lat": "0718177", 
+        "ft_facility_code": "1027-0016", 
+        "UTM_long": "8145881", 
+        "longitude": "35.046095341688144"
+    }, 
+    {
+        "latitude": "-16.64025443213714", 
+        "UTM_lat": "0709686", 
+        "ft_facility_code": "1027-0017", 
+        "UTM_long": "8153493", 
+        "longitude": "34.96580029203514"
+    }, 
+    {
+        "latitude": "-16.469941945110218", 
+        "UTM_lat": "0731901", 
+        "ft_facility_code": "1027-0018", 
+        "UTM_long": "8172399", 
+        "longitude": "35.172055323073664"
+    }, 
+    {
+        "latitude": "-16.406135364172535", 
+        "UTM_lat": "0741099", 
+        "ft_facility_code": "1027-0019", 
+        "UTM_long": "8179482", 
+        "longitude": "35.257422563017485"
+    }, 
+    {
+        "latitude": "-16.439591959866696", 
+        "UTM_lat": "0730485", 
+        "ft_facility_code": "1027-0020", 
+        "UTM_long": "8175768", 
+        "longitude": "35.15846415157898"
+    }, 
+    {
+        "latitude": "-16.367586478783892", 
+        "UTM_lat": "0731811", 
+        "ft_facility_code": "1027-0021", 
+        "UTM_long": "8183761", 
+        "longitude": "35.170078265611515"
+    }, 
+    {
+        "latitude": "-16.367964617019588", 
+        "UTM_lat": "0729786", 
+        "ft_facility_code": "1027-0022", 
+        "UTM_long": "8183719", 
+        "longitude": "35.151135256014186"
+    }, 
+    {
+        "latitude": "-16.2852557727488", 
+        "UTM_lat": "0723906", 
+        "ft_facility_code": "1027-0023", 
+        "UTM_long": "8192900", 
+        "longitude": "35.09523689900925"
+    }, 
+    {
+        "latitude": "-16.01732774228941", 
+        "UTM_lat": "0729648", 
+        "ft_facility_code": "1028-0000", 
+        "UTM_long": "8222641", 
+        "longitude": "35.14605402233027"
+    }, 
+    {
+        "latitude": "-16.01733855218685", 
+        "UTM_lat": "0796482", 
+        "ft_facility_code": "1028-0001", 
+        "UTM_long": "8222641", 
+        "longitude": "35.77014869951624"
+    }, 
+    {
+        "latitude": "-15.979221852647905", 
+        "UTM_lat": "0741902", 
+        "ft_facility_code": "1028-0002", 
+        "UTM_long": "8226871", 
+        "longitude": "35.260076747379465"
+    }, 
+    {
+        "latitude": "-16.018337990584126", 
+        "UTM_lat": "0740734", 
+        "ft_facility_code": "1028-0003", 
+        "UTM_long": "8222529", 
+        "longitude": "35.24960740336928"
+    }, 
+    {
+        "latitude": "-16.046977225443", 
+        "UTM_lat": "0742895", 
+        "ft_facility_code": "1028-0004", 
+        "UTM_long": "8219350", 
+        "longitude": "35.27011379695908"
+    }, 
+    {
+        "latitude": "-16.13202907971691", 
+        "UTM_lat": "0743669", 
+        "ft_facility_code": "1028-0005", 
+        "UTM_long": "8209909", 
+        "longitude": "35.278311773804816"
+    }, 
+    {
+        "latitude": "-16.061156706625937", 
+        "UTM_lat": "0740084", 
+        "ft_facility_code": "1028-0006", 
+        "UTM_long": "8217776", 
+        "longitude": "35.24401526866324"
+    }, 
+    {
+        "latitude": "-15.877329568050103", 
+        "UTM_lat": "0722331", 
+        "ft_facility_code": "1028-0007", 
+        "UTM_long": "8238181", 
+        "longitude": "35.07626989403637"
+    }, 
+    {
+        "latitude": "-15.891275791409669", 
+        "UTM_lat": "0727191", 
+        "ft_facility_code": "1028-0008", 
+        "UTM_long": "8236633", 
+        "longitude": "35.121779434600434"
+    }, 
+    {
+        "latitude": "-15.851655398715192", 
+        "UTM_lat": "0733721", 
+        "ft_facility_code": "1028-0009", 
+        "UTM_long": "8241031", 
+        "longitude": "35.18230685698494"
+    }, 
+    {
+        "latitude": "-15.868592384543234", 
+        "UTM_lat": "0736094", 
+        "ft_facility_code": "1028-0010", 
+        "UTM_long": "8239151", 
+        "longitude": "35.20463616589815"
+    }, 
+    {
+        "latitude": "-15.892006503421907", 
+        "UTM_lat": "0736388", 
+        "ft_facility_code": "1028-0011", 
+        "UTM_long": "8236552", 
+        "longitude": "35.20763485241682"
+    }, 
+    {
+        "latitude": "-15.926933542185074", 
+        "UTM_lat": "0733412", 
+        "ft_facility_code": "1028-0012", 
+        "UTM_long": "8232675", 
+        "longitude": "35.18023256901934"
+    }, 
+    {
+        "latitude": "-16.025533993134164", 
+        "UTM_lat": "0722025", 
+        "ft_facility_code": "1028-0013", 
+        "UTM_long": "8221730", 
+        "longitude": "35.07493631016873"
+    }, 
+    {
+        "latitude": "-15.988787200946227", 
+        "UTM_lat": "0723534", 
+        "ft_facility_code": "1028-0014", 
+        "UTM_long": "8225809", 
+        "longitude": "35.08865032927725"
+    }, 
+    {
+        "latitude": "-15.946391913627847", 
+        "UTM_lat": "0726356", 
+        "ft_facility_code": "1028-0015", 
+        "UTM_long": "8230515", 
+        "longitude": "35.11456100601844"
+    }, 
+    {
+        "latitude": "-6.938713532990408", 
+        "UTM_lat": "0720932", 
+        "ft_facility_code": "1028-0016", 
+        "UTM_long": "9230155", 
+        "longitude": "34.99959668753691"
+    }, 
+    {
+        "latitude": "-16.068740365532328", 
+        "UTM_lat": "0724333", 
+        "ft_facility_code": "1028-0017", 
+        "UTM_long": "8216934", 
+        "longitude": "35.0969469491273"
+    }, 
+    {
+        "latitude": "-16.047290219849938", 
+        "UTM_lat": "0721912", 
+        "ft_facility_code": "1028-0018", 
+        "UTM_long": "8219315", 
+        "longitude": "35.07410553289767"
+    }, 
+    {
+        "latitude": "-16.07505537035288", 
+        "UTM_lat": "0722847", 
+        "ft_facility_code": "1028-0019", 
+        "UTM_long": "8216233", 
+        "longitude": "35.08312892936184"
+    }, 
+    {
+        "latitude": "-16.088379484779725", 
+        "UTM_lat": "0724330", 
+        "ft_facility_code": "1028-0020", 
+        "UTM_long": "8214754", 
+        "longitude": "35.09712463195366"
+    }, 
+    {
+        "latitude": "-16.143188787275555", 
+        "UTM_lat": "0725039", 
+        "ft_facility_code": "1028-0021", 
+        "UTM_long": "8208670", 
+        "longitude": "35.10432685180051"
+    }, 
+    {
+        "latitude": "-16.119784129861447", 
+        "UTM_lat": "0725542", 
+        "ft_facility_code": "1028-0022", 
+        "UTM_long": "8211268", 
+        "longitude": "35.1087806799413"
+    }, 
+    {
+        "latitude": "-16.166314518901945", 
+        "UTM_lat": "0728229", 
+        "ft_facility_code": "1028-0023", 
+        "UTM_long": "8206103", 
+        "longitude": "35.13438928128977"
+    }, 
+    {
+        "latitude": "-16.130622574563855", 
+        "UTM_lat": "0734181", 
+        "ft_facility_code": "1028-0024", 
+        "UTM_long": "8210065", 
+        "longitude": "35.18963100691525"
+    }, 
+    {
+        "latitude": "-16.18109795488597", 
+        "UTM_lat": "0729469", 
+        "ft_facility_code": "1028-0025", 
+        "UTM_long": "8204462", 
+        "longitude": "35.14613931189312"
+    }, 
+    {
+        "latitude": "-16.2883829812521", 
+        "UTM_lat": "0735090", 
+        "ft_facility_code": "1028-0026", 
+        "UTM_long": "8192553", 
+        "longitude": "35.19987338477301"
+    }, 
+    {
+        "latitude": "-16.32172434538934", 
+        "UTM_lat": "0738275", 
+        "ft_facility_code": "1028-0027", 
+        "UTM_long": "8188852", 
+        "longitude": "35.23003790952323"
+    }, 
+    {
+        "latitude": "-16.27370869085529", 
+        "UTM_lat": "0741804", 
+        "ft_facility_code": "1028-0028", 
+        "UTM_long": "8194182", 
+        "longitude": "35.262497218463054"
+    }, 
+    {
+        "latitude": "-16.00511035574533", 
+        "UTM_lat": "0714610", 
+        "ft_facility_code": "1028-0029", 
+        "UTM_long": "8223997", 
+        "longitude": "35.00546676453093"
+    }, 
+    {
+        "latitude": "-15.888328906656104", 
+        "UTM_lat": "0716840", 
+        "ft_facility_code": "1028-0030", 
+        "UTM_long": "8236960", 
+        "longitude": "35.02512461080778"
+    }, 
+    {
+        "latitude": "-16.049712825676192", 
+        "UTM_lat": "0713539", 
+        "ft_facility_code": "1028-0031", 
+        "UTM_long": "8219046", 
+        "longitude": "34.995906136998656"
+    }, 
+    {
+        "latitude": "-15.976462061731523", 
+        "UTM_lat": "0711662", 
+        "ft_facility_code": "1028-0032", 
+        "UTM_long": "8227177", 
+        "longitude": "34.97764908660278"
+    }, 
+    {
+        "latitude": "-15.966048342269367", 
+        "UTM_lat": "0717335", 
+        "ft_facility_code": "1028-0033", 
+        "UTM_long": "8228333", 
+        "longitude": "35.03052578735471"
+    }, 
+    {
+        "latitude": "-15.940436209923524", 
+        "UTM_lat": "0717345", 
+        "ft_facility_code": "1028-0034", 
+        "UTM_long": "8231176", 
+        "longitude": "35.03036152961615"
+    }, 
+    {
+        "latitude": "-15.815492984821237", 
+        "UTM_lat": "0727514", 
+        "ft_facility_code": "1028-0035", 
+        "UTM_long": "8245045", 
+        "longitude": "35.124002233783095"
+    }, 
+    {
+        "latitude": "-16.19980025028275", 
+        "UTM_lat": "0731484", 
+        "ft_facility_code": "1028-0036", 
+        "UTM_long": "8202386", 
+        "longitude": "35.16517892153614"
+    }, 
+    {
+        "latitude": "-16.27013151937819", 
+        "UTM_lat": "0735762", 
+        "ft_facility_code": "1028-0037", 
+        "UTM_long": "8194579", 
+        "longitude": "35.20595456272553"
+    }, 
+    {
+        "latitude": "-16.062930162632547", 
+        "UTM_lat": "0728826", 
+        "ft_facility_code": "1028-0038", 
+        "UTM_long": "8217579", 
+        "longitude": "35.13886221760334"
+    }, 
+    {
+        "latitude": "-16.000139012850045", 
+        "UTM_lat": "0730402", 
+        "ft_facility_code": "1028-0039", 
+        "UTM_long": "8224549", 
+        "longitude": "35.152912552338016"
+    }, 
+    {
+        "latitude": "-16.09412802987191", 
+        "UTM_lat": "0733378", 
+        "ft_facility_code": "1028-0040", 
+        "UTM_long": "8214116", 
+        "longitude": "35.18172816664"
+    }, 
+    {
+        "latitude": "-16.187044323688074", 
+        "UTM_lat": "0735053", 
+        "ft_facility_code": "1028-0041", 
+        "UTM_long": "8203802", 
+        "longitude": "35.19840271706788"
+    }, 
+    {
+        "latitude": "-16.157334831607486", 
+        "UTM_lat": "0745347", 
+        "ft_facility_code": "1028-0042", 
+        "UTM_long": "8207100", 
+        "longitude": "35.29428326094572"
+    }, 
+    {
+        "latitude": "-16.211999690519583", 
+        "UTM_lat": "0745305", 
+        "ft_facility_code": "1028-0043", 
+        "UTM_long": "8201032", 
+        "longitude": "35.29452142666404"
+    }, 
+    {
+        "latitude": "-16.225304228160745", 
+        "UTM_lat": "0734704", 
+        "ft_facility_code": "1028-0044", 
+        "UTM_long": "8199555", 
+        "longitude": "35.19556335234117"
+    }
+]
